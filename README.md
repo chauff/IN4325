@@ -77,19 +77,19 @@ These components translate into the following setup:
 2. The **applied NLP project** contributes 45% to the final grade (30% project, 15% liteature survey)
 3. Teh **peer reviews** contribute 10% to the final grade.
 
-## Important dates
+## Course schedule
+
+| Week | Thursday lecture                  | Friday lecture                    | Group project          | Peer reviews |
+|------|-----------------------------------|-----------------------------------|------------------------|--------------|
+| 3.1  | IR evaluation (C. Hauff)          | Retrieval models (C. Hauff)       |                        | 1            |
+| 3.2  | IR indexing (C. Hauff)            | Query refinement (F. Moraes)      |                        | 2            |
+| 3.3  | Interactive IR (C. Hauff)         | Personalization (C. Hauff)        |                        | 2            |
+| 3.4  | Learning to rank (C. Hauff)       | Neural IR (A. Camara)             |                        | 2            |
+| 3.5  | NLP introduction (N. Tintarev)    | POS (N. Tintarev)                 | core IR interviews     | 1            |
+| 3.6  | Semantic similarity (N. Tintarev) | Summarization (N. Tintarev)       |                        | 2            |
+| 3.7  | Sentiment analysis (N. Tintarev)  | Language generation (N. Tintarev) |                        | 2            |
+| 3.8  | AI ethics (N. Tintarev)           | Word embeddings (N. Tintarev)     |                        | 2            |
+| 3.9  |                                   |                                   |                        |              |
+| 3.10 |                                   |                                   | applied NLP interviews |              |
 
 
-
-
-
-
-
-
-
-# IN4325
-MSc Information Retrieval, TU Delft
-
-https://paperswithcode.com/area/nlp
-
-https://medium.com/airbnb-engineering/machine-learning-powered-search-ranking-of-airbnb-experiences-110b4b1a0789
