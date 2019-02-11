@@ -81,15 +81,15 @@ These components translate into the following setup:
 
 | Week | Thursday lecture                  | Friday lecture                    | Group project          | Peer reviews |
 |------|-----------------------------------|-----------------------------------|------------------------|--------------|
-| 3.1  | IR evaluation (C. Hauff)          | Retrieval models (C. Hauff)       |                        | 1            |
-| 3.2  | IR indexing (C. Hauff)            | Query refinement (F. Moraes)      |                        | 2            |
-| 3.3  | Interactive IR (C. Hauff)         | Personalization (C. Hauff)        |                        | 2            |
-| 3.4  | Learning to rank (C. Hauff)       | Neural IR (A. Camara)             |                        | 2            |
-| 3.5  | NLP introduction (N. Tintarev)    | POS (N. Tintarev)                 | core IR interviews     | 1            |
-| 3.6  | Semantic similarity (N. Tintarev) | Summarization (N. Tintarev)       |                        | 2            |
-| 3.7  | Sentiment analysis (N. Tintarev)  | Language generation (N. Tintarev) |                        | 2            |
-| 3.8  | AI ethics (N. Tintarev)           | Word embeddings (N. Tintarev)     |                        | 2            |
+| 3.1  | IR evaluation (EWI hall Pi, C. Hauff)          | Retrieval models (EWI hall Pi, C. Hauff)       |                        | 1            |
+| 3.2  | IR indexing (Aula CZ C, C. Hauff)            | Query refinement (EWI hall Pi, F. Moraes)      |                        | 2            |
+| 3.3  | Interactive IR (Aula CZ C, C. Hauff)         | Personalization (EWI hall Pi, C. Hauff)        |                        | 2            |
+| 3.4  | Learning to rank (Aula CZ C, C. Hauff)       | Neural IR (DUWO CZ, A. Camara)             |                        | 2            |
+| 3.5  | NLP introduction (Aula CZ C, N. Tintarev)    | POS (3mE-CZ B, N. Tintarev)                 | core IR interviews     | 1            |
+| 3.6  | Semantic similarity (Aula CZ C, N. Tintarev) | Summarization (3mE-CZ B, N. Tintarev)       |                        | 2            |
+| 3.7  | Sentiment analysis (Aula CZ C, N. Tintarev)  | Language generation (3mE-CZ B, N. Tintarev) |                        | 2            |
+| 3.8  | AI ethics (N. Tintarev)           | Word embeddings (3mE-CZ B, N. Tintarev)     |                        | 2            |
 | 3.9  |                                   |                                   |                        |              |
 | 3.10 |                                   |                                   | applied NLP interviews |              |
 
-
+**Check your timetable for the location of the lectures, we are not always in the old EWI building!**
