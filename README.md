@@ -79,6 +79,9 @@ These components translate into the following setup:
 
 ## Course schedule
 
+*Note: the lecture locations have been taken from [TUD's timetable site][https://mytimetable.tudelft.nl/] on February 11, 2019.*
+**Check your timetable for the latest location of each lecture, we are getting to know the campus in this course!**
+
 | Week | Thursday lecture                  | Friday lecture                    | Group project          | Peer reviews |
 |------|-----------------------------------|-----------------------------------|------------------------|--------------|
 | 3.1  | IR evaluation (EWI hall Pi, C. Hauff)          | Retrieval models (EWI hall Pi, C. Hauff)       |                        | 1            |
@@ -92,4 +95,3 @@ These components translate into the following setup:
 | 3.9  |                                   |                                   |                        |              |
 | 3.10 |                                   |                                   | applied NLP interviews |              |
 
-**Check your timetable for the location of the lectures, we are not always in the old EWI building!**
