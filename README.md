@@ -1,6 +1,17 @@
-# IN4325
+# IN4325 <!-- omit in toc -->
 
 This is an overview of the **Information Retrieval** (IR) course running in 2018/19 at TU Delft (Q3).
+
+## Table of contents <!-- omit in toc -->
+- [Course description](#course-description)
+- [Course team](#course-team)
+- [ECs](#ecs)
+- [Learning objectives](#learning-objectives)
+- [Assessment](#assessment)
+  - [Group projects](#group-projects)
+  - [Peer reviews](#peer-reviews)
+- [Final grade](#final-grade)
+- [Course schedule](#course-schedule)
 
 ## Course description
 
@@ -51,11 +62,13 @@ This course has no final exam, instead the grade is largely determined through t
 
 ### Group projects
 
-The group projects follow each other. During the first 5 course weeks, the group tackles the core IR project (reproducing a research paper essentially), during the second 5 weeks of the course the group tackles the applied NLP project (which can but does not have to be a follow-up of the IR project).
+The group projects follow each other. During the first 5 course weeks, the group tackles the [core IR project](projectCoreIR.md) (reproducing a research paper essentially), during the second 5 weeks of the course the group tackles the applied NLP project (which can but does not have to be a follow-up of the IR project).
 
 The group projects are tackled in teams of 2-3 students (this is a *tentative* number and subject to change, depending on the number of students signing up for the course).
 
 At the end of each project phase we will conduct a short interview (10-15 minutes per group) about the group project and its connection to the course content. Based on the project report and the interview, each member of the group receives a grade. We have two project phases, so each group will have one interview in week 5 (*tentatively*) and week 10 (*tentatively*).
+
+You are expected to work within the same group for both project parts.
 
 ### Peer reviews
 
@@ -65,17 +78,13 @@ Each peer review is graded as either (*excellent*, *sufficient* or *insufficient
 
 ## Final grade
 
-In line with the study guide, the final grade consists of the following components:
+1. The **core IR project** contributes 45% to the final grade.
 
-- 60% group project (group work, individually graded)
-- 30% literature survey (group work, individually graded)
-- 10% peer reviews (individual work)
+2. The **applied NLP project** contributes 45% to the final grade.
+   
+3. The **peer reviews** contribute 10% to the final grade. 
 
-These components translate into the following setup:
-
-1. The **core IR project** contributes 45% to the final grade (30% project, 15% literature survey)
-2. The **applied NLP project** contributes 45% to the final grade (30% project, 15% liteature survey)
-3. Teh **peer reviews** contribute 10% to the final grade.
+In order to pass this course, you need (1) to receive a 5.8 grade or higher, (2) complete both projects with at least a grade of 5.0 and (3) receive a *sufficient* for at least 9 of the 14 peer reviews.
 
 ## Course schedule
 
@@ -84,13 +93,13 @@ The lecture locations have been taken from [TUD's timetable site](https://mytime
 
 | Week | Thursday lecture                  | Friday lecture                    | Group project          | Peer reviews |
 |------|-----------------------------------|-----------------------------------|------------------------|--------------|
-| 3.1  | IR evaluation (EWI hall Pi, C. Hauff)          | Retrieval models (EWI hall Pi, C. Hauff)       |                        | 1            |
-| 3.2  | IR indexing (Aula CZ C, C. Hauff)            | Query refinement (EWI hall Pi, F. Moraes)      |                        | 2            |
+| 3.1  | IR evaluation (EWI hall Pi, C. Hauff)          | Retrieval models (EWI hall Pi, C. Hauff)       |   Project group settled                     | 1            |
+| 3.2  | IR indexing (Aula CZ C, C. Hauff)            | Query refinement (EWI hall Pi, F. Moraes)      |   Core IR project settled                     | 2            |
 | 3.3  | Interactive IR (Aula CZ C, C. Hauff)         | Personalization (EWI hall Pi, C. Hauff)        |                        | 2            |
 | 3.4  | Learning to rank (Aula CZ C, C. Hauff)       | Neural IR (DUWO CZ, A. Camara)             |                        | 2            |
-| 3.5  | NLP introduction (Aula CZ C, N. Tintarev)    | POS (3mE-CZ B, N. Tintarev)                 | core IR interviews     | 1            |
-| 3.6  | Semantic similarity (Aula CZ C, N. Tintarev) | Summarization (3mE-CZ B, N. Tintarev)       |                        | 2            |
-| 3.7  | Sentiment analysis (Aula CZ C, N. Tintarev)  | Language generation (3mE-CZ B, N. Tintarev) |                        | 2            |
+| 3.5  | NLP introduction (Aula CZ C, N. Tintarev)    | Text analysis (3mE-CZ B, N. Tintarev)                 | core IR report due / interviews     | 1            |
+| 3.6  | Semantics (Aula CZ C, N. Tintarev) | Evaluation NLP (3mE-CZ B, N. Tintarev)       |                        | 2            |
+| 3.7  | ML for NLP (Aula CZ C, N. Tintarev)  | Language generation (3mE-CZ B, N. Tintarev) |                        | 2            |
 | 3.8  | AI ethics (??, N. Tintarev)           | Word embeddings (3mE-CZ B, N. Tintarev)     |                        | 2            |
 | 3.9  |                                   |                                   |                        |              |
 | 3.10 |                                   |                                   | applied NLP interviews |              |
