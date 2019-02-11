@@ -79,7 +79,7 @@ These components translate into the following setup:
 
 ## Course schedule
 
-*Note: the lecture locations have been taken from [TUD's timetable site][https://mytimetable.tudelft.nl/] on February 11, 2019.*
+The lecture locations have been taken from [TUD's timetable site](https://mytimetable.tudelft.nl/) on February 11, 2019.
 **Check your timetable for the latest location of each lecture, we are getting to know the campus in this course!**
 
 | Week | Thursday lecture                  | Friday lecture                    | Group project          | Peer reviews |
@@ -91,7 +91,7 @@ These components translate into the following setup:
 | 3.5  | NLP introduction (Aula CZ C, N. Tintarev)    | POS (3mE-CZ B, N. Tintarev)                 | core IR interviews     | 1            |
 | 3.6  | Semantic similarity (Aula CZ C, N. Tintarev) | Summarization (3mE-CZ B, N. Tintarev)       |                        | 2            |
 | 3.7  | Sentiment analysis (Aula CZ C, N. Tintarev)  | Language generation (3mE-CZ B, N. Tintarev) |                        | 2            |
-| 3.8  | AI ethics (N. Tintarev)           | Word embeddings (3mE-CZ B, N. Tintarev)     |                        | 2            |
+| 3.8  | AI ethics (??, N. Tintarev)           | Word embeddings (3mE-CZ B, N. Tintarev)     |                        | 2            |
 | 3.9  |                                   |                                   |                        |              |
 | 3.10 |                                   |                                   | applied NLP interviews |              |
 
