@@ -11,6 +11,7 @@ This is an overview of the **Information Retrieval** (IR) course running in 2018
   - [Group projects](#group-projects)
   - [Peer reviews](#peer-reviews)
 - [Final grade](#final-grade)
+- [Weekly support hours](#weekly-support-hours)
 - [Course schedule](#course-schedule)
 
 ## Course description
@@ -86,6 +87,13 @@ Each peer review is graded as either (*excellent*, *sufficient* or *insufficient
 
 In order to pass this course, you need (1) to receive a 5.8 grade or higher, (2) complete both projects with at least a grade of 5.0 and (3) receive a *sufficient* for at least 9 of the 14 peer reviews.
 
+## Weekly support hours
+
+We do not have fixed lab hours. Due to the heavy emphasis on project work in this course, we offer weekly support hours: 
+
+- **core IR**: during weeks 3.2 to 3.5 between 9am and 11:30am three staff members will be available to help groups with their IR project. We will release a Doodle to allow groups to sign up for 15 minute timeslots.
+- **applied NLP**: tbd.
+
 ## Course schedule
 
 The lecture locations have been taken from [TUD's timetable site](https://mytimetable.tudelft.nl/) on February 11, 2019.
@@ -93,14 +101,14 @@ The lecture locations have been taken from [TUD's timetable site](https://mytime
 
 | Week | Thursday lecture                  | Friday lecture                    | Group project          | Peer reviews |
 |------|-----------------------------------|-----------------------------------|------------------------|--------------|
-| 3.1  | IR evaluation (EWI hall Pi, C. Hauff)          | Retrieval models (EWI hall Pi, C. Hauff)       |   Project group settled                     | 1            |
-| 3.2  | IR indexing (Aula CZ C, C. Hauff)            | Query refinement (EWI hall Pi, F. Moraes)      |   Core IR project settled                     | 2            |
-| 3.3  | Interactive IR (Aula CZ C, C. Hauff)         | Personalization (EWI hall Pi, C. Hauff)        |                        | 2            |
-| 3.4  | Learning to rank (Aula CZ C, C. Hauff)       | Neural IR (DUWO CZ, A. Camara)             |                        | 2            |
-| 3.5  | NLP introduction (Aula CZ C, N. Tintarev)    | Text analysis (3mE-CZ B, N. Tintarev)                 | core IR report due / interviews     | 1            |
-| 3.6  | Semantics (Aula CZ C, N. Tintarev) | Evaluation NLP (3mE-CZ B, N. Tintarev)       |                        | 2            |
-| 3.7  | ML for NLP (Aula CZ C, N. Tintarev)  | Language generation (3mE-CZ B, N. Tintarev) |                        | 2            |
-| 3.8  | AI ethics (??, N. Tintarev)           | Word embeddings (3mE-CZ B, N. Tintarev)     |                        | 2            |
+| 3.1  | IR evaluation (`EWI hall Pi`, C. Hauff)          | Retrieval models (`EWI hall Pi`, C. Hauff)       |   Project group settled                     | 1            |
+| 3.2  | IR indexing (`Aula CZ C`, C. Hauff)            | Query refinement (`EWI hall Pi`, F. Moraes)      |   Core IR project settled                     | 2            |
+| 3.3  | Interactive IR (`Aula CZ C`, C. Hauff)         | Personalization (`EWI hall Pi`, C. Hauff)        |                        | 2            |
+| 3.4  | Learning to rank (`Aula CZ C`, C. Hauff)       | Neural IR (`DUWO CZ`, A. Camara)             |                        | 2            |
+| 3.5  | NLP introduction (`Aula CZ C`, N. Tintarev)    | Text analysis (`3mE-CZ B`, N. Tintarev)                 | core IR report due / interviews     | 1            |
+| 3.6  | Semantics (`Aula CZ `C, N. Tintarev) | Evaluation NLP (`3mE-CZ B`, N. Tintarev)       |                        | 2            |
+| 3.7  | ML for NLP (`Aula CZ C`, N. Tintarev)  | Language generation (`3mE-CZ B`, N. Tintarev) |                        | 2            |
+| 3.8  | AI ethics (??, N. Tintarev)           | Word embeddings (`3mE-CZ B`, N. Tintarev)     |                        | 2            |
 | 3.9  |                                   |                                   |                        |              |
 | 3.10 |                                   |                                   | applied NLP interviews |              |
 
