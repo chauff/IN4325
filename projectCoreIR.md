@@ -45,3 +45,7 @@ Based on prior experience we put the following restrictions on your choice of pr
 - The project focuses on **textual data** (not video/audio/genomics/.... data).
 
 We have a first deadline in week 3.2, so you will get early feedback on the suitability of your proposal.
+
+## Report
+
+Format, etc.

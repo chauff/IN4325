@@ -13,6 +13,7 @@ This is an overview of the **Information Retrieval** (IR) course running in 2018
 - [Final grade](#final-grade)
 - [Weekly support hours](#weekly-support-hours)
 - [Course schedule](#course-schedule)
+- [Deadlines](#deadlines)
 
 ## Course description
 
@@ -28,14 +29,15 @@ The split (core IR / applied NLP) will be made halfway through the course: the f
 
 This distribution also fits the lecturer team of this course: [Associate Prof. Claudia Hauff](https://chauff.github.io/) teaches the core IR lectures, while [Assistant Prof. Nava Tintarov](http://navatintarev.com/) teaches the applied NLP lectures. The course team is completed by a number of PhDs and Postdocs (all from the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who takes care of the peer reviews:
 
-- Felipe Moraes (PhD student)
+- Oana Inel (Postdoc)
 - Dimitrios Bountouridis (Postdoc)
 - Gustavo Penha (PhD student)
 - Arthur Camara (PhD student)
-- Nirmal Roy (TA).
+- Shabnam Najafian (PhD student)
+- Felipe Moraes (PhD student)
+- Nirmal Roy (TA)
 
 Claudia and Nava are the responsible instructors of this course and can jointly be reached at **in4325-ewi@tudelft.nl**.
-
 
 ## ECs
 
@@ -106,9 +108,19 @@ The lecture locations have been taken from [TUD's timetable site](https://mytime
 | 3.3  | Interactive IR (`Aula CZ C`, C. Hauff)         | Personalization (`EWI hall Pi`, C. Hauff)        |                        | 2            |
 | 3.4  | Learning to rank (`Aula CZ C`, C. Hauff)       | Neural IR (`DUWO CZ`, A. Camara)             |                        | 2            |
 | 3.5  | NLP introduction (`Aula CZ C`, N. Tintarev)    | Text analysis (`3mE-CZ B`, N. Tintarev)                 | core IR report due / interviews     | 1            |
-| 3.6  | Semantics (`Aula CZ `C, N. Tintarev) | Evaluation NLP (`3mE-CZ B`, N. Tintarev)       |                        | 2            |
+| 3.6  | Semantics (`Aula CZ C`, N. Tintarev) | Evaluation NLP (`3mE-CZ B`, N. Tintarev)       |                        | 2            |
 | 3.7  | ML for NLP (`Aula CZ C`, N. Tintarev)  | Language generation (`3mE-CZ B`, N. Tintarev) |                        | 2            |
 | 3.8  | AI ethics (??, N. Tintarev)           | Word embeddings (`3mE-CZ B`, N. Tintarev)     |                        | 2            |
 | 3.9  |                                   |                                   |                        |              |
 | 3.10 |                                   |                                   | applied NLP interviews |              |
+
+## Deadlines
+
+This course has several deadlines, here we list them all in one place. Every deadlines requires a submission on Brightspace. Deadlines cannot be extended.
+
+- *
+3.2
+3.3
+3.4
+3.5
 
