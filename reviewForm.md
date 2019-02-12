@@ -12,7 +12,6 @@ Minimum requirements for achieving a *sufficient*:
 Submit your review either in plain text or PDF format on Brightspace.
 
 ## Template
----
 
 1. **Student information** State your full name and student number.
 
