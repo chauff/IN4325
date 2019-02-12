@@ -93,7 +93,7 @@ In order to pass this course, you need (1) to receive a 5.8 grade or higher, (2)
 
 We do not have fixed lab hours. Due to the heavy emphasis on project work in this course, we offer weekly support hours: 
 
-- **core IR**: during weeks 3.2 to 3.5 between 9am and 11:30am three staff members will be available to help groups with their IR project. We will release a Doodle to allow groups to sign up for 15 minute timeslots.
+- **core IR**: during weeks 3.2 to 3.5 between 9am and 11:30am at least two staff members will be available to help groups with their IR project (maybe more, depending on the need). We will release a Doodle to allow groups to sign up for 15 minute timeslots.
 - **applied NLP**: tbd.
 
 ## Course schedule
