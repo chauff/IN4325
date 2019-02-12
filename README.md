@@ -124,8 +124,8 @@ The lecture locations have been taken from [TUD's timetable site](https://mytime
 | 3.6  | Semantics (`Aula CZ C`, N. Tintarev) | Evaluation NLP (`3mE-CZ B`, N. Tintarev)       |      Applied NLP project settled                  | 2            |
 | 3.7  | ML for NLP (`Aula CZ C`, N. Tintarev)  | Language generation (`3mE-CZ B`, N. Tintarev) |                        | 2            |
 | 3.8  | NLP annotations (`Aula CZ C`, O. Inel)           | Word embeddings (`CT-CZ E`, N. Tintarev)     |   Intermediate applied NLP report due                     | 2            |
-| 3.9  |                                   |                                   |                        |              |
-| 3.10 |                                   |                                   | applied NLP report due/interviews |              |
+| 3.9  |                                   |                                   |               applied NLP report due/interviews         |              |
+| 3.10 |                                   |                                   |  |              |
 
 ## Deadlines
 
