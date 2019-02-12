@@ -89,4 +89,4 @@ The final project report is graded in combination with the project interview. Th
 
 ## Interviews
 
-The 15 minute interview per group will be scheduled on either **March 14** or **March 15**. A Doodle will be released to pick your interview timeslot.
+The 15 minute interviews per group will be scheduled on **March 14** and **March 15**. 
