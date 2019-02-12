@@ -23,9 +23,7 @@ Replication can be a lot of fun and yes, [it sometimes looks like this](https://
 
 *These papers have different lengths (some are 4 pages, some are 10+ pages). While it is feasible to attempt to reproduce a 4 page paper, for the 10+ page papers, you have to make a selection of the paper aspects to reproduce; use the proposal to argue for your decisions.*
 
-- [QWERTY: The Effects of Typing on Web Search Behavior](http://marksanderson.org/publications/my_papers/CHIIR2018-Kevin.pdf)
-- 
-
+*To be completed.*
 
 ## 2. Investigating a research idea of your own choice
 
