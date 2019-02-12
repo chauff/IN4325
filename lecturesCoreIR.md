@@ -4,34 +4,34 @@ The following eight sections contain the materials for the eight core IR lecture
 
 ## Table of contents <!-- omit in toc -->
 
-- [Lecture 1: evaluation](#lecture-1-evaluation)
+- [Lecture 1: evaluation (week 3.1)](#lecture-1-evaluation-week-31)
   - [Recommended readings](#recommended-readings)
   - [Resources](#resources)
-- [Lecture 2: classic retrieval models](#lecture-2-classic-retrieval-models)
+- [Lecture 2: classic retrieval models (week 3.1)](#lecture-2-classic-retrieval-models-week-31)
   - [Recommended readings](#recommended-readings)
   - [Resources](#resources)
   - [:warning: Paper P1 to review](#warning-paper-p1-to-review)
-- [Lecture 3: indexing](#lecture-3-indexing)
+- [Lecture 3: indexing (week 3.2)](#lecture-3-indexing-week-32)
   - [Recommended readings](#recommended-readings)
   - [:warning: Paper P2 to review](#warning-paper-p2-to-review)
-- [Lecture 4: query refinement](#lecture-4-query-refinement)
+- [Lecture 4: query refinement (week 3.2)](#lecture-4-query-refinement-week-32)
   - [Recommended readings](#recommended-readings)
   - [:warning: Paper P3 to review](#warning-paper-p3-to-review)
-- [Lecture 5: interactive IR](#lecture-5-interactive-ir)
+- [Lecture 5: interactive IR (week 3.3)](#lecture-5-interactive-ir-week-33)
   - [Recommended readings](#recommended-readings)
   - [:warning: Paper P4 to review](#warning-paper-p4-to-review)
-- [Lecture 6: personalization](#lecture-6-personalization)
+- [Lecture 6: personalization (week 3.3)](#lecture-6-personalization-week-33)
   - [Recommended readings](#recommended-readings)
   - [:warning: Paper P5 to review](#warning-paper-p5-to-review)
-- [Lecture 7: learning to rank](#lecture-7-learning-to-rank)
+- [Lecture 7: learning to rank (week 3.4)](#lecture-7-learning-to-rank-week-34)
   - [Recommended readings](#recommended-readings)
   - [:warning: Paper P6 to review](#warning-paper-p6-to-review)
-- [Lecture 8: neural IR](#lecture-8-neural-ir)
+- [Lecture 8: neural IR (week 3.4)](#lecture-8-neural-ir-week-34)
   - [Recommended readings](#recommended-readings)
   - [Resources](#resources)
   - [:warning: Paper P7 to review](#warning-paper-p7-to-review)
 
-## Lecture 1: evaluation
+## Lecture 1: evaluation (week 3.1)
 
 This lecture covers the basics of evaluation, a vital topic in IR - a research field driven forward by empirical work. For the core IR project, you need to have detailed knowledge of at least a small number of metrics, why they are used for a specific task, how to test whether treatment and control (or baseline vs. experimental approach) differ significantly, etc.
 
@@ -51,7 +51,7 @@ Chapter 8 of Croft's et al. Search Engines - Information Retrieval in Practice b
 - [trec_eval](https://github.com/usnistgov/trec_eval).
 
 
-## Lecture 2: classic retrieval models
+## Lecture 2: classic retrieval models (week 3.1)
 
 This lecture covers the most well-known retrieval models in IR - starting from the boolean model and ending at the language modeling approach to IR. More advanced retrieval models (learning to rank and neural approaches to IR) will be covered in lectures 7 and 8 of this course.
 
@@ -79,7 +79,7 @@ A number of open-source retrieval toolkits exist. They have different strengths 
 [The influence of basic tokenization on biomedical document retrieval](https://www.researchgate.net/profile/Wessel_Kraaij/publication/221299722_The_influence_of_basic_tokenization_on_biomedical_document_retrieval/links/0912f508eb1efc3828000000/The-influence-of-basic-tokenization-on-biomedical-document-retrieval.pdf).
 
 
-## Lecture 3: indexing
+## Lecture 3: indexing (week 3.2)
 
 This lecture covers the basics of IR indexing - an area where it is worthwhile to brush up on your existing data structure knowledge.
 
@@ -96,7 +96,7 @@ The slides  are [online](https://docs.google.com/presentation/d/e/2PACX-1vTeCcr8
 
 
 
-## Lecture 4: query refinement
+## Lecture 4: query refinement (week 3.2)
 
 This lecture covers a number of query refinement techniques, a hot research area, especially in web search where users typically do not enter more than two or three terms to express their information need. 
 
@@ -115,7 +115,7 @@ The slides  are [online](https://docs.google.com/presentation/d/e/2PACX-1vT4OiTB
 
 [Document Reordering is Good, Especially for e-Commerce](http://www.cs.otago.ac.nz/homepages/andrew/papers/2017-7.pdf).
 
-## Lecture 5: interactive IR
+## Lecture 5: interactive IR (week 3.3)
 
 This lecture covers interactive information retrieval, in particular the modeling of the search process. The lecture shows off our move towards predictive (mathematical) models and their usage to generate hypotheses which are then (in)validated in user experiments.
 
@@ -130,7 +130,7 @@ The slides  are [online](https://docs.google.com/presentation/d/e/2PACX-1vQj-MAd
 [Incorporating Query Expansion and Quality Indicators in Searching Microblog Posts](https://pdfs.semanticscholar.org/bfbd/8b113cf0ba2eb7301efbfbc51df2ea74bbb8.pdf).
 
 
-## Lecture 6: personalization
+## Lecture 6: personalization (week 3.3)
 
 This lecture is about personalization in search, with a brief glimpse at the web at the very end. 
 
@@ -147,7 +147,7 @@ However, it is worth pointing out a [survey on Adversarial Web Search](https://w
 [Two Scrolls or One Click: A Cost Model for Browsing Search Results](http://eprints.qut.edu.au/95667/1/ecir2016cost_model.pdf).
 
 
-## Lecture 7: learning to rank
+## Lecture 7: learning to rank (week 3.4)
 
 The lecture is concerned with learning to rank for IR (also known as LTR or L2R), a machine-learning approach towards the document ranking problem that can be applied to many other types of ranking problems as well.
 
@@ -162,7 +162,7 @@ The slides  are [online](https://docs.google.com/presentation/d/e/2PACX-1vTwo37w
 [Enhancing Patent Retrieval by Citation Analysis](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.96.6135&rep=rep1&type=pdf).
 
 
-## Lecture 8: neural IR
+## Lecture 8: neural IR (week 3.4)
 
 This lecture provides an overview of recent developments in deep learning as they apply to IR. It is self-contained and briefly introduces the basics of neural networks before focusing on IR-specific developments.
 

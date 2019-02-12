@@ -8,8 +8,8 @@ This is an overview of the **Information Retrieval** (IR) course running in 2018
 - [ECs](#ecs)
 - [Learning objectives](#learning-objectives)
 - [Assessment](#assessment)
-  - [Group projects](#group-projects)
-  - [Weekly reviews](#weekly-reviews)
+    - [Group projects](#group-projects)
+    - [Weekly reviews](#weekly-reviews)
 - [Final grade](#final-grade)
 - [:hourglass: Weekly support hours](#hourglass-weekly-support-hours)
 - [:clock130: Course schedule](#clock130-course-schedule)
@@ -99,7 +99,7 @@ We do not have fixed lab hours. Due to the heavy emphasis on project work in thi
 ## :clock130: Course schedule
 
 The lecture locations have been taken from [TUD's timetable site](https://mytimetable.tudelft.nl/) on February 11, 2019.
-**Check your timetable for the latest location of each lecture, we are getting to know the campus in this course!**
+**Check your timetable for the latest location of each lecture, we are getting to know the campus in this course!** :bike: :bike: :bike:
 
 | Week | Thursday lecture                  | Friday lecture                    | Group project          | No. of reviews |
 |------|-----------------------------------|-----------------------------------|------------------------|--------------|
@@ -116,5 +116,13 @@ The lecture locations have been taken from [TUD's timetable site](https://mytime
 
 ## Deadlines
 
-:construction:
+This course has a number of smaller and larger deadlines. They are listed here in order of occurrence. The deadlines are always at 23:59 CET (i.e. local time) of the respective deadline day. We rely on Brigthspace for submission. Brightspace submissions close automatically, be sure to not be late.
+
+- Review P1: handed out February 15, **due February 22**.
+- Review P2: handed out February 21, **due February 28**.
+- Review P3: handed out February 22, **due March 1**.
+- Review P: 
+- Review P5
+- Review P6
+- Review P7
 
