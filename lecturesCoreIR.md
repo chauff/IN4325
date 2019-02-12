@@ -4,12 +4,14 @@ The following eight sections contain the materials for the eight core IR lecture
 
 ## Table of contents <!-- omit in toc -->
 
+- [IR resources](#ir-resources)
+  - [Boooks](#boooks)
+  - [Software](#software)
+  - [Datasets](#datasets)
 - [Lecture 1: evaluation (week 3.1)](#lecture-1-evaluation-week-31)
   - [Recommended readings](#recommended-readings)
-  - [Resources](#resources)
 - [Lecture 2: classic retrieval models (week 3.1)](#lecture-2-classic-retrieval-models-week-31)
   - [Recommended readings](#recommended-readings)
-  - [Resources](#resources)
   - [:warning: Paper P1 to review](#warning-paper-p1-to-review)
 - [Lecture 3: indexing (week 3.2)](#lecture-3-indexing-week-32)
   - [Recommended readings](#recommended-readings)
@@ -28,8 +30,35 @@ The following eight sections contain the materials for the eight core IR lecture
   - [:warning: Paper P6 to review](#warning-paper-p6-to-review)
 - [Lecture 8: neural IR (week 3.4)](#lecture-8-neural-ir-week-34)
   - [Recommended readings](#recommended-readings)
-  - [Resources](#resources)
   - [:warning: Paper P7 to review](#warning-paper-p7-to-review)
+
+## IR resources
+
+### Boooks
+- *Introduction to Information Retrieval* by Manning, Raghavan and Schütze, University Press, 2008. Available online: [http://nlp.stanford.edu/IR-book/](http://nlp.stanford.edu/IR-book/).
+- *Information Retrieval: Implementing and Evaluating Search Engines* by Büttcher, Clarke, and Cormack. The MIT Press, 2010.
+- *Search Engines: Information Retrieval in Practice* by B. Croft, D. Metzler, T. Strohman, Addison-Wesley, 2009. Available online: [http://ciir.cs.umass.edu/irbook/](http://ciir.cs.umass.edu/irbook/).
+
+### Software
+
+A number of open-source retrieval toolkits exist. They have different strengths and weaknesses. Which ones are applicable to your project depend to some extent in your *taste* of programming languages and the kind of retrieval models you are after:
+
+- The [Lemur project](https://www.lemurproject.org/) is written in C++/Java and contains a number of important libraries commonly used by academic IR researchers, including  `Indri`, `Galago` and `RankLib`. One of the most often employed toolkits for academic research.
+- The [Terrier IR platform](http://terrier.org/) is written in Java. Also heavily used in academia.
+- [Anserini](https://github.com/castorini/Anserini) is built on top of Lucene and written in Java.
+- [Elasticsearch](https://www.elastic.co/products/elasticsearch) is an open-source toolkit heavily used in industry. Written in Java and building on top of Lucene.
+- [Whoosh](https://pypi.org/project/Whoosh/#description) is a search engine written in Python.
+- [SearchX](https://github.com/felipemoraes/searchx) is a collaborative search system developed at TU Delft, written in JavaScript/Node.js.
+- So far there is only one widely used toolkit that provides neural IR approaches: [MatchZoo](https://github.com/NTMC-Community/MatchZoo) (though be aware, it has its issues).
+
+For evaluation purposes, [trec_eval](https://github.com/usnistgov/trec_eval) is commonly used.
+
+### Datasets
+
+- [TREC collections](http://trec.nist.gov/data.html) (*check with us whether we have the one you want*)
+- [AOL query log](http://www.cim.mcgill.ca/~dudek/206/Logs/AOL-user-ct-collection/)
+- [Recent question answering datasets](https://github.com/chauff/conversationalIR)
+
 
 ## Lecture 1: evaluation (week 3.1)
 
@@ -46,10 +75,6 @@ Chapter 8 of Croft's et al. Search Engines - Information Retrieval in Practice b
 - A great survey on interactive IR evaluation: *Methods for Evaluating Interactive Information Retrieval Systems with Users* by Diane Kelly ([PDF](https://ils.unc.edu/courses/2019_spring/inls509_001/papers/FnTIR-Press-Kelly.pdf)).
 - A recent [A/B testing tutorial](https://exp-platform.com/2017abtestingtutorial/) by Pavel Dmitriev.
 
-### Resources
-
-- [trec_eval](https://github.com/usnistgov/trec_eval).
-
 
 ## Lecture 2: classic retrieval models (week 3.1)
 
@@ -63,16 +88,6 @@ The slides  are [online](https://docs.google.com/presentation/d/e/2PACX-1vQFLHSe
 - Chapter 7.1-7.3 of Croft's et al. Search Engines - Information Retrieval in Practice book ([PDF](http://ciir.cs.umass.edu/downloads/SEIRiP.pdf)).
 - A [critical review](http://times.cs.uiuc.edu/czhai/pub/slmir-now.pdf) of Language Models for IR by ChengXiang Zhai.
 - Victor Lavrenko (one of the language modeling pioneers in IR) has a lot of useful [lecture videos](https://www.youtube.com/user/victorlavrenko/videos) on YouTube about language models and more general IR and machine learning concepts.
-
-### Resources
-
-A number of open-source retrieval toolkits exist. They have different strengths and weaknesses. Which ones are applicable to your project depend to some extent in your *taste* of programming languages and the kind of retrieval models you are after:
-
-- [Lemur project](https://www.lemurproject.org/) is written in C++ and contains a number of important libraries commonly used by academic IR researchers, including  `Indri`, `Galago` and `RankLib`. One of the most often employed toolkits for academic research.
-- [Terrier IR platform](http://terrier.org/) is written in Java. Also heavily used in academia.
-- [Anserini](https://github.com/castorini/Anserini) is built on top of Lucene and written in Java.
-- [Elasticsearch](https://www.elastic.co/products/elasticsearch) is an open-source toolkit heavily used in industry. Written in Java and building on top of Lucene.
-- [Whoosh](https://pypi.org/project/Whoosh/#description) is a search engine written in Python.
 
 ### :warning: Paper P1 to review
 
@@ -175,10 +190,6 @@ There are a number of deep learning courses that provide good insights (most pop
 - A 100+ page [introduction](https://www.microsoft.com/en-us/research/uploads/prod/2017/06/fntir2018-neuralir-mitra.pdf) to neural nets and neural IR models by Bhaskar Mitra and Nick Craswell.
 - An up-to-date [neural IR tutorial](http://nn4ir.com/ecir2018/) (in the form of elaborate slide decks) created by our colleagues at the University of Amsterdam, which has been given a few times by now at various IR conferences.
 - This [neural IR survey](https://link.springer.com/article/10.1007/s10791-017-9321-y) by Onal et al. is denser and requires more IR knowledge to make sense of it. It has a good overview of promising future directions.
-
-### Resources
-
-- So far there is only one widely used toolkit that provides neural IR approaches: [MatchZoo](https://github.com/NTMC-Community/MatchZoo) (though be aware, it has its issues).
 
 ### :warning: Paper P7 to review
 
