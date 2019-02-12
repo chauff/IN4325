@@ -59,8 +59,8 @@ This is a **5 EC course**, with **140 hours** of course work in total. We expect
 
 This course has no final exam, instead the grade is largely determined through three components: 
 
-1. a group project core IR (which includes a small literature survey).
-2. a group project applied NLP (which includes a small literature survey).
+1. a group project core IR.
+2. a group project applied NLP.
 3. individual review activities.
 
 ### Group projects
