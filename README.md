@@ -11,8 +11,8 @@ This is an overview of the **Information Retrieval** (IR) course running in 2018
   - [Group projects](#group-projects)
   - [Weekly reviews](#weekly-reviews)
 - [Final grade](#final-grade)
-- [Weekly support hours](#weekly-support-hours)
-- [Course schedule](#course-schedule)
+- [:hourglass: Weekly support hours](#hourglass-weekly-support-hours)
+- [:clock130: Course schedule](#clock130-course-schedule)
 - [Deadlines](#deadlines)
 
 ## Course description
@@ -27,7 +27,7 @@ The split (core IR / applied NLP) will be made halfway through the course: the f
 
 ## Course team
 
-This distribution also fits the lecturer team of this course: [Associate Prof. Claudia Hauff](https://chauff.github.io/) teaches the core IR lectures, while [Assistant Prof. Nava Tintarov](http://navatintarev.com/) teaches the applied NLP lectures. The course team is completed by a number of PhDs and Postdocs (all from the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who takes care of the peer reviews:
+This distribution also fits the lecturer team of this course: [Associate Prof. Claudia Hauff](https://chauff.github.io/) teaches the core IR lectures, while [Assistant Prof. Nava Tintarov](http://navatintarev.com/) teaches the applied NLP lectures. The course team is completed by a number of PhDs and Postdocs (all from the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who focuses on the grading of the paper reviews:
 
 - Oana Inel (Postdoc)
 - Dimitrios Bountouridis (Postdoc)
@@ -89,19 +89,19 @@ Each review is graded as either *excellent*, *sufficient* or *insufficient*. In 
 
 In order to pass this course, you need (1) to receive a 5.8 grade or higher, (2) complete both projects with at least a grade of 5.0 and (3) receive a *sufficient* for at least 9 of the 14 peer reviews.
 
-## Weekly support hours
+## :hourglass: Weekly support hours
 
 We do not have fixed lab hours. Due to the heavy emphasis on project work in this course, we offer weekly support hours: 
 
 - **core IR**: during weeks 3.2 to 3.5 between 9am and 11:30am at least two staff members will be available to help groups with their IR project (maybe more, depending on the need). We will release a Doodle to allow groups to sign up for 15 minute timeslots.
-- **applied NLP**: tbd.
+- **applied NLP**: :construction:
 
-## Course schedule
+## :clock130: Course schedule
 
 The lecture locations have been taken from [TUD's timetable site](https://mytimetable.tudelft.nl/) on February 11, 2019.
 **Check your timetable for the latest location of each lecture, we are getting to know the campus in this course!**
 
-| Week | Thursday lecture                  | Friday lecture                    | Group project          | Peer reviews |
+| Week | Thursday lecture                  | Friday lecture                    | Group project          | No. of reviews |
 |------|-----------------------------------|-----------------------------------|------------------------|--------------|
 | 3.1  | IR evaluation (`EWI hall Pi`, C. Hauff)          | Retrieval models (`EWI hall Pi`, C. Hauff)       |   Project group settled                     | 1            |
 | 3.2  | IR indexing (`Aula CZ C`, C. Hauff)            | Query refinement (`EWI hall Pi`, F. Moraes)      |   Core IR project settled                     | 2            |
@@ -116,11 +116,5 @@ The lecture locations have been taken from [TUD's timetable site](https://mytime
 
 ## Deadlines
 
-This course has several deadlines, here we list them all in one place. Every deadlines requires a submission on Brightspace. Deadlines cannot be extended.
-
-- *
-3.2
-3.3
-3.4
-3.5
+:construction:
 
