@@ -9,7 +9,13 @@ Minimum requirements for achieving a *sufficient*:
 - The report provides a sensible review of the paper (it is on topic, raises at least some valid points). 
 - The review is individual work; a collaboration between group members (or other students) is not allowed. Reviews created in collaboration do not reach a sufficient grade.
 
-Submit your review either in plain text or PDF format on Brightspace.
+Reviews that contains mostly or only valid points and are well-argued for receive an *excellent*.
+
+Submit your review either in plain text or PDF format on Brightspace. 
+
+We aim to provide feedback on the reviews within 1 week's time.
+
+Reviews are due a week after the lecture they accompany takes place.
 
 ## Template
 
