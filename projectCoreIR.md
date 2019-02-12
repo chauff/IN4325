@@ -86,3 +86,7 @@ The final report should also contain a link to a repository (or several) that co
 Submission: every group uploads their intermediate and final group project reports on Brightspace. The reports should be in PDF format. Note that after submission a plagiarism check is executed by Turnitin - please make sure to follow the academic rules of writing ([you can read them up here one more time](https://www.tudelft.nl/library/actuele-themas/copyright/c/plagiarism/)).
 
 The final project report is graded in combination with the project interview. The interview will be an academic discussion about the executed project.
+
+## Interviews
+
+The 15 minute interview per group will be scheduled on either **March 14** or **March 15**. A Doodle will be released to pick your interview timeslot.

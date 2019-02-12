@@ -120,7 +120,7 @@ The lecture locations have been taken from [TUD's timetable site](https://mytime
 | 3.2  | IR indexing (`Aula CZ C`, C. Hauff)            | Query refinement (`EWI hall Pi`, F. Moraes)      |   Core IR project settled                     | 2            |
 | 3.3  | Interactive IR (`Aula CZ C`, C. Hauff)         | Personalization (`EWI hall Pi`, C. Hauff)        |                        | 2            |
 | 3.4  | Learning to rank (`Aula CZ C`, C. Hauff)       | Neural IR (`DUWO CZ`, A. Camara)             |                        | 2            |
-| 3.5  | NLP introduction (`Aula CZ C`, N. Tintarev)    | Text analysis (`3mE-CZ B`, N. Tintarev)                 | core IR report due / interviews     | 1            |
+| 3.5  | NLP introduction (`Aula CZ C`, N. Tintarev)    | Text analysis (`3mE-CZ B`, N. Tintarev)                 | Final core IR report due / interviews     | 1            |
 | 3.6  | Semantics (`Aula CZ C`, N. Tintarev) | Evaluation NLP (`3mE-CZ B`, N. Tintarev)       |                        | 2            |
 | 3.7  | ML for NLP (`Aula CZ C`, N. Tintarev)  | Language generation (`3mE-CZ B`, N. Tintarev) |                        | 2            |
 | 3.8  | AI ethics (??, N. Tintarev)           | Word embeddings (`3mE-CZ B`, N. Tintarev)     |                        | 2            |
@@ -143,8 +143,8 @@ Core IR lecture weeks (the final deadline is in week 3.5):
 - Review P4: handed out February 28, **due March 7**.
 - Review P5: handed out March 1, **due March 8**.
 - Core IR intermediate project report: **due March 8**.
+- Core IR final project report: **due March 13**.
 - Review P6: handed out March 7, **due March 14**.
 - Review P7: handed out March 8, **due March 15**.
-- Core IR final project report: **due March 15**.
 
 *The applied NLP deadlines are not yet online.*
