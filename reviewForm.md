@@ -13,7 +13,7 @@ Reviews that contains mostly or only valid points and are well-argued for receiv
 
 Submit your review either in plain text or PDF format on Brightspace. 
 
-We aim to provide feedback on the reviews within 1 week's time.
+We aim to provide feedback on the reviews within at most two weeks' time.
 
 Reviews are due a week after the lecture they accompany takes place.
 
