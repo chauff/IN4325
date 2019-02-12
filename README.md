@@ -119,7 +119,7 @@ The lecture locations have been taken from [TUD's timetable site](https://mytime
 | 3.1  | IR evaluation (`EWI hall Pi`, C. Hauff)          | Retrieval models (`EWI hall Pi`, C. Hauff)       |   Project group settled                     | 1            |
 | 3.2  | IR indexing (`Aula CZ C`, C. Hauff)            | Query refinement (`EWI hall Pi`, F. Moraes)      |   Core IR project settled                     | 2            |
 | 3.3  | Interactive IR (`Aula CZ C`, C. Hauff)         | Personalization (`EWI hall Pi`, C. Hauff)        |                        | 2            |
-| 3.4  | Learning to rank (`Aula CZ C`, C. Hauff)       | Neural IR (`DUWO CZ`, A. Camara)             |                        | 2            |
+| 3.4  | Learning to rank (`Aula CZ C`, C. Hauff)       | Neural IR (`DUWO CZ`, A. Camara)             |             Intermediate core IR report due           | 2            |
 | 3.5  | NLP introduction (`Aula CZ C`, N. Tintarev)    | Text analysis (`3mE-CZ B`, N. Tintarev)                 | Final core IR report due / interviews     | 1            |
 | 3.6  | Semantics (`Aula CZ C`, N. Tintarev) | Evaluation NLP (`3mE-CZ B`, N. Tintarev)       |                        | 2            |
 | 3.7  | ML for NLP (`Aula CZ C`, N. Tintarev)  | Language generation (`3mE-CZ B`, N. Tintarev) |                        | 2            |
