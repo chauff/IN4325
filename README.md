@@ -107,7 +107,7 @@ In order to pass this course, you need to fullfil **all** of the following:
 We do not have fixed lab hours. Due to the heavy emphasis on project work in this course, we offer weekly support hours: 
 
 - **core IR**: during weeks 3.2 to 3.5 between 9am and 11:30am at least two staff members will be available to help groups with their IR project (maybe more, depending on the need). We will release a Doodle to allow groups to sign up for 15 minute timeslots.
-- **applied NLP**: :construction:
+- **applied NLP**: during weeks 3.6 to 3.8 between 9am and 11:30am at least two staff members will be available to help groups with their NLP projects. Doodle will be updated: https://doodle.com/meetme/qc/MvGrwvAyGn
 
 ## :clock130: Course schedule
 
@@ -148,4 +148,15 @@ Core IR lecture weeks (the final deadline is in week 3.5):
 - Review P7: handed out March 8, **due March 15**.
 - Core IR project interviews: **March 14** and **March 15**.
 
-*The applied NLP deadlines are not yet online.*
+Applied NLP lecture weeks (the final deadline is in week 3.10):
+- Review P8: handed out March 15, **due March 22**.
+- NLP project proposal: **due March 22**.
+- Review P9: handed out March 21, **due March 28**.
+- Review P10: handed out March 22, **due March 29**.
+- Review P11: handed out March 28, **due April 4**.
+- Review P12: handed out March 29, **due April 5**.
+- NLP intermediate project report: **due April 5**.
+- NLP final project report: **due April 10**.
+- Review P13: handed out April 4, **due April 11**.
+- Review P14: handed out April 5, **due April 12**.
+- NLP project interviews: **** April 11 and April 12 ****.
