@@ -146,5 +146,6 @@ Core IR lecture weeks (the final deadline is in week 3.5):
 - Core IR final project report: **due March 13**.
 - Review P6: handed out March 7, **due March 14**.
 - Review P7: handed out March 8, **due March 15**.
+- Core IR project interviews: **March 14** and **March 15**.
 
 *The applied NLP deadlines are not yet online.*
