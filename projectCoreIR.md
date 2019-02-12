@@ -1,6 +1,12 @@
 # Core IR project
 
-You can choose between two types of projects.
+There are three expected outputs:
+
+1. Project proposal (mandatory, but ungraded - you will receive feedback)
+2. Intermediate project report (mandatory, but ungraded - you will reeive feedback)
+3. Final project report (mandatory, graded)
+
+You can choose between two types of projects: reproducing a human-in-the-loop IR paper or investigating a research idea of your own.
 
 ## 1. Reproducing a human-in-the-loop IR paper
 
@@ -19,8 +25,6 @@ Replication can be a lot of fun and yes, [it sometimes looks like this](https://
 
 - [QWERTY: The Effects of Typing on Web Search Behavior](http://marksanderson.org/publications/my_papers/CHIIR2018-Kevin.pdf)
 - 
-
-
 
 
 ## 2. Investigating a research idea of your own choice
@@ -46,6 +50,39 @@ Based on prior experience we put the following restrictions on your choice of pr
 
 We have a first deadline in week 3.2, so you will get early feedback on the suitability of your proposal.
 
-## Report
+## Report formats
 
-Format, etc.
+### Project proposal
+
+The proposal should contain between 300 and 400 words. Your proposal should address the following points:
+
+1. Problem description: which problem will you tackle and what is interesting about the problem? If you reproduce a paper make sure to reference the original paper.
+2. Resources: which data and tools will you be using (this includes also existing implementations of algorithms
+3. Methodology: if you choose to reproduce a paper, tell us which part of the paper (if not all) you will reproduce; if you choose your own research idea, tell us what type of algorithm/approach you are proposing and what your baseline(s) will be
+4. Background readings: list at least 5 related papers that you will read to add context to your research
+5. Evaluation: how will you evaluate your algorithm/approach? Which evaluation metrics will you use?
+
+**Submission**: every group uploads their proposal on Brightspace. The proposal should be in PDF format and should contain the group name and the list of group members (name, student IDs).
+
+**Feedback**: the course team will provide feedback on the project proposal within a few days.
+
+### Intermediate and final project report
+
+The **final** group project report should be **7-8 pages** long in the [SIGCHI proceedings format](https://sigchi.org/templates/) (available as LaTeX and Word templates). We recommend to use LaTeX as you are likely to also use it during your MSc thesis trajectory. Have a look at [Overleaf](https://www.overleaf.com/) - it is an online real-time collaboration LaTeX editor. The **intermediate** project report is likely to be shorter (it is due a week before the final deadline), that is fine, submit whatever you have by then.
+
+We suggest the following report structure:
+
+- Title, authors
+- Abstract
+- Introduction: problem statement, motivation for the problem, overall plan to tackle the problem
+- Background: what important works does this project build on
+- Approach: what methods/algorithms did you use
+- Experiments: describe your experiments, the results and discuss them
+- Conclusions: describe what you learnt/found and what avenues for future work you see
+- References
+
+The final report should also contain a link to a repository (or several) that contain the software you created, the scripts you used to analyze your data, etc.
+
+Submission: every group uploads their intermediate and final group project reports on Brightspace. The reports should be in PDF format.
+
+The final project report is graded (in combination with the project interviews).
