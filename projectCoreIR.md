@@ -83,6 +83,6 @@ We suggest the following report structure:
 
 The final report should also contain a link to a repository (or several) that contain the software you created, the scripts you used to analyze your data, etc.
 
-Submission: every group uploads their intermediate and final group project reports on Brightspace. The reports should be in PDF format.
+Submission: every group uploads their intermediate and final group project reports on Brightspace. The reports should be in PDF format. Note that after submission a plagiarism check is executed by Turnitin - please make sure to follow the academic rules of writing ([you can read them up here one more time](https://www.tudelft.nl/library/actuele-themas/copyright/c/plagiarism/)).
 
 The final project report is graded (in combination with the project interviews).
