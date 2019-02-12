@@ -1,6 +1,6 @@
 # Reviews
 
-*Use this review template below for the weekly reviews. It is inspired by the review forms of [EMNLP](https://emnlp2018.org/reviewform/) and [ACL](https://acl2018.org/downloads/acl_2018_review_form.html).*
+*Use this review template below for the weekly reviews. It is heavily inspired by the review forms of [EMNLP](https://emnlp2018.org/reviewform/) and [ACL](https://acl2018.org/downloads/acl_2018_review_form.html).*
 
 Minimum requirements for achieving a *sufficient*:
 - All questions have to be answered. For questions (5) and (6) reporting the numeric score is enough.
@@ -11,11 +11,7 @@ Minimum requirements for achieving a *sufficient*:
 
 Reviews that contains mostly or only valid points and are well-argued for receive an *excellent*.
 
-Submit your review either in plain text or PDF format on Brightspace. 
-
-We aim to provide feedback on the reviews within at most two weeks' time.
-
-Reviews are due a week after the lecture they accompany takes place.
+Submit your review either in plain text or PDF format on Brightspace. Reviews are due a week after the lecture they accompany takes place. We aim to provide feedback on the reviews within at most two weeks' time.
 
 ## Template
 
@@ -28,10 +24,10 @@ Reviews are due a week after the lecture they accompany takes place.
 4. **What weaknesses does this paper have?** Describe any weaknesses you see in the paper or the work it describes.
 
 5. **How reproducible is the work?** Researchers and practitioners ...
-- 5 => could easily reproduce the results and verify the correctness of the results described here.
-- 4 => could mostly reproduce the results described here, maybe by substituting public data for proprietary data.
-- 3 => could possibly reproduce the results described here with some difficulty. The settings of parameters are underspecified or very subjectively determined.
-- 2 => could not reproduce the results described here no matter how hard they tried.
+- 4 => could easily reproduce the results and verify the correctness of the results described here.
+- 3 => could mostly reproduce the results described here, maybe by substituting public data for proprietary data.
+- 2 => could possibly reproduce the results described here with some difficulty. The settings of parameters are underspecified or very subjectively determined.
+- 1 => could not reproduce the results described here no matter how hard they tried.
 
 6. **How confident are you in your assessment of this paper?**
 - 5 => Positive that my evaluation is correct. I read the paper very carefully and I am familiar with related work.
