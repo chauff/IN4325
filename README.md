@@ -116,13 +116,20 @@ The lecture locations have been taken from [TUD's timetable site](https://mytime
 
 ## Deadlines
 
-This course has a number of smaller and larger deadlines. They are listed here in order of occurrence. The deadlines are always at 23:59 CET (i.e. local time) of the respective deadline day. We rely on Brigthspace for submission. Brightspace submissions close automatically, be sure to not be late.
+This course has a number of smaller and larger deadlines. They are listed here in order of **due date**. The deadlines are always at 23:59 CET (i.e. local time) of the respective deadline day. We rely on Brigthspace for submission. Brightspace submissions close automatically, be sure to not be late.
 
+Reminder of the rules:
+- You need to pass 9 out of 14 reviews with a grade of *sufficient*.
+- The project proposal and intermediate report submissions are required, but are **not** graded. The proposal has to be signed off by an instructor (does it fit the project goals? is the scope sufficient?). The intermediate proposal can be a last chance for feedback. Submit whatever you have at that point.
+
+Core IR lecture weeks (the final deadline is in week 3.5):
 - Review P1: handed out February 15, **due February 22**.
+- Core IR project proposal: **due February 22**.
 - Review P2: handed out February 21, **due February 28**.
 - Review P3: handed out February 22, **due March 1**.
-- Review P: 
-- Review P5
-- Review P6
-- Review P7
-
+- Review P4: handed out February 28, **due March 7**.
+- Review P5: handed out March 1, **due March 8**.
+- Core IR intermediate project report: **due March 8**.
+- Review P6: handed out March 7, **due March 14**.
+- Review P7: handed out March 8, **due March 15**.
+- Core IR final project report: **due March 15**.
