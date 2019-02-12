@@ -8,28 +8,28 @@ The following eight sections contain the materials for the eight core IR lecture
   - [Recommended readings](#recommended-readings)
   - [Resources](#resources)
 - [Lecture 2: classic retrieval models](#lecture-2-classic-retrieval-models)
-  - [Recommended readings](#recommended-readings-1)
-  - [Resources](#resources-1)
-  - [:warning: Paper to review](#warning-paper-to-review)
+  - [Recommended readings](#recommended-readings)
+  - [Resources](#resources)
+  - [:warning: Paper P1 to review](#warning-paper-p1-to-review)
 - [Lecture 3: indexing](#lecture-3-indexing)
-  - [Recommended readings](#recommended-readings-2)
-  - [:warning: Paper to review](#warning-paper-to-review-1)
+  - [Recommended readings](#recommended-readings)
+  - [:warning: Paper P2 to review](#warning-paper-p2-to-review)
 - [Lecture 4: query refinement](#lecture-4-query-refinement)
-  - [Recommended readings](#recommended-readings-3)
-  - [:warning: Paper to review](#warning-paper-to-review-2)
+  - [Recommended readings](#recommended-readings)
+  - [:warning: Paper P3 to review](#warning-paper-p3-to-review)
 - [Lecture 5: interactive IR](#lecture-5-interactive-ir)
-  - [Recommended readings](#recommended-readings-4)
-  - [:warning: Paper to review](#warning-paper-to-review-3)
+  - [Recommended readings](#recommended-readings)
+  - [:warning: Paper P4 to review](#warning-paper-p4-to-review)
 - [Lecture 6: personalization](#lecture-6-personalization)
-  - [Recommended readings](#recommended-readings-5)
-  - [:warning: Paper to review](#warning-paper-to-review-4)
+  - [Recommended readings](#recommended-readings)
+  - [:warning: Paper P5 to review](#warning-paper-p5-to-review)
 - [Lecture 7: learning to rank](#lecture-7-learning-to-rank)
-  - [Recommended readings](#recommended-readings-6)
-  - [:warning: Paper to review](#warning-paper-to-review-5)
+  - [Recommended readings](#recommended-readings)
+  - [:warning: Paper P6 to review](#warning-paper-p6-to-review)
 - [Lecture 8: neural IR](#lecture-8-neural-ir)
-  - [Recommended readings](#recommended-readings-7)
-  - [Resources](#resources-2)
-  - [:warning: Paper to review](#warning-paper-to-review-6)
+  - [Recommended readings](#recommended-readings)
+  - [Resources](#resources)
+  - [:warning: Paper P7 to review](#warning-paper-p7-to-review)
 
 ## Lecture 1: evaluation
 
@@ -74,9 +74,9 @@ A number of open-source retrieval toolkits exist. They have different strengths 
 - [Elasticsearch](https://www.elastic.co/products/elasticsearch) is an open-source toolkit heavily used in industry. Written in Java and building on top of Lucene.
 - [Whoosh](https://pypi.org/project/Whoosh/#description) is a search engine written in Python.
 
-### :warning: Paper to review
+### :warning: Paper P1 to review
 
-[The influence of basic tokenization on biomedical document retrieval](https://dl.acm.org/citation.cfm?id=1277917).
+[The influence of basic tokenization on biomedical document retrieval](https://www.researchgate.net/profile/Wessel_Kraaij/publication/221299722_The_influence_of_basic_tokenization_on_biomedical_document_retrieval/links/0912f508eb1efc3828000000/The-influence-of-basic-tokenization-on-biomedical-document-retrieval.pdf).
 
 
 ## Lecture 3: indexing
@@ -90,9 +90,9 @@ The slides  are [online](https://docs.google.com/presentation/d/e/2PACX-1vTeCcr8
 - Chapters 2, 4 and 5 of Manning's et al. Introduction to Information Retrieval book ([PDF](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)).
 - Chapter 5 of Croft's et al. Search Engines - Information Retrieval in Practice book ([PDF](http://ciir.cs.umass.edu/downloads/SEIRiP.pdf)).
 
-### :warning: Paper to review
+### :warning: Paper P2 to review
 
-[The Importance of Prior Probabilities for Entry Page Search](https://dl.acm.org/citation.cfm?id=564383).
+[The Importance of Prior Probabilities for Entry Page Search](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.1033&rep=rep1&type=pdf).
 
 
 
@@ -111,7 +111,7 @@ The slides  are [online](https://docs.google.com/presentation/d/e/2PACX-1vT4OiTB
 - A [survey](https://www.iro.umontreal.ca/~nie/IFT6255/carpineto-Survey-QE.pdf) on automatic query expansion is available from Carpineto and Romano.
 - A [survey on query autocompletion](https://www.nowpublishers.com/article/Details/INR-055) by Cai & de Rijke.
 
-### :warning: Paper to review
+### :warning: Paper P3 to review
 
 [Document Reordering is Good, Especially for e-Commerce](http://www.cs.otago.ac.nz/homepages/andrew/papers/2017-7.pdf).
 
@@ -125,7 +125,7 @@ The slides  are [online](https://docs.google.com/presentation/d/e/2PACX-1vQj-MAd
 
 - A [tutorial](http://zuccon.net/publications/azzopardi-zuccon-2017-tutorial-economics.pdf) on economic models for search (set into a larger HCI context).
 
-### :warning: Paper to review
+### :warning: Paper P4 to review
 
 [Incorporating Query Expansion and Quality Indicators in Searching Microblog Posts](https://pdfs.semanticscholar.org/bfbd/8b113cf0ba2eb7301efbfbc51df2ea74bbb8.pdf).
 
@@ -142,7 +142,7 @@ There is no specific list of recommended readings (beyond the ones linked at the
 
 However, it is worth pointing out a [survey on Adversarial Web Search](https://www.nowpublishers.com/article/Details/INR-021). It does not fit the brief of this lecture, but it covers a lot of ground showing how to combat adversary in web search.
 
-### :warning: Paper to review
+### :warning: Paper P5 to review
 
 [Two Scrolls or One Click: A Cost Model for Browsing Search Results](http://eprints.qut.edu.au/95667/1/ecir2016cost_model.pdf).
 
@@ -157,9 +157,9 @@ The slides  are [online](https://docs.google.com/presentation/d/e/2PACX-1vTwo37w
 
 - The [Learning to Rank for IR tutorial](https://www.nowpublishers.com/article/Details/INR-016) by Tie-Yan Liu provides a global overview of many L2R approaches, and their underlying motivations and heuristics.
 
-### :warning: Paper to review
+### :warning: Paper P6 to review
 
-[Enhancing Patent Retrieval by Citation Analysis](https://dl.acm.org/citation.cfm?id=1277912).
+[Enhancing Patent Retrieval by Citation Analysis](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.96.6135&rep=rep1&type=pdf).
 
 
 ## Lecture 8: neural IR
@@ -180,7 +180,7 @@ There are a number of deep learning courses that provide good insights (most pop
 
 - So far there is only one widely used toolkit that provides neural IR approaches: [MatchZoo](https://github.com/NTMC-Community/MatchZoo) (though be aware, it has its issues).
 
-### :warning: Paper to review
+### :warning: Paper P7 to review
 
 [Query Expansion with Locally-Trained Word Embeddings](http://www.aclweb.org/anthology/P16-1035).
 
