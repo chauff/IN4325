@@ -68,7 +68,7 @@ The proposal should contain between 300 and 400 words. Your proposal should addr
 
 ### Intermediate and final project report
 
-The **final** group project report should be **7-8 pages** long in the [SIGCHI proceedings format](https://sigchi.org/templates/) (available as LaTeX and Word templates). We recommend to use LaTeX as you are likely to also use it during your MSc thesis trajectory. Have a look at [Overleaf](https://www.overleaf.com/) - it is an online real-time collaboration LaTeX editor. The **intermediate** project report is likely to be shorter (it is due a week before the final deadline), that is fine, submit whatever you have by then.
+The **final** group project report should be **7-8 pages** long in the [SIGCHI proceedings format](https://sigchi.org/templates/) (available as LaTeX and Word templates). The **intermediate** project report is likely to be shorter (it is due a week before the final deadline), that is fine, submit whatever you have by then.
 
 We suggest the following report structure:
 
