@@ -2,9 +2,9 @@
 
 There are three expected outputs:
 
-1. Project proposal (mandatory, but ungraded - you will receive feedback)
-2. Intermediate project report (mandatory, but ungraded - you will reeive feedback)
-3. Final project report (mandatory, graded)
+1. **Project proposal** (mandatory, but ungraded - you will receive feedback).
+2. **Intermediate project report** (mandatory, but ungraded - you will receive feedback).
+3. **Final project report** (mandatory, graded).
 
 You can choose between two types of projects: reproducing a human-in-the-loop IR paper or investigating a research idea of your own.
 
