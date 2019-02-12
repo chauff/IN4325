@@ -2,7 +2,7 @@
 
 *Use this review template below for the weekly reviews. It is heavily inspired by the review forms of [EMNLP](https://emnlp2018.org/reviewform/) and [ACL](https://acl2018.org/downloads/acl_2018_review_form.html).*
 
-Minimum requirements for achieving a *sufficient*:
+Minimum requirements to achieve a *sufficient*:
 - All questions have to be answered. For questions (5) and (6) reporting the numeric score is enough.
 - Question (1) should be answered in at least 100 words. 
 - Questions (2) and (3) together should also contain at least 100 words.
