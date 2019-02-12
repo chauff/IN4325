@@ -9,7 +9,7 @@ This is an overview of the **Information Retrieval** (IR) course running in 2018
 - [Learning objectives](#learning-objectives)
 - [Assessment](#assessment)
   - [Group projects](#group-projects)
-  - [Peer reviews](#peer-reviews)
+  - [Weekly reviews](#weekly-reviews)
 - [Final grade](#final-grade)
 - [Weekly support hours](#weekly-support-hours)
 - [Course schedule](#course-schedule)
@@ -73,11 +73,11 @@ At the end of each project phase we will conduct a short interview (10-15 minute
 
 You are expected to work within the same group for both project parts.
 
-### Peer reviews
+### Weekly reviews
 
-Most lectures will be accompanied by **one required reading**, which is usually a scientific paper. For every required reading you are asked to write a *peer review*. The peer review is individual work.
+Most lectures will be accompanied by **one required reading**, which is usually a scientific paper. For every required reading you are asked to write a *review*. This weekly review activity (also known as *active reading*) is individual work.
 
-Each peer review is graded as either (*excellent*, *sufficient* or *insufficient*). In order to pass the course, 9 of the 14 peer reviews have to be passed with at least *sufficient*.
+Each review is graded as either (*excellent*, *sufficient* or *insufficient*). In order to pass the course, 9 of the 14 peer reviews have to be passed with at least *sufficient*. The review template can be found [here](reviewForm.md).
 
 ## Final grade
 
