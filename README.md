@@ -75,9 +75,9 @@ You are expected to work within the same group for both project parts.
 
 ### Weekly reviews
 
-Most lectures will be accompanied by **one required reading**, which is usually a scientific paper. For every required reading you are asked to write a *review*. This weekly review activity (also known as *active reading*) is individual work.
+Most lectures will be accompanied by **one required reading**, which is usually a scientific paper. For every required reading you are asked to write a *review*. These review activities are individual work.
 
-Each review is graded as either (*excellent*, *sufficient* or *insufficient*). In order to pass the course, 9 of the 14 peer reviews have to be passed with at least *sufficient*. The review template can be found [here](reviewForm.md).
+Each review is graded as either *excellent*, *sufficient* or *insufficient*. In order to pass the course, 9 of the 14 offered review opportunities have to be passed with at least *sufficient*. The review template can be found [here](reviewForm.md).
 
 ## Final grade
 
