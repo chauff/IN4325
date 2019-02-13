@@ -22,9 +22,9 @@ Note that **reproducibility does not mean to create an exact replica of the orig
 
 The page for most topics has several additional references. You can use these papers as a starting point to see who they cite and who references them (in Google Scholar, click on ‘citations’).
 
-   * [“Fake news” and stance detection](http://www.fakenewschallenge.org/)  
-    - [Ferreira & Vlachos (2016)](http://aclweb.org/anthology/N/N16/N16-1138.pdf)
-    - [Augenstein et al. (2016)](https://arxiv.org/abs/1606.05464)
+   * [“Fake news” and stance detection](http://www.fakenewschallenge.org/)     
+      - [Ferreira & Vlachos (2016)](http://aclweb.org/anthology/N/N16/N16-1138.pdf)  
+      - [Augenstein et al. (2016)](https://arxiv.org/abs/1606.05464)
 
    * [Sentiment analysis on movies](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
 
@@ -41,8 +41,8 @@ The page for most topics has several additional references. You can use these pa
 ## 2. Investigating a research idea of your own choice
 You can also propose a research project within NLP of your own choice in consultation with the instructor (it can be a novel idea or involve reproducing an existing paper). To get inspired, take a look at recent conference proceedings at the major NLP conferences and competitions:
 
-   * [CL, NAACL, ACL, SemEval](http://aclweb.org/anthology/)
-   * [INLG/ENLG:](http://aclweb.org/anthology/siggen.html)
+   * [CL, NAACL, ACL](http://aclweb.org/anthology/)
+   * [INLG/ENLG](http://aclweb.org/anthology/siggen.html)
    * [SemEval: Hyperpartisan News Detection](https://pan.webis.de/semeval19/semeval19-web/index.html)
    * [Digital Text Forensics](https://pan.webis.de/clef19/pan19-web/index.html) e.g., Bots and Gender Profiling, Celebrity Profiling, Cross-Domain Authorship Attribution, Style Change Detection
 
@@ -52,7 +52,7 @@ Why should you choose this project type? Because not all NLP topics are covered 
 
 Based on prior experience we put the following restrictions on your choice of project, no matter if you reproduce a paper or follow your own research idea:
 
-- **You can only conduct a project on neural NLP if you have succesfully completed the Deep Learning course beforehand.**
+- **You can only conduct a project on neural NLP if you have successfully completed the Deep Learning course beforehand.**
 - The main focus of your project is *NLP*. If you build a classifier, the features you study should be motivated by linguistic theory/previous findings in NLP.
 - If you use off the shelf solutions: be aware of the defaults and motivate why they are suitable for your problem.
 - Not all data is created equal -- what kind of biases might come from the dataset you are using?
@@ -73,7 +73,7 @@ The proposal should contain between 300 and 400 words. Your proposal should addr
 4. Background readings: list at least 5 related papers that you will read to add context to your research
 5. Evaluation: how will you evaluate your algorithm/approach? Which evaluation metrics will you use?
 
-**Submission**: every group uploads their proposal on Brightspace. The proposal should be in PDF format and should contain the group name and the list of group members (name, student IDs).
+**Submission**: every group uploads their proposal on Brightspace (one per group). The proposal should be in PDF format and should contain the group name and the list of group members (name, student IDs).
 
 **Feedback**: the course team will provide feedback on the project proposal within a few days.
 
@@ -87,14 +87,14 @@ We suggest the following report structure:
 - Abstract
 - Introduction: problem statement, motivation for the problem, overall plan to tackle the problem
 - Background: what important works does this project build on
-- Approach: what methods/algorithms did you use
-- Experiments: describe your experiments, the results and discuss them
+- Approach: what methods/algorithms did you use (justify why these are suitable)
+- Experiments: describe your evaluation/experiments (justify experimental methodology), the results and discuss them (comparisons and critical discussion will be considered in the grading)
 - Conclusions: describe what you learnt/found and what avenues for future work you see
 - References
 
-The final report should also contain a link to a repository (or several) that contain the software you created, the scripts you used to analyze your data, etc.
+The final report should also contain a link to a repository (or several) that contain the (reasonably well documented) software you created, the scripts you used to analyze your data, etc.
 
-Submission: every group uploads their intermediate and final group project reports on Brightspace. The reports should be in PDF format. Note that after submission a plagiarism check is executed by Turnitin - please make sure to follow the academic rules of writing ([you can read them up here one more time](https://www.tudelft.nl/library/actuele-themas/copyright/c/plagiarism/)).
+**Submission:** every group uploads their intermediate and final group project reports on Brightspace (one per group). The reports should be in PDF format. Note that after submission a plagiarism check is executed by Turnitin - please make sure to follow the academic rules of writing ([you can read them up here one more time](https://www.tudelft.nl/library/actuele-themas/copyright/c/plagiarism/)).
 
 The final project report is graded in combination with the project interview. The interview will be an academic discussion about the executed project.
 
