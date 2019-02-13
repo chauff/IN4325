@@ -1,12 +1,12 @@
 # Applied NLP Lectures <!-- omit in toc -->
-In progress
+**In progress**
 
 The following sections contain the materials for the eight applied NLP lectures. The applied NLP papers to review each week are listed here as well.
 
 ## Table of contents <!-- omit in toc -->
 
-- [NLP resources](#ir-resources)
-  - [Books](#books)
+- [NLP resources](#NLP-resources)
+  - [Book](#book)
   - [Software](#software)
   - [Datasets](#datasets)
 - [Lecture 9: NLP introduction (week 3.5)](#lecture-9-NLP-Introduction)
@@ -35,7 +35,7 @@ The following sections contain the materials for the eight applied NLP lectures.
 
 ## NLP resources
 
-### Books
+### Book
 Speech and Language Processing (3rd ed.) by Dan Jurafsky and James H. Martin. [Available online](https://web.stanford.edu/~jurafsky/slp3).
 
 ### Software
