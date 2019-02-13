@@ -8,22 +8,24 @@ There are three expected outputs:
 
 **Group projects are conducted in groups of 2-3 students. Please enroll together with your team members in group on Brightspace - we have predefined 40 different groups, take your pick!**
 
-You can choose between two types of projects: reproducing a human-in-the-loop IR paper or investigating a research idea of your own.
+You can choose between two types of projects: reproducing an IR paper of our choice or investigating a research idea of your own.
 
-## 1. Reproducing a human-in-the-loop IR paper
+## 1. Reproducing an IR paper of our choice
 
-You first choose a published paper that describes an IR experiment that involves actual users. We have a list of papers that are well suited for this project below, but of course you can also suggest to reproduce another one.
-You then implement and execute the experiments described in the paper, analyze your results and discuss them in light of the original paper's results. 
-Note that **reproducibility does not mean to create an exact replica of the original paper** (that would be replicability), instead [reproducibility](https://www.acm.org/publications/policies/artifact-review-badging) asks the question whether the idea is reproducible by a different team, a slightly different experimental setup and independently developed artifacts. 
+You first choose a published paper that describes an IR experiment. There are two main types of IR papers: (1) those that contain studies with **actual users** and (2) those that contain experiments that are based on test collections **not involving actual users**. While the foci of papers of type (1) are on the building of the system, the execution of the user study and the evaluation of the user logs, in type (2) the main foci are the development and implementation of algorithm(s), their deployment and the subsequent error analyses (why or why not does the new approach outperform the baselines).
+
+Based on both types of papers, we have created two lists of papers that are well suited for the group project.
+
+Note that **reproducibility does not mean to create an exact replica of the original paper** (that would be replicability), instead [reproducibility](https://www.acm.org/publications/policies/artifact-review-badging) asks the question whether the idea is reproducible by a different team, a slightly different experimental setup and independently developed artifacts.
 [This interesting paper](https://pdfs.semanticscholar.org/b95a/11620929f1c4760587ac99a8d6b4d8cbc547.pdf) on algorithm reproducibility (in particular Table 2!) may give you inspirations for what to look out for in terms of reproducibility.
-
-*Why should you choose this project type?* Because human-in-the-loop IR experiments require you to understand and apply the whole breadth of IR: starting from finding the right search system to use (or implement from scratch), to the right document collection, implementation and evaluation of user logs.
 
 Replication can be a lot of fun and yes, [it sometimes looks like this](https://twitter.com/DevilleSy/status/958761021421903872)!
 
-### List of human-in-the-loop IR papers
+### List of IR papers with user studies
 
-*These papers have different lengths (some are 4 pages, some are 10+ pages). While it is feasible to attempt to reproduce a 4 page paper, for the 10+ page papers, you have to make a selection of the paper aspects to reproduce; use the proposal to argue for your decisions.*
+*These papers have different lengths (some are 4 pages, some are 10+ pages). While it is feasible to attempt to reproduce a 4 page paper, for the 10+ page papers, you have to make a selection of the paper aspects to reproduce; use the proposal to argue for your decisions.* 
+
+*While in these works the user study participants were almost always paid, you will use what's called "opportunity sampling" (or convenience sampling) of study participants: you will find study participants that are easy for you to approach (family member, study friends, users of the TUD library, etc.).*
 
 - [Perceptions of the Effect of Fragmented Attention on Mobile Web Search Tasks](http://nrl.northumbria.ac.uk/28559/1/chiir_2017_harvey.pdf). The main questions tackled here is the following: _Do common mobile situations that cause fragmented attention have an impact on search behaviour?_ If you ever wanted to know how a treadmill can be used in an IR experiment, this paper is for you. 
 - [Query Priming for Promoting Critical Thinking in Web Search](https://dl.acm.org/citation.cfm?id=3176349.3176377) This paper reports an interesting finding: _A search user interface with query priming presents terms that evoke critical thinking, thereby encouraging users to search for webpages carefully_. Can we reproduce this finding?
@@ -33,17 +35,26 @@ Replication can be a lot of fun and yes, [it sometimes looks like this](https://
 - [User Performance versus Precision Measures for Simple Search Tasks](https://researchbank.rmit.edu.au/eserv/rmit:2446/n2006001961.pdf). This paper makes an interesting observation in a user study: there is little correlation between system performance (how effective is the system at retrieving relevant documents) and user performance (how good is the user at retrieving relevant docuemnts). The conducted user study is highly controlled (e.g. the result lists are precomputed), reproducing this work in a more natural setup (where users actually use a real search engine) would be great.
 - [Time Pressure and System Delays in Information Search](http://eprints.gla.ac.uk/106760/1/106760.pdf). The authors ask the question _What is the impact of time pressure and system delays on search behaviour?_ and answer it through a laboratory study. The paper is quite detailed on the setup, but there are plenty of options to create a slightly different setup to investigate the generalizability of the findings.
 
-## 2. Investigating a research idea of your own choice
+### List of IR papers not involving users
 
-You can also propose a research project that covers a *core IR topic* of your own choice in consultation with the instructor (it can be a novel idea or involve reproducing an existing paper). One possibility is the participation in a benchmark task. The most popular benchmarks are hosted at [TREC](http://trec.nist.gov/) (and we do have many TREC corpora available). Alternatively, take a look at recent conference proceedings of major IR conferences:
+- [Ad Hoc Table Retrieval using Semantic Similarity](https://arxiv.org/pdf/1802.06159.pdf). Who says that we can only rank text documents? How about ranking *tables* instead?
+- [On the Benefit of Incorporating External Features in a Neural Architecture for Answer Sentence Selection](http://www.marksanderson.org/publications/my_papers/sigir2017d.pdf). This paper is a good choice for those wanting to work on neural models for IR. *Only possible to choose if the project partners have completed the deep learning course already!*
+- [Benchmark for Complex Answer Retrieval](https://arxiv.org/pdf/1705.04803.pdf). Complex answer retrieval is a task that has only recently been introduced at TREC. This paper presents a number of baselines (which have turned out surprisingly hard to beat!)
+- [Query Auto-Completion for Rare Prefixes](https://www.microsoft.com/en-us/research/wp-content/uploads/2015/10/spir0468-mitra.pdf). As the title suggests, this paper proposes a query auto-completion aproach that is specifically geared towards rare prefixes. The experiments are conducted on the publicly available (though rather *infamous* by now) AOL query log. For this paper, the restriction of an *actual search engine* is removed.
+- [Supervised query modeling using Wikipedia](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.685.1242&rep=rep1&type=pdf). This paper uses an external corpus (Wikipedia) to build better query models. The GOV2 corpus mentioned in the paper is available to us.
+- [WikiPassageQA: A Benchmark Collection for Research on Non-factoid Answer Passage Retrieval](https://arxiv.org/pdf/1805.03797.pdf). This paper presents a new dataset for passage retrieval. If you opt for the non-neural baselines only (as per restriction below ...), you need to add two baseline approaches that are not in the paper (as those that are there are implemented already in standard IR toolkits).
+- [User Intent Prediction in Information-seeking Conversations](https://arxiv.org/pdf/1901.03489.pdf). This paper builds models to predict user intent in information-seeking conversations. This is a necessary component for a conversational agent. The paper presents a number of neural and non-neural models. If you choose this paper, the restriction of an *actual search engine* is removed.
 
-- WSDM: International Conference on Web Search and Data Mining
-- SIGIR: International Conference on Research and Development in Information Retrieval
-- CIKM: Conference on Information and Knowledge Management
-- CHIIR: Conference on Human Information Interaction and Retrieval
-- ECIR: European Conference on Information Retrieval.
+## 2. Investigating/reproducing a research idea of your own choice
 
-*Why should you choose this project type?* Because not all IR topics are covered in the lectures in depth and you can investigate them further by choosing them as your research project.
+You can also propose a research project that covers a *core IR topic* of your own choice in consultation with the instructor (it can be a novel idea or involve reproducing part of an existing paper). One possibility is the participation in a benchmark task. The most popular benchmarks are hosted at [TREC](http://trec.nist.gov/) (and we do have many TREC corpora available). Alternatively, take a look at recent conference proceedings of major IR conferences. Focus on the **short papers** as they are more likely to contain a doable project the long papers.
+
+- [WSDM: International Conference on Web Search and Data Mining](https://dl.acm.org/citation.cfm?id=3159652&picked=prox0)
+- [SIGIR: International Conference on Research and Development in Information Retrieval](https://dl.acm.org/citation.cfm?id=3209978)
+- [CIKM: Conference on Information and Knowledge Management](https://dl.acm.org/citation.cfm?id=3269206)
+- [CHIIR: Conference on Human Information Interaction and Retrieval](https://dl.acm.org/citation.cfm?id=3176349)
+- [ECIR: European Conference on Information Retrieval](https://link.springer.com/conference/ecir)
+
 
 ## Restrictions
 
