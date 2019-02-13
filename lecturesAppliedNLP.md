@@ -65,7 +65,7 @@ Natural Language processing describes computational methods that allow computers
 The slides are [online](https://drive.google.com/open?id=1Lp3RA4Bc7XZqrvEki43U2Vpj9xoC6KLw-JsjPY2jaDc) - **currently from the 2017/18 course edition**. The slides will be updated (as needed) after the lecture.
 
 ### Recommended readings
-[Deterministic dependency parsing of English text](www.aclweb.org/anthology/C04-101)
+[Deterministic dependency parsing of English text](https://dl.acm.org/citation.cfm?doid=1220355.1220365)
 
 ## Lecture 10: Text analysis
 
