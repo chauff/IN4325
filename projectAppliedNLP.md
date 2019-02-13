@@ -11,11 +11,42 @@ There are three expected outputs:
 You can choose between two types of projects: reproducing an NLP paper or investigating a research idea of your own.
 
 ## 1. Reproducing an NLP paper
+You first choose a published paper that describes an NLP experiment. We have a list of papers that are well suited for this project below, but of course you can also suggest to reproduce another one.
+You then implement and execute the experiments described in the paper, analyze your results and discuss them in light of the original paper’s results.
+Note that **reproducibility does not mean to create an exact replica of the original paper** (that would be replicability), instead [reproducibility](https://www.acm.org/publications/policies/artifact-review-badging) asks the question whether the idea is reproducible by a different team, a slightly different experimental setup and independently developed artifacts. 
+[This interesting paper](https://pdfs.semanticscholar.org/b95a/11620929f1c4760587ac99a8d6b4d8cbc547.pdf) on algorithm reproducibility (in particular Table 2!) may give you inspirations for what to look out for in terms of reproducibility.
 
+*Why should you choose this project type?* Because replicating experiments requires you to understand and apply the whole breadth of NLP - starting from finding the toolkit to use (or implement from scratch if you desire!), to the right document collection, implementation, metrics, and evaluation. It will give you a sense of how different choices for the above (toolkit, data, implementation, evaluation) influence your result.
 
 ### List of recommended NLP papers
 
+The page for most topics has several additional references. You can use these papers as a starting point to see who they cite and who references them (in Google Scholar, click on ‘citations’).
+
+   * [“Fake news” and stance detection](http://www.fakenewschallenge.org/)  
+    - [Ferreira & Vlachos (2016)](http://aclweb.org/anthology/N/N16/N16-1138.pdf)
+    - [Augenstein et al. (2016)](https://arxiv.org/abs/1606.05464)
+
+   * [Sentiment analysis on movies](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
+
+      - Pang and L. Lee. 2005. Seeing stars: Exploiting class relationships for sentiment categorization with respect to rating scales. In ACL, pages 115–124.
+
+   * [Irony detection:](https://competitions.codalab.org/competitions/17468)
+
+     -   [Monday mornings are my fave :) #not Exploring the Automatic Recognition of Irony in English tweets.]( http://www.aclweb.org/anthology/C16-1257)
+
+   * [Click-bait challenge](http://www.clickbait-challenge.org/)
+        - [Detecting Clickbait in Online Social Media: You Won't Believe How We Did It](https://arxiv.org/abs/1710.06699)
+
+
 ## 2. Investigating a research idea of your own choice
+You can also propose a research project within NLP of your own choice in consultation with the instructor (it can be a novel idea or involve reproducing an existing paper). To get inspired, take a look at recent conference proceedings at the major NLP conferences and competitions:
+
+   * [CL, NAACL, ACL, SemEval](http://aclweb.org/anthology/)
+   * [INLG/ENLG:](http://aclweb.org/anthology/siggen.html)
+   * [SemEval: Hyperpartisan News Detection](https://pan.webis.de/semeval19/semeval19-web/index.html)
+   * [Digital Text Forensics](https://pan.webis.de/clef19/pan19-web/index.html) e.g., Bots and Gender Profiling, Celebrity Profiling, Cross-Domain Authorship Attribution, Style Change Detection
+
+Why should you choose this project type? Because not all NLP topics are covered in depth in the lectures and you can investigate them further by choosing them as your research project.
 
 ## Restrictions
 
@@ -23,7 +54,7 @@ Based on prior experience we put the following restrictions on your choice of pr
 
 - **You can only conduct a project on neural NLP if you have succesfully completed the Deep Learning course beforehand.**
 - The main focus of your project is *NLP*. If you build a classifier, the features you study should be motivated by linguistic theory/previous findings in NLP.
-- If you use off the self solutions: be aware of the defaults and motivate why they are suitable for your problem.
+- If you use off the shelf solutions: be aware of the defaults and motivate why they are suitable for your problem.
 - Not all data is created equal -- what kind of biases might come from the dataset you are using?
 - The project focuses on **textual data** (not video/audio/genomics/.... data).
 
