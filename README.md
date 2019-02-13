@@ -111,7 +111,7 @@ In order to pass this course, you need to fullfil **all** of the following:
 
 We do not have fixed lab hours. Due to the heavy emphasis on project work in this course, we offer weekly support hours: 
 
-- **core IR**: during weeks 3.2 to 3.5 between 9am and 11:30am at least two staff members will be available to help groups with their IR project (maybe more, depending on the need). You can sign up for 15 minute timeslots (still deciding which tool to use).
+- **core IR**: during weeks 3.2 to 3.5 between 9am and 11:30am at least two staff members will be available to help groups with their IR project (maybe more, depending on the need). You can sign up for 15 minute timeslots via Doodle: https://doodle.com/poll/646g8ws5vy3d7bfc (admittedly a bit more messy than desired, but Brightspace does not have a good solution yet). Use your group name please to sign up for a slot.
 - **applied NLP**: during weeks 3.6 to 3.8 between 9am and 11:30am at least two staff members will be available to help groups with their NLP projects. Doodle will be updated: https://doodle.com/meetme/qc/MvGrwvAyGn
 
 ## :clock130: Course schedule
