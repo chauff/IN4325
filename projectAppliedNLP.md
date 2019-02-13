@@ -87,12 +87,12 @@ We suggest the following report structure:
 - Abstract
 - Introduction: problem statement, motivation for the problem, overall plan to tackle the problem
 - Background: what important works does this project build on
-- Approach: what methods/algorithms did you use
-- Experiments: describe your experiments, the results and discuss them
+- Approach: what methods/algorithms did you use (justify why these are suitable)
+- Experiments: describe your evaluation/experiments (justify experimental methodology), the results and discuss them (comparisons and critical discussion will be considered in the grading)
 - Conclusions: describe what you learnt/found and what avenues for future work you see
 - References
 
-The final report should also contain a link to a repository (or several) that contain the software you created, the scripts you used to analyze your data, etc.
+The final report should also contain a link to a repository (or several) that contain the (reasonably well documented) software you created, the scripts you used to analyze your data, etc.
 
 **Submission:** every group uploads their intermediate and final group project reports on Brightspace (one per group). The reports should be in PDF format. Note that after submission a plagiarism check is executed by Turnitin - please make sure to follow the academic rules of writing ([you can read them up here one more time](https://www.tudelft.nl/library/actuele-themas/copyright/c/plagiarism/)).
 
