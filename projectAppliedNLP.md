@@ -73,7 +73,7 @@ The proposal should contain between 300 and 400 words. Your proposal should addr
 4. Background readings: list at least 5 related papers that you will read to add context to your research
 5. Evaluation: how will you evaluate your algorithm/approach? Which evaluation metrics will you use?
 
-**Submission**: every group uploads their proposal on Brightspace. The proposal should be in PDF format and should contain the group name and the list of group members (name, student IDs).
+**Submission**: every group uploads their proposal on Brightspace (one per group). The proposal should be in PDF format and should contain the group name and the list of group members (name, student IDs).
 
 **Feedback**: the course team will provide feedback on the project proposal within a few days.
 
@@ -94,7 +94,7 @@ We suggest the following report structure:
 
 The final report should also contain a link to a repository (or several) that contain the software you created, the scripts you used to analyze your data, etc.
 
-Submission: every group uploads their intermediate and final group project reports on Brightspace. The reports should be in PDF format. Note that after submission a plagiarism check is executed by Turnitin - please make sure to follow the academic rules of writing ([you can read them up here one more time](https://www.tudelft.nl/library/actuele-themas/copyright/c/plagiarism/)).
+**Submission:** every group uploads their intermediate and final group project reports on Brightspace (one per group). The reports should be in PDF format. Note that after submission a plagiarism check is executed by Turnitin - please make sure to follow the academic rules of writing ([you can read them up here one more time](https://www.tudelft.nl/library/actuele-themas/copyright/c/plagiarism/)).
 
 The final project report is graded in combination with the project interview. The interview will be an academic discussion about the executed project.
 
