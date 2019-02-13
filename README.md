@@ -165,4 +165,4 @@ Applied NLP lecture weeks (the final deadline is in week 3.9):
 - NLP final project report: **due April 10**.
 - Review P13: handed out April 4, **due April 11**.
 - Review P14: handed out April 5, **due April 12**.
-- NLP project interviews: **** April 11 and April 12 ****.
+- NLP project interviews: ** April 11** and ** April 12 **.
