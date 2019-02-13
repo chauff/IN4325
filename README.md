@@ -39,6 +39,8 @@ This distribution also fits the lecturer team of this course: [Associate Prof. C
 
 Claudia and Nava are the responsible instructors of this course and can jointly be reached at **in4325-ewi@tudelft.nl**.
 
+The whole course team can also be found on a dedicated [Slack channel](https://join.slack.com/t/in43252019/signup) - join it to get quick feedback on questions/issues. You have to use your `@student.tudelft.nl` email address to join!
+
 ## ECs
 
 This is a **5 EC course**, with **140 hours** of course work in total. We expect you to spread the load evenly across the 10 weeks with 14 hours of work per week. 
