@@ -46,6 +46,7 @@ A number of open-source retrieval toolkits exist. They have different strengths 
 
    - [NLTK](http://www.nltk.org/)
    - [Apache OpenNLP](http://opennlp.apache.org/)
+   
    Also in Dutch:
    - [SentiStrength](http://sentistrength.wlv.ac.uk/)
    - [Polyglot](https://polyglot.readthedocs.io/en/latest/)
