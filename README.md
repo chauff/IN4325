@@ -43,7 +43,8 @@ The whole course team can also be found on a dedicated [Slack channel](https://j
 
 ## ECs
 
-This is a **5 EC course**, with **140 hours** of course work in total. We expect you to spread the load evenly across the 10 weeks with 14 hours of work per week. 
+This is a **5 EC course**, with **140 hours** of course work in total. We expect you to spread the load evenly across the 
+weeks with 14 hours of work per week. 
 
 ## Learning objectives
 
@@ -76,7 +77,7 @@ Group size:
 (this is a *tentative* number and depending on the number of students signing up for the course)
 The differences in group sizes will be taken into account during grading. 
 
-At the end of each project phase we will conduct a short interview (15 minutes per group) about the group project and its connection to the course content. Based on the project report and the interview, each member of the group receives a grade. We have two project phases (core IR and applied NLP), so each group will have one interview in week 5 (*tentatively*) and week 10 (*tentatively*).
+At the end of each project phase we will conduct a short interview (15 minutes per group) about the group project and its connection to the course content. Based on the project report and the interview, each member of the group receives a grade. We have two project phases (core IR and applied NLP), so each group will have one interview in week 5 (*tentatively*) and week 9 (*tentatively*).
 
 ### Weekly reviews
 
