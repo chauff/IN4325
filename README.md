@@ -27,7 +27,7 @@ The split (core IR / applied NLP) will be made halfway through the course: the f
 
 ## Course team
 
-This distribution also fits the lecturer team of this course: [Associate Prof. Claudia Hauff](https://chauff.github.io/) teaches the core IR lectures, while [Assistant Prof. Nava Tintarov](http://navatintarev.com/) teaches the applied NLP lectures. The course team is completed by a number of PhDs and Postdocs (all from the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who focuses on the grading of the paper reviews:
+This distribution also fits the lecturer team of this course: [Associate Prof. Claudia Hauff](https://chauff.github.io/) teaches the core IR lectures, while [Assistant Prof. Nava Tintarev](http://navatintarev.com/) teaches the applied NLP lectures. The course team is completed by a number of PhDs and Postdocs (all from the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who focuses on the grading of the paper reviews:
 
 - Oana Inel (Postdoc)
 - Dimitrios Bountouridis (Postdoc)
@@ -43,7 +43,8 @@ The whole course team can also be found on a dedicated [Slack channel](https://j
 
 ## ECs
 
-This is a **5 EC course**, with **140 hours** of course work in total. We expect you to spread the load evenly across the 10 weeks with 14 hours of work per week. 
+This is a **5 EC course**, with **140 hours** of course work in total. We expect you to spread the load evenly across the 
+weeks with 14 hours of work per week. 
 
 ## Learning objectives
 
@@ -67,13 +68,16 @@ This course has no final exam, instead the grade is largely determined through t
 
 ### Group projects
 
-The group projects follow each other. During the first 5 course weeks, the group tackles the [core IR project](projectCoreIR.md) (reproducing a research paper essentially), during the second 5 weeks of the course the group tackles the applied NLP project (which can but does not have to be a follow-up of the IR project).
+The group projects follow each other. During the first 5 course weeks, the group tackles the [core IR project](projectCoreIR.md) (reproducing a research paper essentially), during the second 5 weeks of the course the group tackles the applied NLP project.
 
-The group projects are tackled in teams of 2-3 students (this is a *tentative* number and depending on the number of students signing up for the course).
+Group size:
+- Core IR (2-3)
+- Applied NLP (3-4)
 
-At the end of each project phase we will conduct a short interview (15 minutes per group) about the group project and its connection to the course content. Based on the project report and the interview, each member of the group receives a grade. We have two project phases (core IR and applied NLP), so each group will have one interview in week 5 (*tentatively*) and week 10 (*tentatively*).
+(this is a *tentative* number and depending on the number of students signing up for the course)
+The differences in group sizes will be taken into account during grading. 
 
-You are expected to work within the same group for both project parts.
+At the end of each project phase we will conduct a short interview (15 minutes per group) about the group project and its connection to the course content. Based on the project report and the interview, each member of the group receives a grade. We have two project phases (core IR and applied NLP), so each group will have one interview in week 5 (*tentatively*) and week 9 (*tentatively*).
 
 ### Weekly reviews
 
