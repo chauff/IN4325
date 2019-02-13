@@ -136,27 +136,27 @@ Reminder of the rules:
 - The project proposal and intermediate report submissions are required, but are **not** graded. The proposal has to be signed off by an instructor (does it fit the project goals? is the scope sufficient?). The intermediate proposal can be a last chance for feedback. Submit whatever you have at that point.
 
 Core IR lecture weeks (the final deadline is in week 3.5):
-- :bust_in_silhouette: Review P1: handed out February 15, **due February 22**.
-- :busts_in_silhouette: Core IR project proposal: **due February 22**.
-- :bust_in_silhouette: Review P2: handed out February 21, **due February 28**.
-- :bust_in_silhouette: Review P3: handed out February 22, **due March 1**.
-- :bust_in_silhouette: Review P4: handed out February 28, **due March 7**.
-- :bust_in_silhouette: Review P5: handed out March 1, **due March 8**.
-- :busts_in_silhouette: Core IR intermediate project report: **due March 8**.
-- :busts_in_silhouette: Core IR final project report: **due March 13**.
-- :bust_in_silhouette: Review P6: handed out March 7, **due March 14**.
-- :bust_in_silhouette: Review P7: handed out March 8, **due March 15**.
-- :busts_in_silhouette: Core IR project interviews: **March 14** and **March 15**.
+- Review P1: handed out February 15, **due February 22**.
+- Core IR project proposal: **due February 22**.
+- Review P2: handed out February 21, **due February 28**.
+- Review P3: handed out February 22, **due March 1**.
+- Review P4: handed out February 28, **due March 7**.
+- Review P5: handed out March 1, **due March 8**.
+- Core IR intermediate project report: **due March 8**.
+- Core IR final project report: **due March 13**.
+- Review P6: handed out March 7, **due March 14**.
+- Review P7: handed out March 8, **due March 15**.
+- Core IR project interviews: **March 14** and **March 15**.
 
 Applied NLP lecture weeks (the final deadline is in week 3.10):
-- :bust_in_silhouette: Review P8: handed out March 15, **due March 22**.
-- :busts_in_silhouette: NLP project proposal: **due March 22**.
-- :bust_in_silhouette: Review P9: handed out March 21, **due March 28**.
-- :bust_in_silhouette: Review P10: handed out March 22, **due March 29**.
-- :bust_in_silhouette: Review P11: handed out March 28, **due April 4**.
-- :bust_in_silhouette: Review P12: handed out March 29, **due April 5**.
-- :busts_in_silhouette: NLP intermediate project report: **due April 5**.
-- :busts_in_silhouette: NLP final project report: **due April 10**.
-- :bust_in_silhouette: Review P13: handed out April 4, **due April 11**.
-- :bust_in_silhouette: Review P14: handed out April 5, **due April 12**.
-- :busts_in_silhouette: NLP project interviews: **** April 11 and April 12 ****.
+- Review P8: handed out March 15, **due March 22**.
+- NLP project proposal: **due March 22**.
+- Review P9: handed out March 21, **due March 28**.
+- Review P10: handed out March 22, **due March 29**.
+- Review P11: handed out March 28, **due April 4**.
+- Review P12: handed out March 29, **due April 5**.
+- NLP intermediate project report: **due April 5**.
+- NLP final project report: **due April 10**.
+- Review P13: handed out April 4, **due April 11**.
+- Review P14: handed out April 5, **due April 12**.
+- NLP project interviews: **** April 11 and April 12 ****.
