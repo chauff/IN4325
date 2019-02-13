@@ -29,6 +29,7 @@ Replication can be a lot of fun and yes, [it sometimes looks like this](https://
 - [Learning by Example: Training Users with High-quality Query Suggestions](https://www.researchgate.net/profile/Morgan_Harvey/publication/281436320_Learning_by_Example_Training_Users_with_High-quality_Query_Suggestions/links/55e6c38f08aeccc5bbb7abcf.pdf). The main question here is the following: _To what extent it is possible to aid users in learning how to formulate better queries by providing examples of high-quality queries interactively during a number of search sessions?_ The paper contains a number of studies, focus on the _main study_.
 - [Effects of Popularity and Quality on the Usage of Query Suggestions during Information Search](http://dmrussell.net/CHI2010/docs/p45.pdf). The laboratory study in this paper explores whether users are able to distinguish high-quality from low-quality query suggestions in the presence of misleading usage information.
 - [QWERTY: The Effects of Typing on Web Search Behavior](http://marksanderson.org/publications/my_papers/CHIIR2018-Kevin.pdf). The main question of the paper is the following: _What is the relationship between a user's typing speed and their search behavior?_ The paper is a short paper that is relatively light on the details of the conduted user study, which means that you can fill in the details as you see fit in your proposal. 
+- [User Performance versus Precision Measures for Simple Search Tasks](https://researchbank.rmit.edu.au/eserv/rmit:2446/n2006001961.pdf). This paper makes an interesting observation in a user study: there is little correlation between system performance (how effective is the system at retrieving relevant documents) and user performance (how good is the user at retrieving relevant docuemnts). The conducted user study is highly controlled (e.g. the result lists are precomputed), reproducing this work in a more natural setup (where users actually use a real search engine) would be great.
 - [Time Pressure and System Delays in Information Search](http://eprints.gla.ac.uk/106760/1/106760.pdf). The authors ask the question _What is the impact of time pressure and system delays on search behaviour?_ and answer it through a laboratory study. The paper is quite detailed on the setup, but there are plenty of options to create a slightly different setup to investigate the generalizability of the findings.
 
 ## 2. Investigating a research idea of your own choice
@@ -48,8 +49,8 @@ You can also propose a research project that covers a *core IR topic* of your ow
 Based on prior experience we put the following restrictions on your choice of project, no matter if you reproduce a paper or follow your own research idea:
 
 - **You can only conduct a project on neural IR if you have succesfully completed the Deep Learning course beforehand.**
-- Your project needs to have a **major IR component** (implementing a retrieval model, a query suggestions approach, a collaborative search engine interface, etc.).
-- The project makes use of an actual search engine.
+- The main focus of your project is *IR* (testing different retrieval models, evaluating different search engine result page interfaces, exploring different modes of searching, etc.). Recommender systems are not considered core IR.
+- The project makes use of an **actual search engine** (i.e. you set up your own instance of Lemur, Elasticsearch, etc.; it is not sufficient to retrieve search results from the Bing API).
 - The project focuses on **textual data** (not video/audio/genomics/.... data).
 
 We have a first deadline in week 3.2, so you will get early feedback on the suitability of your proposal.
