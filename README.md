@@ -72,6 +72,7 @@ The group projects follow each other. During the first 5 course weeks, the group
 Group size:
 - For the core IR project, the group size is limited to 2 or 3 students.
 - For the applied NLP project, the group size is limited to 3 or 4 students.
+
 (this is a *tentative* number and depending on the number of students signing up for the course)
 The differences in group sizes will be taken into account during grading. 
 
