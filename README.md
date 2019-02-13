@@ -43,8 +43,7 @@ The whole course team can also be found on a dedicated [Slack channel](https://j
 
 ## ECs
 
-This is a **5 EC course**, with **140 hours** of course work in total. We expect you to spread the load evenly across the 
-weeks with 14 hours of work per week. 
+This is a **5 EC course**, with **140 hours** of course work in total. We expect you to spread the load evenly across the 9 course weeks.
 
 ## Learning objectives
 
