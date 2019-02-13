@@ -67,17 +67,16 @@ This course has no final exam, instead the grade is largely determined through t
 
 ### Group projects
 
-The group projects follow each other. During the first 5 course weeks, the group tackles the [core IR project](projectCoreIR.md) (reproducing a research paper essentially), during the second 5 weeks of the course the group tackles the applied NLP project (which can but does not have to be a follow-up of the IR project).
+The group projects follow each other. During the first 5 course weeks, the group tackles the [core IR project](projectCoreIR.md) (reproducing a research paper essentially), during the second 5 weeks of the course the group tackles the applied NLP project.
 
-Group size: 3 (2-4 acceptable)
+Group size:
+- Core IR (2-3)
+- Applied NLP (3-4)
 
 (this is a *tentative* number and depending on the number of students signing up for the course)
 The differences in group sizes will be taken into account during grading. 
 
-
 At the end of each project phase we will conduct a short interview (15 minutes per group) about the group project and its connection to the course content. Based on the project report and the interview, each member of the group receives a grade. We have two project phases (core IR and applied NLP), so each group will have one interview in week 5 (*tentatively*) and week 10 (*tentatively*).
-
-You are expected to work within the same group for both project parts.
 
 ### Weekly reviews
 
