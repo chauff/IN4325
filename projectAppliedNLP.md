@@ -41,8 +41,8 @@ The page for most topics has several additional references. You can use these pa
 ## 2. Investigating a research idea of your own choice
 You can also propose a research project within NLP of your own choice in consultation with the instructor (it can be a novel idea or involve reproducing an existing paper). To get inspired, take a look at recent conference proceedings at the major NLP conferences and competitions:
 
-   * [CL, NAACL, ACL, SemEval](http://aclweb.org/anthology/)
-   * [INLG/ENLG:](http://aclweb.org/anthology/siggen.html)
+   * [CL, NAACL, ACL](http://aclweb.org/anthology/)
+   * [INLG/ENLG](http://aclweb.org/anthology/siggen.html)
    * [SemEval: Hyperpartisan News Detection](https://pan.webis.de/semeval19/semeval19-web/index.html)
    * [Digital Text Forensics](https://pan.webis.de/clef19/pan19-web/index.html) e.g., Bots and Gender Profiling, Celebrity Profiling, Cross-Domain Authorship Attribution, Style Change Detection
 
@@ -52,7 +52,7 @@ Why should you choose this project type? Because not all NLP topics are covered 
 
 Based on prior experience we put the following restrictions on your choice of project, no matter if you reproduce a paper or follow your own research idea:
 
-- **You can only conduct a project on neural NLP if you have succesfully completed the Deep Learning course beforehand.**
+- **You can only conduct a project on neural NLP if you have successfully completed the Deep Learning course beforehand.**
 - The main focus of your project is *NLP*. If you build a classifier, the features you study should be motivated by linguistic theory/previous findings in NLP.
 - If you use off the shelf solutions: be aware of the defaults and motivate why they are suitable for your problem.
 - Not all data is created equal -- what kind of biases might come from the dataset you are using?
