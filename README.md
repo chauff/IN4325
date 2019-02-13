@@ -67,22 +67,21 @@ This course has no final exam, instead the grade is largely determined through t
 
 ### Group projects
 
-The group projects follow each other. During the first 5 course weeks, the group tackles the [core IR project](projectCoreIR.md) (reproducing a research paper essentially), during the second 5 weeks of the course the group tackles the applied NLP project.
+The group projects follow each other. During the first 5 course weeks, the group tackles the [core IR project](projectCoreIR.md) (reproducing a research paper essentially), during the second 5 weeks of the course the group tackles the [applied NLP project](projectAppliedNLP.md).
 
 Group size:
 - Core IR (2-3)
 - Applied NLP (3-4)
 
-(this is a *tentative* number and depending on the number of students signing up for the course)
 The differences in group sizes will be taken into account during grading. 
 
 At the end of each project phase we will conduct a short interview (15 minutes per group) about the group project and its connection to the course content. Based on the project report and the interview, each member of the group receives a grade. We have two project phases (core IR and applied NLP), so each group will have one interview in week 5 (*tentatively*) and week 9 (*tentatively*).
 
 ### Weekly reviews
 
-Most lectures will be accompanied by **one required reading**, which is usually a scientific paper. For every required reading you are asked to write a *review*. These review activities are individual work.
+Most lectures are accompanied by **one required reading**, which is usually a scientific paper. For every required reading you are asked to write a *review*. These review activities are individual work.
 
-Each review is graded as either *excellent*, *sufficient* or *insufficient*. In order to pass the course, 9 of the 14 offered review opportunities have to be passed with at least *sufficient*. The review template can be found [here](reviewForm.md).
+Each review is graded as either *excellent*, *sufficient* or *insufficient*. In order to pass the course, 9 of the 14 offered review opportunities have to be passed with at least *sufficient*. Use the provided [review template](reviewForm.md) and follow its instructions. Reviews are submitted via Brightspace.
 
 ## Final grade
 
@@ -131,6 +130,8 @@ The lecture locations have been taken from [TUD's timetable site](https://mytime
 | 3.8  | NLP annotations (`Aula CZ C`, O. Inel)           | Word embeddings (`CT-CZ E`, N. Tintarev)     |   Intermediate applied NLP report due                     | 2            |
 | 3.9  |                                   |                                   |               applied NLP report due/interviews         |              |
 | 3.10 |                                   |                                   |  |              |
+
+We start off in weeks 3.1 to 3.4 with the [core IR module](lecturesCoreIR.md), alongside which the [core IR group project](projectCoreIR.md) runs. In week 3.5 we switch to the applied NLP module, alongside which the [applied NLP group project](projectAppliedNLP.md) runs.
 
 ## Deadlines
 
