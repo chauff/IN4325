@@ -40,7 +40,7 @@ Speech and Language Processing (3rd ed.) by Dan Jurafsky and James H. Martin. [A
 
 ### Software
 
-A number of open-source retrieval toolkits exist. They have different strengths and weaknesses. Which ones are applicable to your project depend to some extent in your *taste* of programming languages and the kind of retrieval models you are after:
+A number of open-source retrieval toolkits exist. They have different strengths and weaknesses. Which ones are applicable to your project depend to some extent in your *taste* of programming languages and the kind of NLP task you are working on:
 
 ### Open Source Natural Language Processing Tools
 
@@ -60,6 +60,9 @@ A number of open-source retrieval toolkits exist. They have different strengths 
 - [Stance detection](https://github.com/FakeNewsChallenge/fnc-1)
 
 ## Lecture 9: NLP Introduction
+Natural Language processing describes computational methods that allow computers to "understand" human communication. This lecture explains what Natural Language Processing does, and describes common NLP applications. It describes the kind of tasks that are solved by NLP, and the kind of components/sub-tasks that make it possible for us to solve these tasks.
+
+The slides are [online](https://drive.google.com/open?id=1Lp3RA4Bc7XZqrvEki43U2Vpj9xoC6KLw-JsjPY2jaDc) - **currently from the 2017/18 course edition**. The slides will be updated (as needed) after the lecture.
 
 ### Recommended readings
 
