@@ -22,9 +22,9 @@ Note that **reproducibility does not mean to create an exact replica of the orig
 
 The page for most topics has several additional references. You can use these papers as a starting point to see who they cite and who references them (in Google Scholar, click on ‘citations’).
 
-   * [“Fake news” and stance detection](http://www.fakenewschallenge.org/)  
-    - [Ferreira & Vlachos (2016)](http://aclweb.org/anthology/N/N16/N16-1138.pdf)
-    - [Augenstein et al. (2016)](https://arxiv.org/abs/1606.05464)
+   * [“Fake news” and stance detection](http://www.fakenewschallenge.org/)     
+      - [Ferreira & Vlachos (2016)](http://aclweb.org/anthology/N/N16/N16-1138.pdf)  
+      - [Augenstein et al. (2016)](https://arxiv.org/abs/1606.05464)
 
    * [Sentiment analysis on movies](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews)
 
