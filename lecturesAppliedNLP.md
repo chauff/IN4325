@@ -96,6 +96,7 @@ Fokkens, Antske, et al. "Offspring from reproduction problems: What replication 
 
 ### :warning: Paper P10 to review
 [An investigation into the validity of some metrics for automatically evaluating natural language generation systems](https://dl.acm.org/citation.cfm?id=1667994)
+
 Reiter, Ehud, and Anja Belz. "An investigation into the validity of some metrics for automatically evaluating natural language generation systems." Computational Linguistics 35.4 (2009): 529-558.
 
 ## Lecture 13: ML for NLP
@@ -123,6 +124,7 @@ Tintarev, Nava, et al. "MinkApp: Generating spatio-temporal summaries for nature
 ### Recommended readings
 
 [Exploiting 'subjective' annotations](https://dl.acm.org/citation.cfm?id=1611631)
+
 Reidsma, Dennis. "Exploiting 'subjective' annotations." Proceedings of the Workshop on Human Judgements in Computational Linguistics. Association for Computational Linguistics, 2008.
 
 ### :warning: Paper P13 to review
