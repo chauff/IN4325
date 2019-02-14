@@ -1,4 +1,4 @@
-<img src="img/wordcloud.png" width="200px">
+<img src="img/wordcloud.jpg" width="300px">
 
 # IN4325 <!-- omit in toc -->
 
