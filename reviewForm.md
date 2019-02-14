@@ -3,9 +3,9 @@
 *Use this review template below for the weekly reviews. It is heavily inspired by the review forms of [EMNLP](https://emnlp2018.org/reviewform/) and [ACL](https://acl2018.org/downloads/acl_2018_review_form.html).*
 
 Minimum requirements to achieve a *sufficient*:
-- All questions have to be answered. For questions (5) and (6) reporting the numeric score is enough.
-- Question (2) should be answered in at least 100 words. 
-- Questions (3) and (4) together should also contain at least 100 words.
+- All questions have to be answered. For questions (Q5) and (Q6) reporting the numeric score is enough.
+- Question (Q2) should be answered in at least 100 words. 
+- Questions (Q3) and (Q4) together should also contain at least 100 words.
 - The report provides a sensible review of the paper (it is on topic, raises at least some valid points). 
 - The review is individual work; a collaboration between group members (or other students) is not allowed. Reviews created in collaboration do not reach a sufficient grade.
 
@@ -15,21 +15,21 @@ Submit your review either in plain text or PDF format on Brightspace. Reviews ar
 
 ## Template
 
-1. **Student information** State your full name and student number.
+Q1. **Student information** State your full name and student number.
 
-2. **What is this paper about, and what contributions does it make?** Describe what problem(s) or question(s) this paper addresses, and the main contributions that it makes towards a solution or answer. The question asks you for a summary of the paper and its contributions to the field. Contributions very broadly can include anything that furthers knowledge of IR/NLP or its methodologies or its applications. A contribution could be: a new method, model, task, software, or dataset; analysis or a negative result about an existing method, model, task, software or dataset; methodological, conceptual, experimental, theoretical, or analytical advancement. Describe the contributions of this work as **you** see them, not as the authors see them. For example, the authors may think their method is a key contribution; however, you may think the method lacks novelty, but the data and evaluation are significant contributions.
+Q2. **What is this paper about, and what contributions does it make?** Describe what problem(s) or question(s) this paper addresses, and the main contributions that it makes towards a solution or answer. The question asks you for a summary of the paper and its contributions to the field. Contributions very broadly can include anything that furthers knowledge of IR/NLP or its methodologies or its applications. A contribution could be: a new method, model, task, software, or dataset; analysis or a negative result about an existing method, model, task, software or dataset; methodological, conceptual, experimental, theoretical, or analytical advancement. Describe the contributions of this work as **you** see them, not as the authors see them. For example, the authors may think their method is a key contribution; however, you may think the method lacks novelty, but the data and evaluation are significant contributions.
 
-3. **What strengths does this paper have?** Describe the main strengths you see in the paper or the work it describes. The second and third questions ask you about the strengths and weaknesses of this submission. Consider all aspects of the paper. Is it interesting, innovative, insightful? How original or creative is it? How impactful will it be? Is it well written? Is it clear what was done, and how it relates to or differs from existing work? How feasible would it be to replicate? This is not an exhaustive list of potentially positive or negative aspects.
+Q3. **What strengths does this paper have?** Describe the main strengths you see in the paper or the work it describes. The second and third questions ask you about the strengths and weaknesses of this submission. Consider all aspects of the paper. Is it interesting, innovative, insightful? How original or creative is it? How impactful will it be? Is it well written? Is it clear what was done, and how it relates to or differs from existing work? How feasible would it be to replicate? This is not an exhaustive list of potentially positive or negative aspects.
 
-4. **What weaknesses does this paper have?** Describe any weaknesses you see in the paper or the work it describes.
+Q4. **What weaknesses does this paper have?** Describe any weaknesses you see in the paper or the work it describes.
 
-5. **How reproducible is the work?** Researchers and practitioners ...
+Q5. **How reproducible is the work?** Researchers and practitioners ...
 - 4 => could easily reproduce the results and verify the correctness of the results described here.
 - 3 => could mostly reproduce the results described here, maybe by substituting public data for proprietary data.
 - 2 => could possibly reproduce the results described here with some difficulty. The settings of parameters are underspecified or very subjectively determined.
 - 1 => could not reproduce the results described here no matter how hard they tried.
 
-6. **How confident are you in your assessment of this paper?**
+Q6. **How confident are you in your assessment of this paper?**
 - 5 => Positive that my evaluation is correct. I read the paper very carefully and I am familiar with related work.
 - 4 => Quite sure. I tried to check the important points carefully. It's unlikely, though conceivable, that I missed something that should affect my ratings.
 - 3 => Pretty sure, but there's a chance I missed something. Although I have a good feel for this area in general, I did not carefully check the paper's details, e.g., the math, experimental design, or novelty.
