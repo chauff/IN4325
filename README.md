@@ -5,6 +5,7 @@
 This repository contains the materials of the **MSc Information Retrieval** course running in 2018/19 at TU Delft (Q3). The project setup is suitable for up to 100 students.
 
 ## Table of contents <!-- omit in toc -->
+- [Important links](#important-links)
 - [Course description](#course-description)
 - [Course team](#course-team)
 - [ECs](#ecs)
@@ -18,6 +19,15 @@ This repository contains the materials of the **MSc Information Retrieval** cour
   - [Applied NLP](#applied-nlp)
 - [:clock130: Course schedule](#clock130-course-schedule)
 - [Deadlines](#deadlines)
+
+## Important links
+
+- [Core IR lectures](lecturesCoreIR.md)
+- [Core IR project](projectCoreIR.md)
+- [Applied NLP lectures](lecturesAppliedNLP.md)
+- [Applied NLP project](projectAppliedNLP.md)
+- Signing up on Slack: [https://join.slack.com/t/in43252019/signup](https://join.slack.com/t/in43252019/signup)
+- Signing up for support and the group interview: [https://queue.ewi.tudelft.nl/](https://queue.ewi.tudelft.nl/)
 
 ## Course description
 
