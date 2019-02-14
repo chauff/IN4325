@@ -14,6 +14,8 @@ This repository contains the materials of the **MSc Information Retrieval** cour
   - [Weekly reviews](#weekly-reviews)
 - [Final grade](#final-grade)
 - [:hourglass: Weekly support hours and interview](#hourglass-weekly-support-hours-and-interview)
+  - [Core IR](#core-ir)
+  - [Applied NLP](#applied-nlp)
 - [:clock130: Course schedule](#clock130-course-schedule)
 - [Deadlines](#deadlines)
 
@@ -112,14 +114,16 @@ In order to pass this course, you need to fullfil **all** of the following:
 
 We do not have fixed lab hours. Due to the heavy emphasis on project work in this course, we offer weekly support hours: 
 
-**Core IR**: during weeks 3.2 to 3.5 between 9am and 11:30am at least three staff members will be available to help groups with their IR project. You can sign up for 15 minute timeslots on TU Delft's queue system: head to https://queue.ewi.tudelft.nl/ and look for `IN4325`. You should see something along those lines:
+### Core IR 
+During weeks 3.2 to 3.5 between 9am and 11:30am at least three staff members will be available to help groups with their IR project. You can sign up for 15 minute timeslots on TU Delft's queue system: head to https://queue.ewi.tudelft.nl/ and look for `IN4325`. You should see something along those lines:
 
 <img src="img/queue.png" width="600px">
 
 Click on the day you want to get support and then *enroll* for a particular timeslot. Per group, please pick only one timeslot per week. The support hours are offered in building 28, please come to the waiting area near room E04.100 (Claudia Hauff's office). As you can see in the image, the 
 **core IR interviews** on March 14/15 are also scheduled this way. *Once again: one timeslot per group!*
 
-**Applied NLP**: during weeks 3.6 to 3.8 between 9am and 11:30am at least two staff members will be available to help groups with their NLP projects. We are trialing a Doodle for this part: https://doodle.com/meetme/qc/MvGrwvAyGn
+### Applied NLP
+During weeks 3.6 to 3.8 between 9am and 11:30am at least two staff members will be available to help groups with their NLP projects. We are trialing a Doodle for this part: https://doodle.com/meetme/qc/MvGrwvAyGn
 
 ## :clock130: Course schedule
 
