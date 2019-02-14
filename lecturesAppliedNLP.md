@@ -96,6 +96,7 @@ Fokkens, Antske, et al. "Offspring from reproduction problems: What replication 
 
 ### :warning: Paper P10 to review
 [An investigation into the validity of some metrics for automatically evaluating natural language generation systems](https://dl.acm.org/citation.cfm?id=1667994)
+**Sections 2.1-2.3 only (6 pages)**
 
 Reiter, Ehud, and Anja Belz. "An investigation into the validity of some metrics for automatically evaluating natural language generation systems." Computational Linguistics 35.4 (2009): 529-558.
 
