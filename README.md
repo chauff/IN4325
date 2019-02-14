@@ -141,7 +141,7 @@ Reminder of the rules:
 
 Core IR lecture weeks (the final deadline is in week 3.5):
 
-:arrow_up_small: Review P1: handed out February 15, **due February 22**.
+:arrow_up_small::arrow_down_small: Review P1: handed out February 15, **due February 22**.
 
 :small_red_triangle: Core IR project proposal: **due February 22**.
 
