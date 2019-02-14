@@ -133,45 +133,57 @@ We start off in weeks 3.1 to 3.4 with the [core IR module](lecturesCoreIR.md), a
 
 ## Deadlines
 
-This course has a number of smaller (the paper reviews) and larger (anything to do with the group projects) deadlines. They are listed here in order of **due date**. The deadlines are always at 23:59 CET (i.e. local time) of the respective deadline day. We rely on Brigthspace for submission. Brightspace submissions close automatically, be sure to not be late.
+This course has a number of smaller (the paper reviews :small_blue_diamond:) and larger (anything to do with the group projects :small_orange_diamond:) deadlines. They are listed here in order of **due date**. The deadlines are always at 23:59 CET (i.e. local time) of the respective deadline day. We rely on Brigthspace for submission. Brightspace submissions close automatically, be sure to not be late.
 
 Reminder of the rules:
 - You need to pass 9 out of 14 reviews with a grade of *sufficient*.
 - The project proposal and intermediate report submissions are required, but are **not** graded. The proposal has to be signed off by an instructor (does it fit the project goals? is the scope sufficient?). The intermediate proposal can be a last chance for feedback. Submit whatever you have at that point.
 
-Core IR lecture weeks (the final deadline is in week 3.5):
+**Core IR lecture weeks (the final deadline is in week 3.5):**
 
-:arrow_up_small::arrow_down_small: Review P1: handed out February 15, **due February 22**.
+:small_blue_diamond: Review P1: handed out February 15, **due February 22**.
 
-:small_red_triangle: Core IR project proposal: **due February 22**.
+:small_blue_diamond: Core IR project proposal: **due February 22**.
 
-:arrow_up_small: Review P2: handed out February 21, **due February 28**.
+:small_blue_diamond: Review P2: handed out February 21, **due February 28**.
 
-:arrow_up_small: Review P3: handed out February 22, **due March 1**.
+:small_blue_diamond: Review P3: handed out February 22, **due March 1**.
 
-:arrow_up_small: Review P4: handed out February 28, **due March 7**.
+:small_blue_diamond: Review P4: handed out February 28, **due March 7**.
 
-:arrow_up_small: Review P5: handed out March 1, **due March 8**.
+:small_blue_diamond: Review P5: handed out March 1, **due March 8**.
 
-:small_red_triangle: Core IR intermediate project report: **due March 8**.
+:small_orange_diamond: Core IR intermediate project report: **due March 8**.
 
-:small_red_triangle: Core IR final project report: **due March 13**.
+:small_orange_diamond: Core IR final project report: **due March 13**.
 
-:arrow_up_small: Review P6: handed out March 7, **due March 14**.
+:small_blue_diamond: Review P6: handed out March 7, **due March 14**.
 
-:arrow_up_small: Review P7: handed out March 8, **due March 15**.
+:small_blue_diamond: Review P7: handed out March 8, **due March 15**.
 
-:small_red_triangle: Core IR project interviews: **March 14** and **March 15**.
+:small_orange_diamond:: Core IR project interviews: **March 14** and **March 15**.
 
-Applied NLP lecture weeks (the final deadline is in week 3.9):
-- Review P8: handed out March 15, **due March 22**.
-- NLP project proposal: **due March 22**.
-- Review P9: handed out March 21, **due March 28**.
-- Review P10: handed out March 22, **due March 29**.
-- Review P11: handed out March 28, **due April 4**.
-- Review P12: handed out March 29, **due April 5**.
-- NLP intermediate project report: **due April 5**.
-- NLP final project report: **due April 10**.
-- Review P13: handed out April 4, **due April 11**.
-- Review P14: handed out April 5, **due April 12**.
-- NLP project interviews: **April 11** and **April 12**.
+
+**Applied NLP lecture weeks (the final deadline is in week 3.9):**
+
+:small_blue_diamond: Review P8: handed out March 15, **due March 22**.
+
+:small_orange_diamond: NLP project proposal: **due March 22**.
+
+:small_blue_diamond: Review P9: handed out March 21, **due March 28**.
+
+:small_blue_diamond: Review P10: handed out March 22, **due March 29**.
+
+:small_blue_diamond: Review P11: handed out March 28, **due April 4**.
+
+:small_blue_diamond: Review P12: handed out March 29, **due April 5**.
+
+:small_orange_diamond: NLP intermediate project report: **due April 5**.
+
+:small_orange_diamond: NLP final project report: **due April 10**.
+
+:small_blue_diamond: Review P13: handed out April 4, **due April 11**.
+
+:small_blue_diamond: Review P14: handed out April 5, **due April 12**.
+
+:small_orange_diamond: NLP project interviews: **April 11** and **April 12**.
