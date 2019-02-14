@@ -4,8 +4,8 @@
 
 Minimum requirements to achieve a *sufficient*:
 - All questions have to be answered. For questions (5) and (6) reporting the numeric score is enough.
-- Question (1) should be answered in at least 100 words. 
-- Questions (2) and (3) together should also contain at least 100 words.
+- Question (2) should be answered in at least 100 words. 
+- Questions (3) and (4) together should also contain at least 100 words.
 - The report provides a sensible review of the paper (it is on topic, raises at least some valid points). 
 - The review is individual work; a collaboration between group members (or other students) is not allowed. Reviews created in collaboration do not reach a sufficient grade.
 
