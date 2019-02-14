@@ -110,8 +110,13 @@ In order to pass this course, you need to fullfil **all** of the following:
 
 We do not have fixed lab hours. Due to the heavy emphasis on project work in this course, we offer weekly support hours: 
 
-- **core IR**: during weeks 3.2 to 3.5 between 9am and 11:30am at least two staff members will be available to help groups with their IR project (maybe more, depending on the need). You can sign up for 15 minute timeslots (still investigating what system to use).
-- **applied NLP**: during weeks 3.6 to 3.8 between 9am and 11:30am at least two staff members will be available to help groups with their NLP projects. Doodle will be updated: https://doodle.com/meetme/qc/MvGrwvAyGn
+**Core IR**: during weeks 3.2 to 3.5 between 9am and 11:30am at least three staff members will be available to help groups with their IR project. You can sign up for 15 minute timeslots on TU Delft's queue system: head to https://queue.ewi.tudelft.nl/ and look for `IN4325`. You should see something along those lines:
+
+<img src="img/queue.png" width="400px">
+
+Click on the day you want to get support and then *enroll* for a particular timeslot. Per group, please pick only one timeslot per week. The support hours are offered in building 28, please come to the waiting area near room E04.100 (Claudia Hauff's office).
+
+**Applied NLP**: during weeks 3.6 to 3.8 between 9am and 11:30am at least two staff members will be available to help groups with their NLP projects. We are trialing a Doodle for this part: https://doodle.com/meetme/qc/MvGrwvAyGn
 
 ## :clock130: Course schedule
 
