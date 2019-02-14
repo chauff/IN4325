@@ -1,15 +1,15 @@
 # IN4325 <!-- omit in toc -->
 
-This is an overview of the **Information Retrieval** (IR) course running in 2018/19 at TU Delft (Q3).
+This repository contains the materials of the **MSc Information Retrieval** course running in 2018/19 at TU Delft (Q3). The project setup is suitable for up to 100 students.
 
 ## Table of contents <!-- omit in toc -->
 - [Course description](#course-description)
 - [Course team](#course-team)
 - [ECs](#ecs)
 - [Learning objectives](#learning-objectives)
-- [Assessment](#assessment)
-    - [Group projects](#group-projects)
-    - [Weekly reviews](#weekly-reviews)
+- [:dart: Assessment](#dart-assessment)
+  - [Group projects](#group-projects)
+  - [Weekly reviews](#weekly-reviews)
 - [Final grade](#final-grade)
 - [:hourglass: Weekly support hours](#hourglass-weekly-support-hours)
 - [:clock130: Course schedule](#clock130-course-schedule)
@@ -17,13 +17,15 @@ This is an overview of the **Information Retrieval** (IR) course running in 2018
 
 ## Course description
 
+<img style="float:right;" src="img/library.png" width="200px">
+
 Retrieving relevant information and making sense of it are two central activities in modern knowledge-driven societies. As the amount and variety of data increase at an unprecedented rate, access to relevant, usually unstructured information is becoming more and more challenging. The web is now the first stop for many (or most?) information seekers, and web search engines are our key to unlocking that vast and largely unstructured pile of information. 
 
-**But how do search engines actually work?** This is what this course is about. In the **first half** of the course, we focus on **core IR** techniques such as indexing, retrieval models, evaluation metrics and so on. 
+**But how do search engines actually work?** This is what this course is about. In the **first module** of the course, we focus on **core IR** techniques such as indexing, retrieval models, evaluation metrics and so on. 
 
-In the **second half** of the course we cover natural language processing (NLP) and natural language generation (NLG). While for many years, IR and NLP researchers stayed far away from each other, in recent years the two fields have moved closer together, with search engines using many NLP techniques to enhance the search experience--e.g. by providing automatically generated explanations of search result rankings and by enabling a _dialogue_ to take place between the search engine and user.
+In the **second module** of the course we cover natural language processing (NLP) and natural language generation (NLG). While for many years, IR and NLP researchers stayed far away from each other, in recent years the two fields have moved closer together, with search engines using many NLP techniques to enhance the search experience--e.g. by providing automatically generated explanations of search result rankings and by enabling a _dialogue_ to take place between the search engine and user.
 
-The split (core IR / applied NLP) will be made halfway through the course: the first eight lectures cover core IR techniques, the next eight lectures cover applied NLP techniques with applications to search in mind. 
+The split (core IR / applied NLP) will be made halfway through the course: the first eight lectures cover core IR techniques, the remaining eight lectures cover applied NLP techniques with applications to search in mind. 
 
 ## Course team
 
@@ -57,7 +59,7 @@ This is a **5 EC course**, with **140 hours** of course work in total. We expect
 - **Evaluate** natural language processing applications in different task contexts.
 - Illustrate suitable application scenarios for advanced natural language processing topics such as **natural language queries** and **summarization**.
 
-## Assessment
+## :dart: Assessment
 
 This course has no final exam, instead the grade is largely determined through three components: 
 
@@ -85,11 +87,7 @@ Each review is graded as either *excellent*, *sufficient* or *insufficient*. In 
 
 ## Final grade
 
-1. The **core IR project** contributes 45% to the final grade.
-
-2. The **applied NLP project** contributes 45% to the final grade.
-   
-3. The **paper reviews** contribute 10% to the final grade. 
+<img src="img/grading.png" width="400px">
 
 Each of the two project phases is worth 45% of the final grade, consisting of the following parts:
 - Report writing, background & context:  10%
