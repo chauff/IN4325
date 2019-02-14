@@ -11,7 +11,7 @@ The following sections contain the materials for the eight applied NLP lectures.
   - [Datasets](#datasets)
 - [Lecture 9: NLP introduction (week 3.5)](#lecture-9-NLP-Introduction)
   - [Recommended readings](#recommended-readings)
-- [Lecture 10: Text analysis (week 3.5)](#lecture-10-Text-analysis)
+- [Lecture 10: Text analysis (week 3.5)](#lecture-10-Syntax)
   - [Recommended readings](#recommended-readings)
   - [:warning: Paper P8 to review](#warning-paper-p8-to-review)
 - [Lecture 11: Semantics (week 3.6)](#lecture-11-Semantics)
@@ -67,13 +67,15 @@ Natural Language processing describes computational methods that allow computers
 The slides are [online](https://drive.google.com/open?id=1Lp3RA4Bc7XZqrvEki43U2Vpj9xoC6KLw-JsjPY2jaDc) - **currently from the 2017/18 course edition**. The slides will be updated (as needed) after the lecture.
 
 ### Recommended readings
-[Deterministic dependency parsing of English text](https://dl.acm.org/citation.cfm?doid=1220355.1220365)
 
-## Lecture 10: Text analysis
+## Lecture 10: Syntax
 
 ### Recommended readings
 
 ### :warning: Paper P8 to review
+[The Social Impact of Natural Language Processing](https://aclanthology.info/papers/P16-2096/p16-2096)
+
+
 
 
 ## Lecture 11: Semantics
@@ -82,6 +84,8 @@ The slides are [online](https://drive.google.com/open?id=1Lp3RA4Bc7XZqrvEki43U2V
 
 
 ### :warning: Paper P9 to review
+[Offspring from reproduction problems: What replication failure teaches us](https://aclanthology.info/papers/P13-1166/p13-1166)
+Fokkens, Antske, et al. "Offspring from reproduction problems: What replication failure teaches us." Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Vol. 1. 2013.
 
 
 ## Lecture 12: Evaluation NLP
@@ -90,6 +94,7 @@ The slides are [online](https://drive.google.com/open?id=1Lp3RA4Bc7XZqrvEki43U2V
 ### Recommended readings
 
 ### :warning: Paper P10 to review
+[An investigation into the validity of some metrics for automatically evaluating natural language generation systems](https://dl.acm.org/citation.cfm?id=1667994)
 
 ## Lecture 13: ML for NLP
 
@@ -97,7 +102,7 @@ The slides are [online](https://drive.google.com/open?id=1Lp3RA4Bc7XZqrvEki43U2V
 
 
 ### :warning: Paper P11 to review
-
+[Thumbs up?: sentiment classification using machine learning techniques](https://dl.acm.org/citation.cfm?doid=1118693.1118704)
 
 
 
@@ -107,13 +112,14 @@ The slides are [online](https://drive.google.com/open?id=1Lp3RA4Bc7XZqrvEki43U2V
 
 
 ### :warning: Paper P12 to review
-
+[MinkApp: generating spatio-temporal summaries for nature conservation volunteers](https://dl.acm.org/citation.cfm?id=2392720)
 
 
 ## Lecture 15: NLP annotations
 
 ### Recommended readings
 
+[Exploiting 'subjective' annotations](https://dl.acm.org/citation.cfm?id=1611631)
 
 ### :warning: Paper P13 to review
 
@@ -123,5 +129,5 @@ The slides are [online](https://drive.google.com/open?id=1Lp3RA4Bc7XZqrvEki43U2V
 
 
 ### :warning: Paper P14 to review
-
+[Two/Too Simple Adaptations of Word2Vec for Syntax Problems](https://aclanthology.info/papers/N15-1142/n15-1142)
 
