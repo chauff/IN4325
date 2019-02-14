@@ -152,7 +152,7 @@ Reminder of the rules:
 
 :small_blue_diamond: Review P1: handed out February 15, **due February 22**.
 
-:small_blue_diamond: Core IR project proposal: **due February 22**.
+:small_orange_diamond: Core IR project proposal: **due February 22**.
 
 :small_blue_diamond: Review P2: handed out February 21, **due February 28**.
 
