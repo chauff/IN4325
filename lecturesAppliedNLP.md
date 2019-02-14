@@ -38,6 +38,8 @@ The following sections contain the materials for the eight applied NLP lectures.
 ### Book
 Speech and Language Processing (3rd ed.) by Dan Jurafsky and James H. Martin. [Available online](https://web.stanford.edu/~jurafsky/slp3).
 
+Natural language processing, forthcoming with MIT press.[Also online](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
 ### Software
 
 A number of open-source retrieval toolkits exist. They have different strengths and weaknesses. Which ones are applicable to your project depend to some extent in your *taste* of programming languages and the kind of NLP task you are working on:
