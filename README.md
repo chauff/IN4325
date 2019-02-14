@@ -69,6 +69,8 @@ This course has no final exam, instead the grade is largely determined through t
 2. a group project applied NLP.
 3. individual review activities.
 
+**All assessment items (reviews, projects reports) have to be submitted via Brightspace.**
+
 ### Group projects
 
 The group projects follow each other. During the first 5 course weeks, the group tackles the [core IR project](projectCoreIR.md) (reproducing a research paper essentially), during the second 5 weeks of the course the group tackles the [applied NLP project](projectAppliedNLP.md).
@@ -136,7 +138,7 @@ The lecture locations have been taken from [TUD's timetable site](https://mytime
 | 3.9  |                                   |                                   |               applied NLP report due/interviews         |              |
 | 3.10 |                                   |                                   |  |              |
 
-We start off in weeks 3.1 to 3.4 with the [core IR module](lecturesCoreIR.md), alongside which the [core IR group project](projectCoreIR.md) runs. In week 3.5 we switch to the applied NLP module, alongside which the [applied NLP group project](projectAppliedNLP.md) runs.
+We start off in weeks 3.1 to 3.4 with the [core IR module](lecturesCoreIR.md), alongside which the [core IR group project](projectCoreIR.md) runs. In week 3.5 we switch to the [applied NLP module](lecturesAppliedNLP.md), alongside which the [applied NLP group project](projectAppliedNLP.md) runs.
 
 ## Deadlines
 
