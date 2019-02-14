@@ -115,6 +115,7 @@ Fokkens, Antske, et al. "Offspring from reproduction problems: What replication 
 
 
 ## Lecture 12: Evaluation NLP
+<img src="img/overfitting.jpg" width="300px" align="middle">
 How do we know if our NLP methods are working well? What are the methods used in NLP, and what are the metrics? How do we interpret these are when are they suitable? This lecture looks at evaluation, and assessing the performance of NLP systems.
 
 ### Recommended readings
