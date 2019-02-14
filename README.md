@@ -116,9 +116,8 @@ We do not have fixed lab hours. Due to the heavy emphasis on project work in thi
 
 <img src="img/queue.png" width="600px">
 
-Click on the day you want to get support and then *enroll* for a particular timeslot. Per group, please pick only one timeslot per week. The support hours are offered in building 28, please come to the waiting area near room E04.100 (Claudia Hauff's office).
-
-**The core IR interviews on March 14/15 are also scheduled this way. One timeslot per group!**
+Click on the day you want to get support and then *enroll* for a particular timeslot. Per group, please pick only one timeslot per week. The support hours are offered in building 28, please come to the waiting area near room E04.100 (Claudia Hauff's office). As you can see in the image, the 
+**core IR interviews** on March 14/15 are also scheduled this way. *Once again: one timeslot per group!*
 
 **Applied NLP**: during weeks 3.6 to 3.8 between 9am and 11:30am at least two staff members will be available to help groups with their NLP projects. We are trialing a Doodle for this part: https://doodle.com/meetme/qc/MvGrwvAyGn
 
