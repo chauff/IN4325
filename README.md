@@ -13,7 +13,7 @@ This repository contains the materials of the **MSc Information Retrieval** cour
   - [Group projects](#group-projects)
   - [Weekly reviews](#weekly-reviews)
 - [Final grade](#final-grade)
-- [:hourglass: Weekly support hours](#hourglass-weekly-support-hours)
+- [:hourglass: Weekly support hours and interview](#hourglass-weekly-support-hours-and-interview)
 - [:clock130: Course schedule](#clock130-course-schedule)
 - [Deadlines](#deadlines)
 
@@ -108,7 +108,7 @@ In order to pass this course, you need to fullfil **all** of the following:
 
 
 
-## :hourglass: Weekly support hours
+## :hourglass: Weekly support hours and interview
 
 We do not have fixed lab hours. Due to the heavy emphasis on project work in this course, we offer weekly support hours: 
 
@@ -117,6 +117,8 @@ We do not have fixed lab hours. Due to the heavy emphasis on project work in thi
 <img src="img/queue.png" width="600px">
 
 Click on the day you want to get support and then *enroll* for a particular timeslot. Per group, please pick only one timeslot per week. The support hours are offered in building 28, please come to the waiting area near room E04.100 (Claudia Hauff's office).
+
+**The core IR interviews on March 14/15 are also scheduled this way. One timeslot per group!**
 
 **Applied NLP**: during weeks 3.6 to 3.8 between 9am and 11:30am at least two staff members will be available to help groups with their NLP projects. We are trialing a Doodle for this part: https://doodle.com/meetme/qc/MvGrwvAyGn
 
