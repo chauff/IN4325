@@ -36,6 +36,8 @@ The page for most topics has several additional references. You can use these pa
 
    * [Click-bait challenge](http://www.clickbait-challenge.org/)
         - [Detecting Clickbait in Online Social Media: You Won't Believe How We Did It](https://arxiv.org/abs/1710.06699)
+   * [Natural Language Generation](https://researchportal.hw.ac.uk/en/datasets/nlg-dataset)
+      - [Crowd-sourcing NLG Data: Pictures Elicit Better Data"](https://aclweb.org/anthology/W/W16/W16-6644.pdf)
 
 
 ## 2. Investigating a research idea of your own choice
