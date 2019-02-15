@@ -14,7 +14,7 @@ You can choose between two types of projects: reproducing an IR paper of our cho
 
 You first choose a published paper that describes an IR experiment. There are two main types of IR papers: (1) those that contain studies with **actual users** and (2) those that contain experiments that are based on test collections **not involving actual users**. While the foci of papers of type (1) are on the building of the system, the execution of the user study and the evaluation of the user logs, in type (2) the main foci are the development and implementation of algorithm(s), their deployment and the subsequent error analyses (why or why not does the new approach outperform the baselines).
 
-Based on both types of papers, we have created two lists of papers that are well suited for the group project.
+Based on both types of papers, we have created two lists of papers that are well suited for the group project. Several groups can choose the same paper. To be clear though, **collaborations across groups are not allowed** - every group has to work independently.
 
 Note that **reproducibility does not mean to create an exact replica of the original paper** (that would be replicability), instead [reproducibility](https://www.acm.org/publications/policies/artifact-review-badging) asks the question whether the idea is reproducible by a different team, a slightly different experimental setup and independently developed artifacts.
 [This interesting paper](https://pdfs.semanticscholar.org/b95a/11620929f1c4760587ac99a8d6b4d8cbc547.pdf) on algorithm reproducibility (in particular Table 2!) may give you inspirations for what to look out for in terms of reproducibility.
