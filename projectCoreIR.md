@@ -6,9 +6,9 @@ There are three expected outputs:
 2. **Intermediate project report** (mandatory, but ungraded - you will receive feedback).
 3. **Final project report** (mandatory, graded).
 
-**Group projects are conducted in groups of 2-3 students. Please enroll together with your team members in group on Brightspace - we have predefined 40 different groups, take your pick!**
+**Group projects are conducted in groups of 2-3 students. Please enroll together with your team members in group on Brightspace - we have predefined 40 different groups, take your pick! Make sure to be in the core IR project category!**
 
-You can choose between two types of projects: reproducing an IR paper of our choice or investigating a research idea of your own.
+You can choose between two types of projects: reproducing an IR paper of our choice or investigating a research idea of your own. If you are in doubt, pick one of the papers listed here as good targets for reproduction. They are all equally well-suited for this course.
 
 ## 1. Reproducing an IR paper of our choice
 

@@ -1,4 +1,4 @@
-<img src="img/wordcloud.jpg" width="300px">
+<img src="img/wordcloud.jpg" width="300px" align="middle">
 
 # IN4325 <!-- omit in toc -->
 
@@ -26,6 +26,7 @@ This repository contains the materials of the **MSc Information Retrieval** cour
 - [Core IR project](projectCoreIR.md)
 - [Applied NLP lectures](lecturesAppliedNLP.md)
 - [Applied NLP project](projectAppliedNLP.md)
+- [Paper review form](reviewForm.md)
 - Signing up on Slack: [https://join.slack.com/t/in43252019/signup](https://join.slack.com/t/in43252019/signup)
 - Signing up for support and the group interview: [https://queue.ewi.tudelft.nl/](https://queue.ewi.tudelft.nl/)
 
@@ -133,7 +134,10 @@ Click on the day you want to get support and then *enroll* for a particular time
 **core IR interviews** on March 14/15 are also scheduled this way. *Once again: one timeslot per group!*
 
 ### Applied NLP
-During weeks 3.6 to 3.8 between 9am and 11:30am at least two staff members will be available to help groups with their NLP projects. We are trialing a Doodle for this part: https://doodle.com/meetme/qc/MvGrwvAyGn
+During weeks 3.6 to 3.8 between 9am and 11:30am at least two staff members will be available to help groups with their NLP projects. You can sign up for 15 minute timeslots on TU Delft's queue system: https://queue.ewi.tudelft.nl/
+
+The support hours are offered in building 28, please come to the waiting area near room W04.900 (Nava Tintarev's office).
+**NLP interviews** on April 11/12 are also scheduled this way. *Once again: one timeslot per group!*
 
 ## :clock130: Course schedule
 
