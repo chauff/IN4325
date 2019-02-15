@@ -23,7 +23,7 @@ Reproducing published work can be a lot of fun and yes, [it sometimes looks like
 
 ### List of IR papers with user studies
 
-*These papers have different lengths (some are 4 pages, some are 10+ pages). While it is feasible to attempt to reproduce a 4 page paper, for the 10+ page papers, you have to make a selection of the paper aspects to reproduce; use the proposal to argue for your decisions.* 
+*These papers have different lengths (some are 4 pages, some are 10+ pages). While it is feasible to attempt to reproduce a 4 page paper, for the 10+ page papers, you have to make a selection of the paper aspects to reproduce; use the proposal to argue for your decisions. Avoid if possible to ask study colleagues that have taken or are at the moment taking this course (IN4325) - they may think too much about the experiments to be 'good' study participants.* 
 
 *While in these works the user study participants were almost always paid, you will use what's called "opportunity sampling" (or convenience sampling) of study participants: you will find study participants that are easy for you to approach (family member, study friends, users of the TUD library, etc.).*
 
