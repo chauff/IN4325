@@ -19,7 +19,7 @@ Based on both types of papers, we have created two lists of papers that are well
 Note that **reproducibility does not mean to create an exact replica of the original paper** (that would be replicability), instead [reproducibility](https://www.acm.org/publications/policies/artifact-review-badging) asks the question whether the idea is reproducible by a different team, a slightly different experimental setup and independently developed artifacts.
 [This interesting paper](https://pdfs.semanticscholar.org/b95a/11620929f1c4760587ac99a8d6b4d8cbc547.pdf) on algorithm reproducibility (in particular Table 2!) may give you inspirations for what to look out for in terms of reproducibility.
 
-Replication can be a lot of fun and yes, [it sometimes looks like this](https://twitter.com/DevilleSy/status/958761021421903872)!
+Reproducing published work can be a lot of fun and yes, [it sometimes looks like this](https://twitter.com/DevilleSy/status/958761021421903872)!
 
 ### List of IR papers with user studies
 
