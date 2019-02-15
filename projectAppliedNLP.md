@@ -22,6 +22,9 @@ Note that **reproducibility does not mean to create an exact replica of the orig
 
 The page for most topics has several additional references. You can use these papers as a starting point to see who they cite and who references them (in Google Scholar, click on ‘citations’).
 
+   * [Natural Language Generation](https://researchportal.hw.ac.uk/en/datasets/nlg-dataset)
+      - [Crowd-sourcing NLG Data: Pictures Elicit Better Data](https://aclweb.org/anthology/W/W16/W16-6644.pdf)
+      
    * [“Fake news” and stance detection](http://www.fakenewschallenge.org/)     
       - [Ferreira & Vlachos (2016)](http://aclweb.org/anthology/N/N16/N16-1138.pdf)  
       - [Augenstein et al. (2016)](https://arxiv.org/abs/1606.05464)
@@ -36,8 +39,7 @@ The page for most topics has several additional references. You can use these pa
 
    * [Click-bait challenge](http://www.clickbait-challenge.org/)
         - [Detecting Clickbait in Online Social Media: You Won't Believe How We Did It](https://arxiv.org/abs/1710.06699)
-   * [Natural Language Generation](https://researchportal.hw.ac.uk/en/datasets/nlg-dataset)
-      - [Crowd-sourcing NLG Data: Pictures Elicit Better Data"](https://aclweb.org/anthology/W/W16/W16-6644.pdf)
+
 
 
 ## 2. Investigating a research idea of your own choice
