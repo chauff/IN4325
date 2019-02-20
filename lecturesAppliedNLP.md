@@ -71,6 +71,8 @@ The slides are [online](https://drive.google.com/open?id=1Lp3RA4Bc7XZqrvEki43U2V
 ## Lecture 10: Syntax
 While human language is very flexible, it does follow certain rules, principles, and processes that govern the structure of sentences. We can use that structure to improve machine understanding of human language, and solve many NLP tasks. Therefore this lecture focuses on syntax, or the structure of sentences.
 
+** NLP project proposal: due March 22.**
+
 ### Recommended readings
 [Large Language Models in Machine Translation ("Stupid Backoff")](http://www.aclweb.org/anthology/D07-1090.pdf)
 [NLP book - Part-of-speech tagging:](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
@@ -88,6 +90,7 @@ While human language is very flexible, it does follow certain rules, principles,
 
 Hovy, Dirk, and Shannon L. Spruit. "The social impact of natural language processing." Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers). Vol. 2. 2016.
 
+Review P8: handed out March 15, due March 22.
 
 ## Lecture 11: Semantics
 What does it mean, what does it all mean? Unlike controlled languages, natural language is full of ambiguities. Words have multiple meanings, and words are related to each other in different ways. This lecture looks at semantics, or **meaning** in language.
@@ -113,9 +116,10 @@ What does it mean, what does it all mean? Unlike controlled languages, natural l
 
 Fokkens, Antske, et al. "Offspring from reproduction problems: What replication failure teaches us." Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Vol. 1. 2013.
 
+Review P9: handed out March 21, due March 28.
 
 ## Lecture 12: Evaluation NLP
-<img src="img/overfitting.jpg" width="300px" align="middle">
+
 How do we know if our NLP methods are working well? What are the methods used in NLP, and what are the metrics? How do we interpret these are when are they suitable? This lecture looks at evaluation, and assessing the performance of NLP systems.
 
 ### Recommended readings
@@ -126,8 +130,11 @@ How do we know if our NLP methods are working well? What are the methods used in
 
 Reiter, Ehud, and Anja Belz. "An investigation into the validity of some metrics for automatically evaluating natural language generation systems." Computational Linguistics 35.4 (2009): 529-558.
 
+Review P10: handed out March 22, due March 29.
+
 ## Lecture 13: ML for NLP
 How do we apply what we know about classifiers and regression to NLP problems? What are commonpitfalls and mistakes? Which kind of biases in the data and analysis should we look out for as ethical data scientists? This lecture focuses on applying classical machine learning techniques to natural language processing.
+<img src="img/overfitting.jpg" width="300px" align="middle">
 
 ### Recommended readings
 
@@ -137,8 +144,12 @@ How do we apply what we know about classifiers and regression to NLP problems? W
 
 Pang, Bo, Lillian Lee, and Shivakumar Vaithyanathan. "Thumbs up?: sentiment classification using machine learning techniques." Proceedings of the ACL-02 conference on Empirical methods in natural language processing-Volume 10. Association for Computational Linguistics, 2002.
 
+Review P11: handed out March 28, due April 4.
+
 ## Lecture 14: Natural Language Generation
 So far we've only looked at how to improve computational **understanding** natural language. However in conversational systems (like, but not limited to chatbots), we also might want a computer to communicate with us. There is an area of research that focuses on going from abstract, often rich and complex, representations to natural language that people can understand. In this lecture we will introduce this area of research, which is called Natural Language Generation.
+
+**NLP intermediate project report: due April 5.**
 
 ### Recommended readings
 
@@ -148,19 +159,27 @@ So far we've only looked at how to improve computational **understanding** natur
 
 Tintarev, Nava, et al. "MinkApp: Generating spatio-temporal summaries for nature conservation volunteers." Proceedings of the Seventh International Natural Language Generation Conference. Association for Computational Linguistics, 2012.
 
+Review P12: handed out March 29, due April 5.
+
 ## Lecture 15: NLP annotations
 The results that we get in many NLP tasks are dependent on the quality and properties of the underlying data. In many (most) cases this is as important as applying the right machine learning techniques. In addition, a lot of the annotation is noisy or simply subjective. In this lecture we discuss the challenges and some of the state-of-the-art solutions.
 
+**NLP final project report: due April 10.**
+
 ### Recommended readings
+
+### :warning: Paper P13 to review
 
 [Exploiting 'subjective' annotations](https://dl.acm.org/citation.cfm?id=1611631)
 
 Reidsma, Dennis. "Exploiting 'subjective' annotations." Proceedings of the Workshop on Human Judgements in Computational Linguistics. Association for Computational Linguistics, 2008.
 
-### :warning: Paper P13 to review
+Review P13: handed out April 4, due April 11.
 
 ## Lecture 16: Word embeddings
 The theory of distributional semantics effectively builds on the principle "A word is known by the company it keeps". In this lecture we will have an introduction to how to learn abstract word vectors that can help us compute the semantic (meaning) distance between different words. We will look at different ways these kinds of vectors can be used, and also talk about some of their limitations.
+
+**NLP project interviews: April 11 and April 12.**
 
 ### Recommended readings
 
@@ -169,3 +188,5 @@ The theory of distributional semantics effectively builds on the principle "A wo
 [Two/Too Simple Adaptations of Word2Vec for Syntax Problems](https://aclanthology.info/papers/N15-1142/n15-1142)
 
 Ling, Wang, et al. "Two/too simple adaptations of word2vec for syntax problems." Proceedings of the 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2015.
+
+ Review P14: handed out April 5, due April 12.
