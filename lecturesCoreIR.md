@@ -5,7 +5,7 @@ The following sections contain the materials for the eight core IR lectures. The
 ## Table of contents <!-- omit in toc -->
 
 - [IR resources](#ir-resources)
-  - [Boooks](#boooks)
+  - [Books](#books)
   - [Software](#software)
   - [Datasets](#datasets)
 - [Lecture 1: evaluation (week 3.1)](#lecture-1-evaluation-week-31)
@@ -34,7 +34,7 @@ The following sections contain the materials for the eight core IR lectures. The
 
 ## IR resources
 
-### Boooks
+### Books
 - *Introduction to Information Retrieval* by Manning, Raghavan and Schütze, University Press, 2008. Available online: [https://nlp.stanford.edu/IR-book/information-retrieval-book.html](https://nlp.stanford.edu/IR-book/information-retrieval-book.html).
 - *Information Retrieval: Implementing and Evaluating Search Engines* by Büttcher, Clarke, and Cormack. The MIT Press, 2010.
 - *Search Engines: Information Retrieval in Practice* by B. Croft, D. Metzler, T. Strohman, Addison-Wesley, 2009. Available online: [http://ciir.cs.umass.edu/irbook/](http://ciir.cs.umass.edu/irbook/).
