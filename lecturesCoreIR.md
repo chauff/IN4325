@@ -11,25 +11,25 @@ The following sections contain the materials for the eight core IR lectures. The
 - [Lecture 1: evaluation (week 3.1)](#lecture-1-evaluation-week-31)
   - [Recommended readings](#recommended-readings)
 - [Lecture 2: classic retrieval models (week 3.1)](#lecture-2-classic-retrieval-models-week-31)
-  - [Recommended readings](#recommended-readings)
+  - [Recommended readings](#recommended-readings-1)
   - [:warning: Paper P1 to review](#warning-paper-p1-to-review)
 - [Lecture 3: indexing (week 3.2)](#lecture-3-indexing-week-32)
-  - [Recommended readings](#recommended-readings)
+  - [Recommended readings](#recommended-readings-2)
   - [:warning: Paper P2 to review](#warning-paper-p2-to-review)
 - [Lecture 4: query refinement (week 3.2)](#lecture-4-query-refinement-week-32)
-  - [Recommended readings](#recommended-readings)
+  - [Recommended readings](#recommended-readings-3)
   - [:warning: Paper P3 to review](#warning-paper-p3-to-review)
 - [Lecture 5: interactive IR (week 3.3)](#lecture-5-interactive-ir-week-33)
-  - [Recommended readings](#recommended-readings)
+  - [Recommended readings](#recommended-readings-4)
   - [:warning: Paper P4 to review](#warning-paper-p4-to-review)
 - [Lecture 6: personalization (week 3.3)](#lecture-6-personalization-week-33)
-  - [Recommended readings](#recommended-readings)
+  - [Recommended readings](#recommended-readings-5)
   - [:warning: Paper P5 to review](#warning-paper-p5-to-review)
 - [Lecture 7: learning to rank (week 3.4)](#lecture-7-learning-to-rank-week-34)
-  - [Recommended readings](#recommended-readings)
+  - [Recommended readings](#recommended-readings-6)
   - [:warning: Paper P6 to review](#warning-paper-p6-to-review)
 - [Lecture 8: neural IR (week 3.4)](#lecture-8-neural-ir-week-34)
-  - [Recommended readings](#recommended-readings)
+  - [Recommended readings](#recommended-readings-7)
   - [:warning: Paper P7 to review](#warning-paper-p7-to-review)
 
 ## IR resources
@@ -98,7 +98,7 @@ The lectures slides (PDF) are available [here](slides/coreIR-retrievalModels.pdf
 
 This lecture covers the basics of IR indexing - an area where it is worthwhile to brush up on your existing data structure knowledge.
 
-The slides  are [online](https://docs.google.com/presentation/d/e/2PACX-1vTeCcr8yrh0Q0zMttx3WtO0zhLcpzQSr2piYUtMYkINVUruMUa-lO2a824Bt_sxxbQTV-Kl1N1TA4TI/pub?start=false&loop=false&delayms=3000) - currently from the 2017/18 course edition. The slides will be updated (as needed) after the lecture.
+The lectures slides (PDF) are available [here](slides/coreIR-indexing.pdf).
 
 ### Recommended readings
 
