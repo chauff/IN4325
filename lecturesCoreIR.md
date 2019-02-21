@@ -102,7 +102,7 @@ The lectures slides (PDF) are available [here](slides/coreIR-indexing.pdf).
 
 ### Recommended readings
 
-- Chapters 2, 4 and 5 of Manning's et al. Introduction to Information Retrieval book ([PDF](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)).
+- Chapters 2, 3, 4 and 5 of Manning's et al. Introduction to Information Retrieval book ([PDF](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)).
 - Chapter 5 of Croft's et al. Search Engines - Information Retrieval in Practice book ([PDF](http://ciir.cs.umass.edu/downloads/SEIRiP.pdf)).
 
 ### :warning: Paper P2 to review
