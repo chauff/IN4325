@@ -85,7 +85,7 @@ The proposal should contain between 300 and 400 words. Your proposal should addr
 
 ### Intermediate and final project report
 
-The **final** group project report should be **7-8 pages** long in the [SIGCHI proceedings format](https://sigchi.org/templates/) (available as LaTeX and Word templates). The **intermediate** project report is likely to be shorter (it is due a week before the final deadline), that is fine, submit whatever you have by then.
+The **final** group project report should be **7-8 pages** long in the [SIGCHI proceedings format](https://sigchi.org/templates/) (available as LaTeX and Word templates) - even if the paper you originally chose to reproduce is 2 or 4 pages long, we still expect your report to adhere to the 7-8 page limit (think about the related work, implementation issues, analyses of results, etc. that are often underdeveloped in short papers). The **intermediate** project report is likely to be shorter (it is due a week before the final deadline), that is fine, submit whatever you have by then.
 
 We suggest the following report structure:
 
