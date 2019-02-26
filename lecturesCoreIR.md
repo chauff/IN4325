@@ -134,7 +134,7 @@ The lectures slides (PDF) are available [here](slides/coreIR-queryRefinement.pdf
 
 This lecture covers interactive information retrieval, in particular the modeling of the search process. The lecture shows off our move towards predictive (mathematical) models and their usage to generate hypotheses which are then (in)validated in user experiments.
 
-The slides  are [online](https://docs.google.com/presentation/d/e/2PACX-1vQj-MAdwO6pEyoAB4bMFqdsgldNNDQrqRZaf7tyOPsK62Px8688N_GHMlIc21WLM7W-u1VigSoRbOd8/pub?start=false&loop=false&delayms=3000) - currently from the 2017/18 course edition. The slides will be updated (as needed) after the lecture.
+The lectures slides (PDF) are available [here](slides/coreIR-interactiveIR.pdf).
 
 ### Recommended readings
 
