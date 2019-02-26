@@ -117,7 +117,7 @@ This lecture covers a number of query refinement techniques, a hot research area
 
 Query refinement has many facets, we focused here mostly on pseudo-relevance feedback and how to incorporate it in a meaningful manner in a retrieval model.
 
-The slides  are [online](https://docs.google.com/presentation/d/e/2PACX-1vT4OiTBDlFaUEvFwcyZITsiy9oBHr6NHZSbj2xo2Smw_MMR9owKpUjIguHdJBYPXZhI6lLPhNYIsD8R/pub?start=false&loop=false&delayms=3000) - currently from the 2017/18 course edition. The slides will be updated (as needed) after the lecture.
+The lectures slides (PDF) are available [here](slides/coreIR-queryRefinement.pdf).
 
 ### Recommended readings
 
