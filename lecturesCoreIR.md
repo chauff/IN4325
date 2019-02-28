@@ -147,9 +147,9 @@ The lectures slides (PDF) are available [here](slides/coreIR-interactiveIR.pdf).
 
 ## Lecture 6: personalization (week 3.3)
 
-This lecture is about personalization in search, with a brief glimpse at the web at the very end. 
+This lecture is about personalization in search, with a glimpse of two classic hyperlink-based document ranking algorithms.
 
-The slides  are [online](https://docs.google.com/presentation/d/e/2PACX-1vQ-sXMd4Ggt5YdAGHrZYh52p5ufZsxzqxKhlp_V1l60MUDRS8HfzEr5iAbNTh8ucTIC2x0q1UYeklk2/pub?start=false&loop=false&delayms=3000) - currently from the 2017/18 course edition. The slides will be updated (as needed) after the lecture.
+The lectures slides (PDF) are available [here](slides/coreIR-personalization.pdf).
 
 ### Recommended readings
 
