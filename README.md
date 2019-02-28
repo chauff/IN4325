@@ -29,7 +29,8 @@ This repository contains the materials of the **MSc Information Retrieval** cour
 - [Paper review form](reviewForm.md)
 - Signing up on Slack: [https://join.slack.com/t/in43252019/signup](https://join.slack.com/t/in43252019/signup)
 - Signing up for support and the group interview: [https://queue.ewi.tudelft.nl/](https://queue.ewi.tudelft.nl/)
-- [Current lecture](https://docs.google.com/presentation/d/1K6qijjUIwxtbsWBC8n0ni7pOeAfYAQpA_2dbxgRZG-8/edit?usp=sharing)
+- [Current lecture](https://docs.google.com/presentation/d/1ujGIRH8uE5yaqY8RPYZpjNa-Ke50lHDLf8MjTX0jZU0/edit?usp=sharing)
+
 
 ## Course description
 
