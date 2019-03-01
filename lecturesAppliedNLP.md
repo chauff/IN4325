@@ -64,12 +64,14 @@ A number of open-source retrieval toolkits exist. They have different strengths 
 ## Lecture 9: NLP Introduction
 Natural Language processing describes computational methods that allow computers to "understand" human communication. This lecture explains what NLP can do, and describes common NLP applications. It describes the kind of tasks that are solved by NLP, and the kind of components/sub-tasks that make it possible for us to solve these tasks.
 
-The slides are [online](https://drive.google.com/open?id=1Lp3RA4Bc7XZqrvEki43U2Vpj9xoC6KLw-JsjPY2jaDc) - **currently from the 2017/18 course edition**. The slides will be updated (as needed) after the lecture.
+The lectures slides (PDF) are available [here](slides/NLP_Lecture1_Introduction.pdf). The slides will be updated (as needed) after the lecture.
 
 ### Recommended readings
 
 ## Lecture 10: Syntax
 While human language is very flexible, it does follow certain rules, principles, and processes that govern the structure of sentences. We can use that structure to improve machine understanding of human language, and solve many NLP tasks. Therefore this lecture focuses on syntax, or the structure of sentences.
+
+The lectures slides (PDF) are available [here](slides/NLP_Lecture2_Syntax.pdf). The slides will be updated (as needed) after the lecture.
 
 ** NLP project proposal: due March 22.**
 
@@ -94,6 +96,9 @@ Review P8: handed out March 15, due March 22.
 
 ## Lecture 11: Semantics
 What does it mean, what does it all mean? Unlike controlled languages, natural language is full of ambiguities. Words have multiple meanings, and words are related to each other in different ways. This lecture looks at semantics, or **meaning** in language.
+
+
+The lectures slides (PDF) are available [here](slides/NLP_Lecture3_Semantics.pdf). The slides will be updated (as needed) after the lecture.
 
 ### Recommended readings
 [Similarity for news recommender systems](http://navatintarev.com/papers/TintarevMasthoffAH2006.pdf)
