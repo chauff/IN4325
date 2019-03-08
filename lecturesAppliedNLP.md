@@ -172,7 +172,7 @@ How do we apply what we know about classifiers and regression to NLP problems? W
   Bing Liu. [Sentiment analysis and Opinion Mining](stp.lingfil.uu.se/~santinim/sais/2014/bingliu.pdf)
     Chapter 10 (fake reviews)
     
-    [Related paper on fake review detection.](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/view/6006/6380)
+   [Related paper on fake review detection.](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/view/6006/6380)
 
 ### Recommended resources:
 
