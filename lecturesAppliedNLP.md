@@ -163,7 +163,7 @@ How do we apply what we know about classifiers and regression to NLP problems? W
 <img src="img/overfitting.jpg" width="300px" align="middle">
 
 ### Recommended readings
-  -[Article on the Bias-Variance tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+  - [Article on the Bias-Variance tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
   
   - Jurafsky, Dan. [Speech & language processing](https://web.stanford.edu/~jurafsky/slp3/)
   
