@@ -133,6 +133,18 @@ How do we know if our NLP methods are working well? What are the methods used in
 The lectures slides (PDF) are available [here](slides/NLP_Lecture4_Evaluation.pdf). The slides will be updated (as needed) after the lecture.
 
 ### Recommended readings
+[Ehud Reiter on NLG evaluation](https://ehudreiter.com/2017/05/03/metrics-nlg-evaluation/)
+
+[Why Most Published Research Findings Are False](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1182327/)
+
+[More offline evaluation metrics from NIST](https://www.nist.gov/sites/default/files/documents/itl/iad/mig/NISTMetricsMaTr10_v1-1_public.pdf)
+
+[The Pyramid method: Nenkova, Ani, Rebecca Passonneau, and Kathleen McKeown. "The pyramid method: Incorporating human content selection variation in summarization evaluation." ACM Transactions on Speech and Language Processing (TSLP) 4.2 (2007): 4.](www.cs.columbia.edu/nlp/papers/2007/nenkova_al_07.pdf)
+
+### Recommended resources:
+
+[ASIYA: Open toolkit for evaluating text using automatic metrics](http://asiya.lsi.upc.edu/demo/asiya_online.php)
+
 
 ### :warning: Paper P10 to review
 [An investigation into the validity of some metrics for automatically evaluating natural language generation systems](https://dl.acm.org/citation.cfm?id=1667994)
