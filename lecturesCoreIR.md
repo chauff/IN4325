@@ -181,7 +181,8 @@ The lectures slides (PDF) are available [here](slides/coreIR-L2R.pdf).
 
 This lecture provides an overview of recent developments in deep learning as they apply to IR. It is self-contained and briefly introduces the basics of neural networks before focusing on IR-specific developments.
 
-The slides  are [online](https://docs.google.com/presentation/d/e/2PACX-1vRwuQ_a3Am7pyJWdqOGiWsCXqbfppRwQo2AM3nByclxanLvLAxe2s9zOWlXJ79zARP1Ke9KIpZefH-c/pub?start=false&loop=false&delayms=3000) - currently from the 2017/18 course edition. The slides will be updated (as needed) after the lecture.
+The lectures slides (PDF) are available [here](slides/coreIR-neural.pdf).
+
 
 ### Recommended readings
 
