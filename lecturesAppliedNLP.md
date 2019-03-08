@@ -67,6 +67,8 @@ A number of open-source retrieval toolkits exist. They have different strengths 
 ## Lecture 9: NLP Introduction
 Natural Language processing describes computational methods that allow computers to "understand" human communication. This lecture explains what NLP can do, and describes common NLP applications. It describes the kind of tasks that are solved by NLP, and the kind of components/sub-tasks that make it possible for us to solve these tasks.
 
+<img src="img/intro.jpg" width="300px" align="middle">
+
 The lectures slides (PDF) are available [here](slides/NLP_Lecture1_Introduction.pdf). The slides will be updated (as needed) after the lecture.
 
 ### Recommended readings
@@ -99,6 +101,7 @@ Review P8: handed out March 15, due March 22.
 
 ## Lecture 11: Semantics
 What does it mean, what does it all mean? Unlike controlled languages, natural language is full of ambiguities. Words have multiple meanings, and words are related to each other in different ways. This lecture looks at semantics, or **meaning** in language.
+
 <img src="img/semantics.jpg" width="300px" align="middle">
 
 The lectures slides (PDF) are available [here](slides/NLP_Lecture3_Semantics.pdf). The slides will be updated (as needed) after the lecture.
