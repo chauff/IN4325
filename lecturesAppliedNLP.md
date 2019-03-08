@@ -130,6 +130,8 @@ Review P9: handed out March 21, due March 28.
 
 How do we know if our NLP methods are working well? What are the methods used in NLP, and what are the metrics? How do we interpret these are when are they suitable? This lecture looks at evaluation, and assessing the performance of NLP systems.
 
+The lectures slides (PDF) are available [here](slides/NLP_Lecture4_Evaluation.pdf). The slides will be updated (as needed) after the lecture.
+
 ### Recommended readings
 
 ### :warning: Paper P10 to review
