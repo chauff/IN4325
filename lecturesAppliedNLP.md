@@ -163,7 +163,19 @@ How do we apply what we know about classifiers and regression to NLP problems? W
 <img src="img/overfitting.jpg" width="300px" align="middle">
 
 ### Recommended readings
+  [Article on the Bias-Variance tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+  Jurafsky, Dan. [Speech & language processing](https://web.stanford.edu/~jurafsky/slp3/)
+        Chapter 6 Naive-Bayes;
+        Chapter 7 logistic regression
 
+  Bing Liu. [Sentiment analysis and Opinion Mining](stp.lingfil.uu.se/~santinim/sais/2014/bingliu.pdf)
+    Chapter 10 (fake reviews)
+    [Related paper on fake review detection.](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM13/paper/view/6006/6380)
+
+### Recommended resources:
+
+    [Scikit-learn, machine learning in Python](https://scikit-learn.org/stable/)
+    [NLTK machine learning (more limited for ML)](http://www.nltk.org/book/ch06.html)
 
 ### :warning: Paper P11 to review
 [Thumbs up?: sentiment classification using machine learning techniques](https://dl.acm.org/citation.cfm?doid=1118693.1118704)
