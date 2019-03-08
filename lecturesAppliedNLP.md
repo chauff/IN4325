@@ -164,8 +164,9 @@ How do we apply what we know about classifiers and regression to NLP problems? W
 
 ### Recommended readings
   [Article on the Bias-Variance tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+  
   Jurafsky, Dan. [Speech & language processing](https://web.stanford.edu/~jurafsky/slp3/)
-        Chapter 6 Naive-Bayes;
+        Chapter 6 Naive-Bayes
         Chapter 7 logistic regression
 
   Bing Liu. [Sentiment analysis and Opinion Mining](stp.lingfil.uu.se/~santinim/sais/2014/bingliu.pdf)
@@ -174,8 +175,8 @@ How do we apply what we know about classifiers and regression to NLP problems? W
 
 ### Recommended resources:
 
-    [Scikit-learn, machine learning in Python](https://scikit-learn.org/stable/)
-    [NLTK machine learning (more limited for ML)](http://www.nltk.org/book/ch06.html)
+   [Scikit-learn, machine learning in Python](https://scikit-learn.org/stable/)
+   [NLTK machine learning (more limited for ML)](http://www.nltk.org/book/ch06.html)
 
 ### :warning: Paper P11 to review
 [Thumbs up?: sentiment classification using machine learning techniques](https://dl.acm.org/citation.cfm?doid=1118693.1118704)
