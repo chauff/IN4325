@@ -99,7 +99,7 @@ Review P8: handed out March 15, due March 22.
 
 ## Lecture 11: Semantics
 What does it mean, what does it all mean? Unlike controlled languages, natural language is full of ambiguities. Words have multiple meanings, and words are related to each other in different ways. This lecture looks at semantics, or **meaning** in language.
-
+<img src="img/semantics.jpg" width="300px" align="middle">
 
 The lectures slides (PDF) are available [here](slides/NLP_Lecture3_Semantics.pdf). The slides will be updated (as needed) after the lecture.
 
@@ -131,6 +131,7 @@ Review P9: handed out March 21, due March 28.
 How do we know if our NLP methods are working well? What are the methods used in NLP, and what are the metrics? How do we interpret these are when are they suitable? This lecture looks at evaluation, and assessing the performance of NLP systems.
 
 The lectures slides (PDF) are available [here](slides/NLP_Lecture4_Evaluation.pdf). The slides will be updated (as needed) after the lecture.
+<img src="img/evaluation.jpg" width="300px" align="middle">
 
 ### Recommended readings
 [Ehud Reiter on NLG evaluation](https://ehudreiter.com/2017/05/03/metrics-nlg-evaluation/)
