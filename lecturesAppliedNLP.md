@@ -194,10 +194,17 @@ Review P11: handed out March 28, due April 4.
 ## Lecture 14: Natural Language Generation
 So far we've only looked at how to improve computational **understanding** natural language. However in conversational systems (like, but not limited to chatbots), we also might want a computer to communicate with us. There is an area of research that focuses on going from abstract, often rich and complex, representations to natural language that people can understand. In this lecture we will introduce this area of research, which is called Natural Language Generation.
 
+
+
 **NLP intermediate project report: due April 5.**
 
 ### Recommended readings
+Gatt, Albert, and Emiel Krahmer. ["Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation." Journal of Artificial Intelligence Research 61 (2018): 65-170.](https://arxiv.org/pdf/1703.09902.pdf)
+Recommended resources
 
+[simplenlg realizer](https://github.com/simplenlg/simplenlg)
+
+Academic Reference: A Gatt and E Reiter (2009). [SimpleNLG: A realisation engine for practical applications.](aclweb.org/anthology/W/W09/W09-0613.pdf)Proceedings of ENLG-2009
 
 ### :warning: Paper P12 to review
 [MinkApp: generating spatio-temporal summaries for nature conservation volunteers](https://dl.acm.org/citation.cfm?id=2392720)
