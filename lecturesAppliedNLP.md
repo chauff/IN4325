@@ -200,7 +200,8 @@ So far we've only looked at how to improve computational **understanding** natur
 
 ### Recommended readings
 Gatt, Albert, and Emiel Krahmer. ["Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation." Journal of Artificial Intelligence Research 61 (2018): 65-170.](https://arxiv.org/pdf/1703.09902.pdf)
-Recommended resources
+
+### Recommended resources
 
 [simplenlg realizer](https://github.com/simplenlg/simplenlg)
 
