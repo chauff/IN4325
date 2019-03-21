@@ -106,8 +106,7 @@ What does it mean, what does it all mean? Unlike controlled languages, natural l
 
 <img src="img/semantics.jpg" width="300px" align="middle">
 
-The lectures slides (PDF) are available [here](slides/NLP_Lecture3_Semantics.pdf). The slides will be updated (as needed) after the lecture.
-
+The lectures slides (PDF) are available [here](slides/NLP_Lecture3_Semantics.pdf). 
 ### Recommended readings
 [Similarity for news recommender systems](http://navatintarev.com/papers/TintarevMasthoffAH2006.pdf)
 
