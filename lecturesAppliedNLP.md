@@ -134,7 +134,7 @@ Review P9: handed out March 21, due March 28.
 
 How do we know if our NLP methods are working well? What are the methods used in NLP, and what are the metrics? How do we interpret these are when are they suitable? This lecture looks at evaluation, and assessing the performance of NLP systems.
 
-The lectures slides (PDF) are available [here](slides/NLP_Lecture4_Evaluation.pdf). The slides will be updated (as needed) after the lecture.
+The lectures slides (PDF) are available [here](slides/NLP_Lecture4_Evaluation.pdf). 
 <img src="img/evaluation.jpg" width="300px" align="middle">
 
 ### Recommended readings
@@ -162,6 +162,8 @@ Review P10: handed out March 22, due March 29.
 ## Lecture 13: ML for NLP
 How do we apply what we know about classifiers and regression to NLP problems? What are commonpitfalls and mistakes? Which kind of biases in the data and analysis should we look out for as ethical data scientists? This lecture focuses on applying classical machine learning techniques to natural language processing.
 <img src="img/overfitting.jpg" width="300px" align="middle">
+
+The lectures slides (PDF) are available [here](slides/Lecture5_ML_NLP.pdf). The slides will be updated (as needed) after the lecture.
 
 ### Recommended readings
   - [Article on the Bias-Variance tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
