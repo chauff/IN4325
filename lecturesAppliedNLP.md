@@ -164,7 +164,7 @@ Review P10: handed out March 22, due March 29.
 How do we apply what we know about classifiers and regression to NLP problems? What are commonpitfalls and mistakes? Which kind of biases in the data and analysis should we look out for as ethical data scientists? This lecture focuses on applying classical machine learning techniques to natural language processing.
 <img src="img/overfitting.jpg" width="300px" align="middle">
 
-The lectures slides (PDF) are available [here](slides/Lecture5_ML_NLP.pdf). The slides will be updated (as needed) after the lecture.
+The lectures slides (PDF) are available [here](slides/Lecture5_ML_NLP.pdf). 
 
 ### Recommended readings
   - [Article on the Bias-Variance tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
@@ -196,7 +196,7 @@ Review P11: handed out March 28, due April 4.
 ## Lecture 14: Natural Language Generation
 So far we've only looked at how to improve computational **understanding** natural language. However in conversational systems (like, but not limited to chatbots), we also might want a computer to communicate with us. There is an area of research that focuses on going from abstract, often rich and complex, representations to natural language that people can understand. In this lecture we will introduce this area of research, which is called Natural Language Generation.
 
-
+The lectures slides (PDF) are available [here](slides/NLP_Lecture6_NLG.pdf). The slides will be updated (as needed) after the lecture.
 
 **NLP intermediate project report: due April 5.**
 
