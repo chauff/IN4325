@@ -164,7 +164,7 @@ Review P10: handed out March 22, due March 29.
 How do we apply what we know about classifiers and regression to NLP problems? What are commonpitfalls and mistakes? Which kind of biases in the data and analysis should we look out for as ethical data scientists? This lecture focuses on applying classical machine learning techniques to natural language processing.
 <img src="img/overfitting.jpg" width="300px" align="middle">
 
-The lectures slides (PDF) are available [here](slides/Lecture5_ML_NLP.pdf). 
+The lectures slides (PDF) are available [here](slides/NLP_Lecture5_ML.pdf). 
 
 ### Recommended readings
   - [Article on the Bias-Variance tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
