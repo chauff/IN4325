@@ -222,6 +222,7 @@ The results that we get in many NLP tasks are dependent on the quality and prope
 The lectures slides (PDF) are available [here](slides/NLP_Lecture7_bias.pdf) 
 
 Bojana's presentation on her masters project in NLG can be found [here](slides/Presentation_Bojana.pdf). 
+
 **NLP final project report: due April 10.**
 
 ### Recommended readings
