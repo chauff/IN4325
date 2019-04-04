@@ -216,10 +216,11 @@ Tintarev, Nava, et al. "MinkApp: Generating spatio-temporal summaries for nature
 
 Review P12: handed out March 29, due April 5.
 
-## Lecture 15: NLP annotations
+## Lecture 15: Bias in NLP
 The results that we get in many NLP tasks are dependent on the quality and properties of the underlying data. In many (most) cases this is as important as applying the right machine learning techniques. In addition, a lot of the annotation is noisy or simply subjective. In this lecture we discuss the challenges and some of the state-of-the-art solutions.
 
-The slides will be uploaded after the lecture.
+The lectures slides (PDF) are available [here](slides/NLP_Lecture7_bias.pdf) (will uploaded shortly)
+Bojana's presentation on her masters project in NLG can be found [here](slides/Presentation_Bojana.pdf). 
 **NLP final project report: due April 10.**
 
 ### Recommended readings
