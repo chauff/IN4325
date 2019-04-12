@@ -238,6 +238,8 @@ Review P13: handed out April 4, due April 11.
 ## Lecture 16: Word embeddings
 The theory of distributional semantics effectively builds on the principle "A word is known by the company it keeps". In this lecture we will have an introduction to how to learn abstract word vectors that can help us compute the semantic (meaning) distance between different words. We will look at different ways these kinds of vectors can be used, and also talk about some of their limitations.
 
+The lectures slides (PDF) are available [here](slides/NLP8_Embeddings.pdf) 
+
 **NLP project interviews: April 11 and April 12.**
 
 ### Recommended readings
