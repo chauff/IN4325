@@ -46,6 +46,8 @@ A number of open-source retrieval toolkits exist. They have different strengths 
 - The [Lemur project](https://www.lemurproject.org/) is written in C++/Java and contains a number of important libraries commonly used by academic IR researchers, including  `Indri`, `Galago` and `RankLib`. One of the most often employed toolkits for academic research.
 - The [Terrier IR platform](http://terrier.org/) is written in Java. Also heavily used in academia.
 - [Anserini](https://github.com/castorini/Anserini) is built on top of Lucene and written in Java.
+- [Pisa](https://github.com/pisa-engine/pisa)
+- [JASS](https://codedocs.xyz/andrewtrotman/JASSv2/index.html)
 - [Elasticsearch](https://www.elastic.co/products/elasticsearch) is an open-source toolkit heavily used in industry. Written in Java and building on top of Lucene.
 - [Whoosh](https://pypi.org/project/Whoosh/#description) is a search engine written in Python.
 - [SearchX](https://github.com/felipemoraes/searchx) is a collaborative search system developed at TU Delft, written in JavaScript/Node.js.
