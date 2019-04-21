@@ -98,7 +98,7 @@ At the end of each project phase we will conduct a short interview (15 minutes p
 
 ### Weekly reviews
 
-Most lectures are accompanied by **one required reading**, which is usually a scientific paper. For every required reading you are asked to write a *review*. These review activities are individual work.
+Most lectures are accompanied by **one required reading**, which is usually a scientific paper. The required readings can be found in [Core IR lectures](lecturesCoreIR.md) and [Applied NLP lectures](lecturesAppliedNLP.md). For every required reading you are asked to write a *review*. These review activities are individual work. 
 
 Each review is graded as either *excellent*, *sufficient* or *insufficient*. In order to pass the course, 9 of the 14 offered review opportunities have to be passed with at least *sufficient*. Use the provided [review template](reviewForm.md) and follow its instructions. Reviews are submitted via Brightspace.
 
