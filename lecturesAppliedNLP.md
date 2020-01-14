@@ -95,10 +95,12 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture2_Syntax.pdf). 
 
 [NLTK Dutch PoS:](http://www.nltk.org/book/ch07.html)
 
-<!-- ### :warning: Paper P8 to review
-[The Social Impact of Natural Language Processing](https://aclanthology.info/papers/P16-2096/p16-2096)
-Hovy, Dirk, and Shannon L. Spruit. "The social impact of natural language processing." Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers). Vol. 2. 2016.
-Review P8: handed out March 15, due March 22.-->
+### :warning: Paper P5 to review
+[Offspring from reproduction problems: What replication failure teaches us](https://aclanthology.info/papers/P13-1166/p13-1166)
+
+Fokkens, Antske, et al. "Offspring from reproduction problems: What replication failure teaches us." Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Vol. 1. 2013.
+
+Review P5: handed out --, due --.
 
 ## Lecture 11: Semantics
 What does it mean, what does it all mean? Unlike controlled languages, natural language is full of ambiguities. Words have multiple meanings, and words are related to each other in different ways. This lecture looks at semantics, or **meaning** in language.
@@ -121,12 +123,6 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture3_Semantics.pdf
 
 [DutchSemCor](http://wordpress.let.vupr.nl/dutchsemcor/)
 
-### :warning: Paper P5 to review
-[Offspring from reproduction problems: What replication failure teaches us](https://aclanthology.info/papers/P13-1166/p13-1166)
-
-Fokkens, Antske, et al. "Offspring from reproduction problems: What replication failure teaches us." Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Vol. 1. 2013.
-
-Review P5: handed out --, due --.
 
 
 ## Lecture 12: Evaluation NLP
