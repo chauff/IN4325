@@ -122,12 +122,6 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture3_Semantics.pdf
 [DutchSemCor](http://wordpress.let.vupr.nl/dutchsemcor/)
 
 
-### :warning: Paper P9 to review
-[Offspring from reproduction problems: What replication failure teaches us](https://aclanthology.info/papers/P13-1166/p13-1166)
-
-Fokkens, Antske, et al. "Offspring from reproduction problems: What replication failure teaches us." Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Vol. 1. 2013.
-
-Review P9: handed out March 21, due March 28.
 
 ## Lecture 12: Evaluation NLP
 
@@ -149,13 +143,13 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture4_evaluation.pd
 
 [ASIYA: Open toolkit for evaluating text using automatic metrics](http://asiya.lsi.upc.edu/demo/asiya_online.php)
 
+### :warning: Paper P5 to review
+[Offspring from reproduction problems: What replication failure teaches us](https://aclanthology.info/papers/P13-1166/p13-1166)
 
-### :warning: Paper P10 to review
-[Best practices for the human evaluation of automatically generated text](https://www.inlg2019.com/assets/papers/98_Paper.pdf)
+Fokkens, Antske, et al. "Offspring from reproduction problems: What replication failure teaches us." Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Vol. 1. 2013.
 
-van der Lee, Chris, et al. "Best practices for the human evaluation of automatically generated text." Proceedings of the 12th International Conference on Natural Language Generation. 2019.
+Review P5: handed out March 21, due March 28.
 
-Review P10: handed out March 22, due March 29.
 
 ## Lecture 13: ML for NLP
 How do we apply what we know about classifiers and regression to NLP problems? What are commonpitfalls and mistakes? Which kind of biases in the data and analysis should we look out for as ethical data scientists? This lecture focuses on applying classical machine learning techniques to natural language processing.
@@ -183,12 +177,7 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture5_ML.pdf).
    
    [NLTK machine learning (more limited for ML)](http://www.nltk.org/book/ch06.html)
 
-### :warning: Paper P11 to review
-[Thumbs up?: sentiment classification using machine learning techniques](https://dl.acm.org/citation.cfm?doid=1118693.1118704)
 
-Pang, Bo, Lillian Lee, and Shivakumar Vaithyanathan. "Thumbs up?: sentiment classification using machine learning techniques." Proceedings of the ACL-02 conference on Empirical methods in natural language processing-Volume 10. Association for Computational Linguistics, 2002.
-
-Review P11: handed out March 28, due April 4.
 
 ## Lecture 14: Natural Language Generation
 So far we've only looked at how to improve computational **understanding** natural language. However in conversational systems (like, but not limited to chatbots), we also might want a computer to communicate with us. There is an area of research that focuses on going from abstract, often rich and complex, representations to natural language that people can understand. In this lecture we will introduce this area of research, which is called Natural Language Generation.
@@ -197,21 +186,18 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture6_NLG.pdf).
 
 **NLP intermediate project report: due April 5.**
 
-### Recommended readings
-Gatt, Albert, and Emiel Krahmer. ["Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation." Journal of Artificial Intelligence Research 61 (2018): 65-170.](https://arxiv.org/pdf/1703.09902.pdf)
-
 ### Recommended resources
 
 [simplenlg realizer](https://github.com/simplenlg/simplenlg)
 
 Academic Reference: A Gatt and E Reiter (2009). [SimpleNLG: A realisation engine for practical applications.](aclweb.org/anthology/W/W09/W09-0613.pdf) Proceedings of ENLG-2009
 
-### :warning: Paper P12 to review
-[MinkApp: generating spatio-temporal summaries for nature conservation volunteers](https://dl.acm.org/citation.cfm?id=2392720)
+### :warning: Paper P6 to review
+[Thumbs up?: sentiment classification using machine learning techniques](https://dl.acm.org/citation.cfm?doid=1118693.1118704)
 
-Tintarev, Nava, et al. "MinkApp: Generating spatio-temporal summaries for nature conservation volunteers." Proceedings of the Seventh International Natural Language Generation Conference. Association for Computational Linguistics, 2012.
+Pang, Bo, Lillian Lee, and Shivakumar Vaithyanathan. "Thumbs up?: sentiment classification using machine learning techniques." Proceedings of the ACL-02 conference on Empirical methods in natural language processing-Volume 10. Association for Computational Linguistics, 2002.
 
-Review P12: handed out March 29, due April 5.
+Review P6: handed out March 28, due April 4.
 
 ## Lecture 15: Bias in NLP
 The results that we get in many NLP tasks are dependent on the quality and properties of the underlying data. In many (most) cases this is as important as applying the right machine learning techniques. In addition, a lot of the annotation is noisy or simply subjective. In this lecture we discuss the challenges and some of the state-of-the-art solutions.
@@ -224,13 +210,6 @@ Bojana's presentation on her masters project in NLG can be found [here](slides/P
 
 ### Recommended readings
 
-### :warning: Paper P13 to review
-
-[Exploiting 'subjective' annotations](https://dl.acm.org/citation.cfm?id=1611631)
-
-Reidsma, Dennis. "Exploiting 'subjective' annotations." Proceedings of the Workshop on Human Judgements in Computational Linguistics. Association for Computational Linguistics, 2008.
-
-Review P13: handed out April 4, due April 11.
 
 ## Lecture 16: Word embeddings
 The theory of distributional semantics effectively builds on the principle "A word is known by the company it keeps". In this lecture we will have an introduction to how to learn abstract word vectors that can help us compute the semantic (meaning) distance between different words. We will look at different ways these kinds of vectors can be used, and also talk about some of their limitations.
@@ -241,10 +220,10 @@ The lectures slides (PDF) are available [here](slides/NLP8_Embeddings.pdf)
 
 ### Recommended readings
 
+### :warning: Paper P7 to review
 
-### :warning: Paper P14 to review
-[Two/Too Simple Adaptations of Word2Vec for Syntax Problems](https://aclanthology.info/papers/N15-1142/n15-1142)
+[Exploiting 'subjective' annotations](https://dl.acm.org/citation.cfm?id=1611631)
 
-Ling, Wang, et al. "Two/too simple adaptations of word2vec for syntax problems." Proceedings of the 2015 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2015.
+Reidsma, Dennis. "Exploiting 'subjective' annotations." Proceedings of the Workshop on Human Judgements in Computational Linguistics. Association for Computational Linguistics, 2008.
 
- Review P14: handed out April 5, due April 12.
+Review 7: handed out ---, due ---.
