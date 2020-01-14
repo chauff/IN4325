@@ -96,7 +96,7 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture2_Syntax.pdf). 
 [NLTK Dutch PoS:](http://www.nltk.org/book/ch07.html)
 
 ### :warning: Paper P5 to review
-[Offspring from reproduction problems: What replication failure teaches us](https://aclanthology.info/papers/P13-1166/p13-1166)
+[Offspring from reproduction problems: What replication failure teaches us](https://www.aclweb.org/anthology/P13-1166)
 
 Fokkens, Antske, et al. "Offspring from reproduction problems: What replication failure teaches us." Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Vol. 1. 2013.
 
