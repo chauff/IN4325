@@ -95,12 +95,10 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture2_Syntax.pdf). 
 
 [NLTK Dutch PoS:](http://www.nltk.org/book/ch07.html)
 
-### :warning: Paper P8 to review
+<!-- ### :warning: Paper P8 to review
 [The Social Impact of Natural Language Processing](https://aclanthology.info/papers/P16-2096/p16-2096)
-
 Hovy, Dirk, and Shannon L. Spruit. "The social impact of natural language processing." Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers). Vol. 2. 2016.
-
-Review P8: handed out March 15, due March 22.
+Review P8: handed out March 15, due March 22.-->
 
 ## Lecture 11: Semantics
 What does it mean, what does it all mean? Unlike controlled languages, natural language is full of ambiguities. Words have multiple meanings, and words are related to each other in different ways. This lecture looks at semantics, or **meaning** in language.
@@ -153,10 +151,9 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture4_evaluation.pd
 
 
 ### :warning: Paper P10 to review
-[An investigation into the validity of some metrics for automatically evaluating natural language generation systems](https://dl.acm.org/citation.cfm?id=1667994)
-**Sections 2.1-2.3 only (6 pages)**
+[Best practices for the human evaluation of automatically generated text](https://www.inlg2019.com/assets/papers/98_Paper.pdf)
 
-Reiter, Ehud, and Anja Belz. "An investigation into the validity of some metrics for automatically evaluating natural language generation systems." Computational Linguistics 35.4 (2009): 529-558.
+van der Lee, Chris, et al. "Best practices for the human evaluation of automatically generated text." Proceedings of the 12th International Conference on Natural Language Generation. 2019.
 
 Review P10: handed out March 22, due March 29.
 
