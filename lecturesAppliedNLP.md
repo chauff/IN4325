@@ -121,6 +121,12 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture3_Semantics.pdf
 
 [DutchSemCor](http://wordpress.let.vupr.nl/dutchsemcor/)
 
+### :warning: Paper P5 to review
+[Offspring from reproduction problems: What replication failure teaches us](https://aclanthology.info/papers/P13-1166/p13-1166)
+
+Fokkens, Antske, et al. "Offspring from reproduction problems: What replication failure teaches us." Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Vol. 1. 2013.
+
+Review P5: handed out --, due --.
 
 
 ## Lecture 12: Evaluation NLP
@@ -143,12 +149,12 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture4_evaluation.pd
 
 [ASIYA: Open toolkit for evaluating text using automatic metrics](http://asiya.lsi.upc.edu/demo/asiya_online.php)
 
-### :warning: Paper P5 to review
-[Offspring from reproduction problems: What replication failure teaches us](https://aclanthology.info/papers/P13-1166/p13-1166)
+### :warning: Paper P6 to review
+[Best practices for the human evaluation of automatically generated text](https://www.inlg2019.com/assets/papers/98_Paper.pdf)
 
-Fokkens, Antske, et al. "Offspring from reproduction problems: What replication failure teaches us." Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Vol. 1. 2013.
+Best practices for the human evaluation of automatically generated text. Chris van der Lee, Albert Gatt, Emiel van Miltenburg, Sander Wubben and Emiel Krahmer 
 
-Review P5: handed out March 21, due March 28.
+Review P6: handed out ---, due March ___.
 
 
 ## Lecture 13: ML for NLP
@@ -192,19 +198,17 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture6_NLG.pdf).
 
 Academic Reference: A Gatt and E Reiter (2009). [SimpleNLG: A realisation engine for practical applications.](aclweb.org/anthology/W/W09/W09-0613.pdf) Proceedings of ENLG-2009
 
-### :warning: Paper P6 to review
+### :warning: Paper P7 to review
 [Thumbs up?: sentiment classification using machine learning techniques](https://dl.acm.org/citation.cfm?doid=1118693.1118704)
 
 Pang, Bo, Lillian Lee, and Shivakumar Vaithyanathan. "Thumbs up?: sentiment classification using machine learning techniques." Proceedings of the ACL-02 conference on Empirical methods in natural language processing-Volume 10. Association for Computational Linguistics, 2002.
 
-Review P6: handed out March 28, due April 4.
+Review P7: handed out March 28, due April 4.
 
 ## Lecture 15: Bias in NLP
 The results that we get in many NLP tasks are dependent on the quality and properties of the underlying data. In many (most) cases this is as important as applying the right machine learning techniques. In addition, a lot of the annotation is noisy or simply subjective. In this lecture we discuss the challenges and some of the state-of-the-art solutions.
 
 The lectures slides (PDF) are available [here](slides/NLP_Lecture7_bias.pdf) 
-
-Bojana's presentation on her masters project in NLG can be found [here](slides/Presentation_Bojana.pdf). 
 
 **NLP final project report: due April 10.**
 
@@ -220,10 +224,10 @@ The lectures slides (PDF) are available [here](slides/NLP8_Embeddings.pdf)
 
 ### Recommended readings
 
-### :warning: Paper P7 to review
+### :warning: Paper P8 to review
 
 [Exploiting 'subjective' annotations](https://dl.acm.org/citation.cfm?id=1611631)
 
 Reidsma, Dennis. "Exploiting 'subjective' annotations." Proceedings of the Workshop on Human Judgements in Computational Linguistics. Association for Computational Linguistics, 2008.
 
-Review 7: handed out ---, due ---.
+Review 8: handed out ---, due ---.
