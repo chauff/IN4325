@@ -159,7 +159,7 @@ The lecture locations have been taken from [TUD's timetable site](https://mytime
 | 3.9  |                                   |                                   |               applied NLP report due/interviews         |              |
 | 3.10 |                                   |                                   |  |              |
 -->
-We start off in weeks 3.1 to 3.4 with the [applied NLP module](lecturesAppliedNLP.md) , alongside which the [applied NLP group project](projectAppliedNLP.md) runs. In week 3.5 we switch tothe [core IR module](lecturesCoreIR.md), alongside which the [core IR group project](projectCoreIR.md) runs.
+We start off in weeks 3.1 to 3.4 with the [applied NLP module](lecturesAppliedNLP.md), alongside which the [applied NLP group project](projectAppliedNLP.md) runs. In week 3.5 we switch to the [core IR module](lecturesCoreIR.md), alongside which the [core IR group project](projectCoreIR.md) runs.
 
 ## Deadlines
 
@@ -184,16 +184,17 @@ Reminder of the rules:
 
 :small_blue_diamond: Review P4: handed out March 6, **due March 13**.
 
-:small_orange_diamond: NLP final project report: **due March 12**.
+:small_orange_diamond: NLP final project report: **due March 11**.
 
 :small_orange_diamond:: NLP project interviews: **March 12** and **March 13**.
 
 
 **Core IR lecture weeks (the final deadline is in week 3.9): **
+DATES TO BE UPDATED
 
 :small_blue_diamond: Review P8: handed out March 15, **due March 22**.
 
-:small_orange_diamond: NLP project proposal: **due March 22**.
+:small_orange_diamond: IR project proposal: **due March 22**.
 
 :small_blue_diamond: Review P9: handed out March 21, **due March 28**.
 
@@ -203,15 +204,15 @@ Reminder of the rules:
 
 :small_blue_diamond: Review P12: handed out March 29, **due April 5**.
 
-:small_orange_diamond: NLP intermediate project report: **due April 5**.
+:small_orange_diamond: IR intermediate project report: **due April 5**.
 
-:small_orange_diamond: NLP final project report: **due April 10**.
+:small_orange_diamond: IR final project report: **due April 10**.
 
 :small_blue_diamond: Review P13: handed out April 4, **due April 11**.
 
 :small_blue_diamond: Review P14: handed out April 5, **due April 12**.
 
-:small_orange_diamond: NLP project interviews: **April 11** and **April 12**.
+:small_orange_diamond: IR project interviews: **April 11** and **April 12**.
 
 
 
