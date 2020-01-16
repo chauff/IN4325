@@ -10,34 +10,31 @@ The following sections contain the materials for the eight applied NLP lectures.
   - [Software](#software)
   - [Open Source Natural Language Processing Tools](#open-source-natural-language-processing-tools)
   - [Datasets](#datasets)
-- [Lecture 9: NLP Introduction](#lecture-9-nlp-introduction)
+- [Lecture 1: NLP Introduction](#lecture-1-nlp-introduction)
   - [Recommended readings](#recommended-readings)
-- [Lecture 10: Syntax](#lecture-10-syntax)
-  - [Recommended readings](#recommended-readings)
-  - [Recommended resources:](#recommended-resources)
-  - [:warning: Paper P8 to review](#warning-paper-p8-to-review)
-- [Lecture 11: Semantics](#lecture-11-semantics)
+- [Lecture 2: Syntax](#lecture-2-syntax)
   - [Recommended readings](#recommended-readings)
   - [Recommended resources:](#recommended-resources)
-  - [:warning: Paper P9 to review](#warning-paper-p9-to-review)
-- [Lecture 12: Evaluation NLP](#lecture-12-evaluation-nlp)
+  - [:warning: Paper P1 to review](#warning-paper-p1-to-review)
+- [Lecture 3: Semantics](#lecture-3-semantics)
   - [Recommended readings](#recommended-readings)
   - [Recommended resources:](#recommended-resources)
-  - [:warning: Paper P10 to review](#warning-paper-p10-to-review)
-- [Lecture 13: ML for NLP](#lecture-13-ml-for-nlp)
+- [Lecture 4: Evaluation NLP](#lecture-4-evaluation-nlp)
   - [Recommended readings](#recommended-readings)
   - [Recommended resources:](#recommended-resources)
-  - [:warning: Paper P11 to review](#warning-paper-p11-to-review)
-- [Lecture 14: Natural Language Generation](#lecture-14-natural-language-generation)
+  - [:warning: Paper P2 to review](#warning-paper-p2-to-review)
+- [Lecture 5: ML for NLP](#lecture-5-ml-for-nlp)
+  - [Recommended readings](#recommended-readings)
+  - [Recommended resources:](#recommended-resources)
+- [Lecture 6: Natural Language Generation](#lecture-6-natural-language-generation)
   - [Recommended readings](#recommended-readings)
   - [Recommended resources](#recommended-resources)
-  - [:warning: Paper P12 to review](#warning-paper-p12-to-review)
-- [Lecture 15: NLP annotations](#lecture-15-nlp-annotations)
+  - [:warning: Paper P3 to review](#warning-paper-p3-to-review)
+- [Lecture 7: NLP annotations](#lecture-7-nlp-annotations)
   - [Recommended readings](#recommended-readings)
-  - [:warning: Paper P13 to review](#warning-paper-p13-to-review)
-- [Lecture 16: Word embeddings](#lecture-16-word-embeddings)
+- [Lecture 8: Word embeddings](#lecture-8-word-embeddings)
   - [Recommended readings](#recommended-readings)
-  - [:warning: Paper P14 to review](#warning-paper-p14-to-review)
+  - [:warning: Paper P4 to review](#warning-paper-p4-to-review)
 
 ## NLP resources
 
@@ -67,7 +64,7 @@ A number of open-source retrieval toolkits exist. They have different strengths 
   - [Various text datasets, UCI](https://archive.ics.uci.edu/ml/datasets.html?format=&task=&att=&area=&numAtt=&numIns=&type=text&sort=nameUp&view=table)
 - [Stance detection](https://github.com/FakeNewsChallenge/fnc-1)
 
-## Lecture 9: NLP Introduction
+## Lecture 1: NLP Introduction
 Natural Language processing describes computational methods that allow computers to "understand" human communication. This lecture explains what NLP can do, and describes common NLP applications. It describes the kind of tasks that are solved by NLP, and the kind of components/sub-tasks that make it possible for us to solve these tasks.
 
 <img src="img/intro.jpg" width="300px" align="middle">
@@ -76,7 +73,7 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture1_Introduction.
 
 ### Recommended readings
 
-## Lecture 10: Syntax
+## Lecture 2: Syntax
 While human language is very flexible, it does follow certain rules, principles, and processes that govern the structure of sentences. We can use that structure to improve machine understanding of human language, and solve many NLP tasks. Therefore this lecture focuses on syntax, or the structure of sentences.
 
 The lectures slides (PDF) are available [here](slides/NLP_Lecture2_Syntax.pdf). The slides will be updated (as needed) after the lecture.
@@ -95,14 +92,14 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture2_Syntax.pdf). 
 
 [NLTK Dutch PoS:](http://www.nltk.org/book/ch07.html)
 
-### :warning: Paper P5 to review
+### :warning: Paper P1 to review
 [Offspring from reproduction problems: What replication failure teaches us](https://www.aclweb.org/anthology/P13-1166)
 
 Fokkens, Antske, et al. "Offspring from reproduction problems: What replication failure teaches us." Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Vol. 1. 2013.
 
-Review P5: handed out --, due --.
+Review P1: handed out --, due --.
 
-## Lecture 11: Semantics
+## Lecture 3: Semantics
 What does it mean, what does it all mean? Unlike controlled languages, natural language is full of ambiguities. Words have multiple meanings, and words are related to each other in different ways. This lecture looks at semantics, or **meaning** in language.
 
 <img src="img/semantics.jpg" width="300px" align="middle">
@@ -125,7 +122,7 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture3_Semantics.pdf
 
 
 
-## Lecture 12: Evaluation NLP
+## Lecture 4: Evaluation NLP
 
 How do we know if our NLP methods are working well? What are the methods used in NLP, and what are the metrics? How do we interpret these are when are they suitable? This lecture looks at evaluation, and assessing the performance of NLP systems.
 
@@ -145,15 +142,15 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture4_evaluation.pd
 
 [ASIYA: Open toolkit for evaluating text using automatic metrics](http://asiya.lsi.upc.edu/demo/asiya_online.php)
 
-### :warning: Paper P6 to review
+### :warning: Paper P2 to review
 [Best practices for the human evaluation of automatically generated text](https://www.inlg2019.com/assets/papers/98_Paper.pdf)
 
 Best practices for the human evaluation of automatically generated text. Chris van der Lee, Albert Gatt, Emiel van Miltenburg, Sander Wubben and Emiel Krahmer 
 
-Review P6: handed out ---, due March ___.
+Review P2: handed out ---, due March ___.
 
 
-## Lecture 13: ML for NLP
+## Lecture 5: ML for NLP
 How do we apply what we know about classifiers and regression to NLP problems? What are commonpitfalls and mistakes? Which kind of biases in the data and analysis should we look out for as ethical data scientists? This lecture focuses on applying classical machine learning techniques to natural language processing.
 <img src="img/overfitting.jpg" width="300px" align="middle">
 
@@ -181,7 +178,7 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture5_ML.pdf).
 
 
 
-## Lecture 14: Natural Language Generation
+## Lecture 6: Natural Language Generation
 So far we've only looked at how to improve computational **understanding** natural language. However in conversational systems (like, but not limited to chatbots), we also might want a computer to communicate with us. There is an area of research that focuses on going from abstract, often rich and complex, representations to natural language that people can understand. In this lecture we will introduce this area of research, which is called Natural Language Generation.
 
 The lectures slides (PDF) are available [here](slides/NLP_Lecture6_NLG.pdf). 
@@ -194,14 +191,14 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture6_NLG.pdf).
 
 Academic Reference: A Gatt and E Reiter (2009). [SimpleNLG: A realisation engine for practical applications.](aclweb.org/anthology/W/W09/W09-0613.pdf) Proceedings of ENLG-2009
 
-### :warning: Paper P7 to review
+### :warning: Paper P4 to review
 [Thumbs up?: sentiment classification using machine learning techniques](https://dl.acm.org/citation.cfm?doid=1118693.1118704)
 
 Pang, Bo, Lillian Lee, and Shivakumar Vaithyanathan. "Thumbs up?: sentiment classification using machine learning techniques." Proceedings of the ACL-02 conference on Empirical methods in natural language processing-Volume 10. Association for Computational Linguistics, 2002.
 
-Review P7: handed out March 28, due April 4.
+Review P4: handed out March 28, due April 4.
 
-## Lecture 15: Bias in NLP
+## Lecture 7: Bias in NLP
 The results that we get in many NLP tasks are dependent on the quality and properties of the underlying data. In many (most) cases this is as important as applying the right machine learning techniques. In addition, a lot of the annotation is noisy or simply subjective. In this lecture we discuss the challenges and some of the state-of-the-art solutions.
 
 The lectures slides (PDF) are available [here](slides/NLP_Lecture7_bias.pdf) 
@@ -211,7 +208,7 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture7_bias.pdf)
 ### Recommended readings
 
 
-## Lecture 16: Word embeddings
+## Lecture 8: Word embeddings
 The theory of distributional semantics effectively builds on the principle "A word is known by the company it keeps". In this lecture we will have an introduction to how to learn abstract word vectors that can help us compute the semantic (meaning) distance between different words. We will look at different ways these kinds of vectors can be used, and also talk about some of their limitations.
 
 The lectures slides (PDF) are available [here](slides/NLP8_Embeddings.pdf) 
@@ -220,10 +217,10 @@ The lectures slides (PDF) are available [here](slides/NLP8_Embeddings.pdf)
 
 ### Recommended readings
 
-### :warning: Paper P8 to review
+### :warning: Paper P4 to review
 
 [Exploiting 'subjective' annotations](https://dl.acm.org/citation.cfm?id=1611631)
 
 Reidsma, Dennis. "Exploiting 'subjective' annotations." Proceedings of the Workshop on Human Judgements in Computational Linguistics. Association for Computational Linguistics, 2008.
 
-Review 8: handed out ---, due ---.
+Review 4: handed out ---, due ---.
