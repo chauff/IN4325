@@ -1,8 +1,9 @@
 <img src="img/wordcloud.jpg" width="300px" align="middle">
 
 # IN4325 <!-- omit in toc -->
+** NB: THIS PAGE IS IN THE PROCESS OF BEING UPDATED **
 
-This repository contains the materials of the **MSc Information Retrieval** course running in 2018/19 at TU Delft (Q3). The project setup is suitable for up to 100 students.
+This repository contains the materials of the **MSc Information Retrieval** course running in 2018/19 at TU Delft (Q3). The project setup is suitable for up to 100 students. 
 
 ## Table of contents <!-- omit in toc -->
 - [Important links](#important-links)
@@ -47,10 +48,9 @@ The split (core IR / applied NLP) will be made halfway through the course: the f
 This distribution also fits the lecturer team of this course: [Associate Prof. Claudia Hauff](https://chauff.github.io/) teaches the core IR lectures, while [Assistant Prof. Nava Tintarev](http://navatintarev.com/) teaches the applied NLP lectures. The course team is completed by a number of PhDs and Postdocs (all from the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who focuses on the grading of the paper reviews:
 
 - Oana Inel (Postdoc)
-- Dimitrios Bountouridis (Postdoc)
+- Mesut Kaya (Postdoc)
 - Gustavo Penha (PhD student)
 - Arthur Camara (PhD student)
-- Shabnam Najafian (PhD student)
 - Felipe Moraes (PhD student)
 - Nirmal Roy (TA)
 
@@ -86,11 +86,12 @@ This course has no final exam, instead the grade is largely determined through t
 
 ### Group projects
 
-The group projects follow each other. During the first 5 course weeks, the group tackles the [core IR project](projectCoreIR.md) (reproducing a research paper essentially), during the second 5 weeks of the course the group tackles the [applied NLP project](projectAppliedNLP.md).
+The group projects follow each other. During the first 5 course weeks, the group tackles the [applied NLP project](projectAppliedNLP.md), and during the second 5 weeks of the course the group tackles the [core IR project](projectCoreIR.md) (reproducing a research paper essentially).
 
 Group size:
-- Core IR (2-3)
 - Applied NLP (3-4)
+- Core IR (2-3)
+
 
 The differences in group sizes will be taken into account during grading. 
 
@@ -98,7 +99,7 @@ At the end of each project phase we will conduct a short interview (15 minutes p
 
 ### Weekly reviews
 
-Most lectures are accompanied by **one required reading**, which is usually a scientific paper. For every required reading you are asked to write a *review*. These review activities are individual work.
+Each week is accompanied by **one required reading**, which is usually a scientific paper. For every required reading you are asked to write a *review*. These review activities are individual work.
 
 Each review is graded as either *excellent*, *sufficient* or *insufficient*. In order to pass the course, 9 of the 14 offered review opportunities have to be passed with at least *sufficient*. Use the provided [review template](reviewForm.md) and follow its instructions. Reviews are submitted via Brightspace.
 
@@ -126,7 +127,7 @@ In order to pass this course, you need to fullfil **all** of the following:
 We do not have fixed lab hours. Due to the heavy emphasis on project work in this course, we offer weekly support hours: 
 
 ### Core IR 
-During weeks 3.2 to 3.5 between 9am and 11:30am at least three staff members will be available to help groups with their IR project. You can sign up for 15 minute timeslots on TU Delft's queue system: head to https://queue.ewi.tudelft.nl/ and look for `IN4325`. You should see something along those lines:
+During weeks 3.6 to 3.8 between 9am and 11:30am at least three staff members will be available to help groups with their IR project. You can sign up for 15 minute timeslots on TU Delft's queue system: head to https://queue.ewi.tudelft.nl/ and look for `IN4325`. You should see something along those lines:
 
 <img src="img/queue.png" width="600px">
 
@@ -134,7 +135,7 @@ Click on the day you want to get support and then *enroll* for a particular time
 **core IR interviews** on March 14/15 are also scheduled this way. *Once again: one timeslot per group!*
 
 ### Applied NLP
-During weeks 3.6 to 3.8 between 9am and 11:30am at least two staff members will be available to help groups with their NLP projects. You can sign up for 15 minute timeslots on TU Delft's queue system: https://queue.ewi.tudelft.nl/
+During weeks 3.2 to 3.5 between 9am and 11:30am at least two staff members will be available to help groups with their NLP projects. You can sign up for 15 minute timeslots on TU Delft's queue system: https://queue.ewi.tudelft.nl/
 
 The support hours are offered in building 28, please come to the waiting area near room W04.900 (Nava Tintarev's office).
 **NLP interviews** on April 11/12 are also scheduled this way. *Once again: one timeslot per group!*
@@ -144,6 +145,7 @@ The support hours are offered in building 28, please come to the waiting area ne
 The lecture locations have been taken from [TUD's timetable site](https://mytimetable.tudelft.nl/) on February 11, 2019.
 **Check your timetable for the latest location of each lecture, we are getting to know the campus in this course!** :bike: :bike: :bike:
 
+<!--
 | Week | Thursday lecture                  | Friday lecture                    | Group project          | No. of reviews |
 |------|-----------------------------------|-----------------------------------|------------------------|--------------|
 | 3.1  | IR evaluation (`EWI hall Pi`, C. Hauff)          | Retrieval models (`EWI hall Pi`, C. Hauff)       |   Project group settled                     | 1            |
@@ -156,8 +158,8 @@ The lecture locations have been taken from [TUD's timetable site](https://mytime
 | 3.8  | NLP annotations (`Aula CZ C`, O. Inel)           | Word embeddings (`CT-CZ E`, N. Tintarev)     |   Intermediate applied NLP report due                     | 2            |
 | 3.9  |                                   |                                   |               applied NLP report due/interviews         |              |
 | 3.10 |                                   |                                   |  |              |
-
-We start off in weeks 3.1 to 3.4 with the [core IR module](lecturesCoreIR.md), alongside which the [core IR group project](projectCoreIR.md) runs. In week 3.5 we switch to the [applied NLP module](lecturesAppliedNLP.md), alongside which the [applied NLP group project](projectAppliedNLP.md) runs.
+-->
+We start off in weeks 3.1 to 3.4 with the [applied NLP module](lecturesAppliedNLP.md) , alongside which the [applied NLP group project](projectAppliedNLP.md) runs. In week 3.5 we switch tothe [core IR module](lecturesCoreIR.md), alongside which the [core IR group project](projectCoreIR.md) runs.
 
 ## Deadlines
 
