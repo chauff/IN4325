@@ -37,11 +37,12 @@ This repository contains the materials of the **MSc Information Retrieval** cour
 
 Retrieving relevant information and making sense of it are two central activities in modern knowledge-driven societies. As the amount and variety of data increase at an unprecedented rate, access to relevant, usually unstructured information is becoming more and more challenging. The web is now the first stop for many (or most?) information seekers, and web search engines are our key to unlocking that vast and largely unstructured pile of information. 
 
-**But how do search engines actually work?** This is what this course is about. In the **first module** of the course, we focus on **core IR** techniques such as indexing, retrieval models, evaluation metrics and so on. 
+**But how do search engines actually work?** This is what this course is about. In the **first module** of the course, we cover natural language processing (NLP) and natural language generation (NLG). 
 
-In the **second module** of the course we cover natural language processing (NLP) and natural language generation (NLG). While for many years, IR and NLP researchers stayed far away from each other, in recent years the two fields have moved closer together, with search engines using many NLP techniques to enhance the search experience--e.g. by providing automatically generated explanations of search result rankings and by enabling a _dialogue_ to take place between the search engine and user.
 
-The split (core IR / applied NLP) will be made halfway through the course: the first eight lectures cover core IR techniques, the remaining eight lectures cover applied NLP techniques with applications to search in mind. 
+In the **second module** of the course we focus on **core IR** techniques such as indexing, retrieval models, evaluation metrics and so on.  While for many years, IR and NLP researchers stayed far away from each other, in recent years the two fields have moved closer together, with search engines using many NLP techniques to enhance the search experience--e.g. by providing automatically generated explanations of search result rankings and by enabling a _dialogue_ to take place between the search engine and user.
+
+The split (applied NLP/core IR) will be made halfway through the course: the first eight lectures cover NLP techniques, the remaining eight lectures cover NLP techniques. 
 
 ## Course team
 
