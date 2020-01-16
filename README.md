@@ -169,32 +169,27 @@ Reminder of the rules:
 - You need to pass 9 out of 14 reviews with a grade of *sufficient*.
 - The project proposal and intermediate report submissions are required, but are **not** graded. The proposal has to be signed off by an instructor (does it fit the project goals? is the scope sufficient?). The intermediate proposal can be a last chance for feedback. Submit whatever you have at that point.
 
-**Core IR lecture weeks (the final deadline is in week 3.5):**
 
-:small_blue_diamond: Review P1: handed out February 15, **due February 22**.
+**Applied NLP lecture weeks the final deadline is in week 3.5): **
 
-:small_orange_diamond: Core IR project proposal: **due February 22**.
+:small_blue_diamond: Review P1: handed out February 14, **due February 21**.
+
+:small_orange_diamond: applied NLP project proposal: **due February 21**.
 
 :small_blue_diamond: Review P2: handed out February 21, **due February 28**.
 
-:small_blue_diamond: Review P3: handed out February 22, **due March 1**.
+:small_blue_diamond: Review P3: handed out February 28, **due March 6**.
 
-:small_blue_diamond: Review P4: handed out February 28, **due March 7**.
+:small_orange_diamond: NLP intermediate project report: **due March 8**.
 
-:small_blue_diamond: Review P5: handed out March 1, **due March 8**.
+:small_blue_diamond: Review P5: handed out March 6, **due March 13**.
 
-:small_orange_diamond: Core IR intermediate project report: **due March 8**.
+:small_orange_diamond: NLP final project report: **due March 12**.
 
-:small_orange_diamond: Core IR final project report: **due March 13**.
-
-:small_blue_diamond: Review P6: handed out March 7, **due March 14**.
-
-:small_blue_diamond: Review P7: handed out March 8, **due March 15**.
-
-:small_orange_diamond:: Core IR project interviews: **March 14** and **March 15**.
+:small_orange_diamond:: NLP project interviews: **March 12** and **March 13**.
 
 
-**Applied NLP lecture weeks (the final deadline is in week 3.9):**
+**Core IR lecture weeks (the final deadline is in week 3.9): **
 
 :small_blue_diamond: Review P8: handed out March 15, **due March 22**.
 
@@ -217,3 +212,6 @@ Reminder of the rules:
 :small_blue_diamond: Review P14: handed out April 5, **due April 12**.
 
 :small_orange_diamond: NLP project interviews: **April 11** and **April 12**.
+
+
+
