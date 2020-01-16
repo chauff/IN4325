@@ -79,8 +79,8 @@ This is a **5 EC course**, with **140 hours** of course work in total. We expect
 
 This course has no final exam, instead the grade is largely determined through three components: 
 
-1. a group project core IR.
-2. a group project applied NLP.
+1. a group project applied NLP.
+2. a group project core IR.
 3. individual review activities.
 
 **All assessment items (reviews, projects reports) have to be submitted via Brightspace.**
@@ -92,7 +92,6 @@ The group projects follow each other. During the first 5 course weeks, the group
 Group size:
 - Applied NLP (3-4)
 - Core IR (2-3)
-
 
 The differences in group sizes will be taken into account during grading. 
 
@@ -185,7 +184,6 @@ We start off in weeks 3.1 to 3.4 with the [applied NLP module](lecturesAppliedNL
 This course has a number of smaller (the paper reviews :small_blue_diamond:) and larger (anything to do with the group projects :small_orange_diamond:) deadlines. They are listed here in order of **due date**. The deadlines are always at 23:59 CET (i.e. local time) of the respective deadline day. We rely on Brigthspace for submission. Brightspace submissions close automatically, be sure to not be late.
 
 Reminder of the rules:
-- You need to pass 9 out of 14 reviews with a grade of *sufficient*.
 - The project proposal and intermediate report submissions are required, but are **not** graded. The proposal has to be signed off by an instructor (does it fit the project goals? is the scope sufficient?). The intermediate proposal can be a last chance for feedback. Submit whatever you have at that point.
 
 
