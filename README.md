@@ -113,7 +113,8 @@ Each of the two project phases is worth 45% of the final grade, consisting of th
 - Report results & discussion: 10%
 - Interview (understanding, insights): 15%
 
-The paper review is worth 10% of the final grade. We take the 9 best review grades you have achieved (which at minimum should be 9x *sufficient* and at best can be 9x *excellent*) and convert them into points: 1 point per *sufficient* and 2 points per *excellent*. 18 points (i.e. 9x *excellent*) is a grade of 10, 9 points (i.e. 9x *sufficient*) is a grade of 6. Points between 9 and 18 are converted to grades in a linear fashion.
+The paper review is worth 10% of the final grade. <!--We take the 9 best review grades you have achieved (which at minimum should be 9x *sufficient* and at best can be 9x *excellent*) !-->
+We take your review grades and convert them into points: 1 point per *sufficient* and 2 points per *excellent*. 16 points (i.e. 8x *excellent*) is a grade of 10, 8 points (i.e. 8x *sufficient*) is a grade of 6. Points between 9 and 18 are converted to grades in a linear fashion.
 
 In order to pass this course, you need to fullfil **all** of the following:
 1. Receive an overall grade of 5.8 or higher (in alignment with TU Delft's exam regulations). 
