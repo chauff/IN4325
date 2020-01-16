@@ -174,7 +174,7 @@ Reminder of the rules:
 - The project proposal and intermediate report submissions are required, but are **not** graded. The proposal has to be signed off by an instructor (does it fit the project goals? is the scope sufficient?). The intermediate proposal can be a last chance for feedback. Submit whatever you have at that point.
 
 
-**Applied NLP lecture weeks the final deadline is in week 3.5):**
+**Applied NLP lecture weeks (the final deadline is in week 3.5):**
 
 :small_blue_diamond: Review P1: handed out February 14, **due February 21**.
 
