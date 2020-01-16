@@ -146,7 +146,7 @@ Click on the day you want to get support and then *enroll* for a particular time
 
 ## :clock130: Course schedule
 
-The lecture locations have been taken from [TUD's timetable site](https://mytimetable.tudelft.nl/) on February 11, 2019.
+The lecture locations have been taken from [TUD's timetable site](https://mytimetable.tudelft.nl/) on January 16th, 2020.
 **Check your timetable for the latest location of each lecture, we are getting to know the campus in this course!** :bike: :bike: :bike:
 
 <!--
