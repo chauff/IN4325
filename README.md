@@ -134,7 +134,7 @@ Look for `IN4325`, and you should see something along those lines:
 <img src="img/queue.png" width="600px">
 
 The support hours are offered in building 28, please come to the waiting area near room W04.900 (Nava Tintarev's office).
-**NLP interviews** on April 11/12 are also scheduled this way. *Once again: one timeslot per group!*
+**NLP interviews** on March 12 and March 13 are also scheduled this way. *Once again: one timeslot per group!*
 
 
 ### Core IR 
@@ -204,7 +204,7 @@ Reminder of the rules:
 
 :small_orange_diamond: NLP final project report: **due March 11**.
 
-:small_orange_diamond:: NLP project interviews: **March 12** and **March 13**.
+:small_orange_diamond: NLP project interviews: **March 12** and **March 13**.
 
 
 **Core IR lecture weeks (the final deadline is in week 3.9):**
