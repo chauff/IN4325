@@ -163,6 +163,21 @@ The lecture locations have been taken from [TUD's timetable site](https://mytime
 | 3.9  |                                   |                                   |               applied NLP report due/interviews         |              |
 | 3.10 |                                   |                                   |  |              |
 -->
+
+| Week | Thursday lecture                  | Friday lecture                    | Group project          | No. of reviews |
+|------|-----------------------------------|-----------------------------------|------------------------|--------------|
+| 3.1  | NLP introduction (`Pathe Zal 6`, N. Tintarev)    | Text analysis (`BK-CZ B`, N. Tintarev)                 | NLP Project group settled| 1            |
+| 3.2  | Semantics (`Pathe Zal 6`, N. Tintarev) | Evaluation NLP (`BK-CZ B`, N. Tintarev)       |      NLP project settled                  | 1            |
+| 3.3  | ML for NLP (`Pathe Zal 6`, N. Tintarev)  | Language generation (`BK-CZ B`, N. Tintarev) |                        | 1            |
+| 3.4  | NLP annotations (`Pathe Zal 6`, O. Inel)           | Word embeddings (`BK-CZ B`, N. Tintarev)     |   Intermediate applied NLP report due                     | 1           |
+| 3.5  | IR evaluation (`Pathe Zal 6`, C. Hauff)          | Retrieval models (`BK-CZ B`, C. Hauff)       |  Final NLP report due / interviews. Project group settled IR.                   | 1            |
+| 3.6  | IR indexing (`Pathe Zal 6`, C. Hauff)            | Query refinement (`BK-CZ B`, F. Moraes)      |   Core IR project settled                     | 1           |
+| 3.7  | Interactive IR (`Pathe Zal 6`, C. Hauff)         | Personalization (`BK-CZ B`, C. Hauff)        |                        | 1            |
+| 3.8  | Learning to rank (`Pathe Zal 6`, C. Hauff)       | Neural IR (`BK-CZ B`, A. Camara)             |             Intermediate core IR report due           | 1           |
+| 3.9  |                                   |                                   |               IR report due/interviews         |              |
+| 3.10 |                                   |                                   |  |              |
+
+
 We start off in weeks 3.1 to 3.4 with the [applied NLP module](lecturesAppliedNLP.md), alongside which the [applied NLP group project](projectAppliedNLP.md) runs. In week 3.5 we switch to the [core IR module](lecturesCoreIR.md), alongside which the [core IR group project](projectCoreIR.md) runs.
 
 ## Deadlines
