@@ -174,7 +174,7 @@ Reminder of the rules:
 - The project proposal and intermediate report submissions are required, but are **not** graded. The proposal has to be signed off by an instructor (does it fit the project goals? is the scope sufficient?). The intermediate proposal can be a last chance for feedback. Submit whatever you have at that point.
 
 
-**Applied NLP lecture weeks the final deadline is in week 3.5): **
+**Applied NLP lecture weeks the final deadline is in week 3.5):**
 
 :small_blue_diamond: Review P1: handed out February 14, **due February 21**.
 
@@ -193,8 +193,9 @@ Reminder of the rules:
 :small_orange_diamond:: NLP project interviews: **March 12** and **March 13**.
 
 
-**Core IR lecture weeks (the final deadline is in week 3.9): **
-DATES TO BE UPDATED
+**Core IR lecture weeks (the final deadline is in week 3.9):**
+
+NB: DATES TO BE UPDATED
 
 :small_blue_diamond: Review P8: handed out March 15, **due March 22**.
 
