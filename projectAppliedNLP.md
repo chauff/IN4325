@@ -65,7 +65,6 @@ Based on prior experience we put the following restrictions on your choice of pr
 We have a first deadline in week 3.2, so you will get early feedback on the suitability of your proposal.
 
 ## Report formats
-(These are the same as for core IR.)
 
 ### Project proposal
 
