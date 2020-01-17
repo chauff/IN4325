@@ -50,6 +50,7 @@ This distribution also fits the lecturer team of this course: [Associate Prof. C
 
 - Oana Inel (Postdoc)
 - Mesut Kaya (Postdoc)
+- Priya Sarkar (TA)
 - Gustavo Penha (PhD student)
 - Arthur Camara (PhD student)
 - Felipe Moraes (PhD student)
