@@ -62,7 +62,7 @@ Based on prior experience we put the following restrictions on your choice of pr
 - Not all data is created equal -- what kind of biases might come from the dataset you are using?
 - The project focuses on **textual data** (not video/audio/genomics/.... data).
 
-We have a first deadline in week 3.6, so you will get early feedback on the suitability of your proposal.
+We have a first deadline in week 3.2, so you will get early feedback on the suitability of your proposal.
 
 ## Report formats
 (These are the same as for core IR.)
@@ -104,4 +104,4 @@ The final project report is graded in combination with the project interview. Th
 
 ## Interviews
 
-The 15 minute interviews per group will be scheduled on **April 11** and **April 12**. 
+The 15 minute interviews per group will be scheduled on **March 12** and **March 13**. 
