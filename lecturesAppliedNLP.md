@@ -203,7 +203,7 @@ The results that we get in many NLP tasks are dependent on the quality and prope
 
 The lectures slides (PDF) are available [here](slides/NLP_Lecture7_bias.pdf) 
 
-**NLP final project report: due April 10.**
+**NLP final project report: due March 11.**
 
 ### Recommended readings
 
@@ -213,7 +213,7 @@ The theory of distributional semantics effectively builds on the principle "A wo
 
 The lectures slides (PDF) are available [here](slides/NLP8_Embeddings.pdf) 
 
-**NLP project interviews: April 11 and April 12.**
+**NLP project interviews: March 12 and March 13.**
 
 ### Recommended readings
 
