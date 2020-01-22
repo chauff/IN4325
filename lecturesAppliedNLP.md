@@ -41,7 +41,7 @@ The following sections contain the materials for the eight applied NLP lectures.
 ### Books
 Speech and Language Processing (3rd ed.) by Dan Jurafsky and James H. Martin. [Available online](https://web.stanford.edu/~jurafsky/slp3).
 
-Natural language processing. [Also available online](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+Natural language processing by Jacob Eisenstein [Also available online](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 ### Software
 
