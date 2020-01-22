@@ -42,11 +42,11 @@ Retrieving relevant information and making sense of it are two central activitie
 
 In the **second module** of the course we focus on **core IR** techniques such as indexing, retrieval models, evaluation metrics and so on.  While for many years, IR and NLP researchers stayed far away from each other, in recent years the two fields have moved closer together, with search engines using many NLP techniques to enhance the search experience--e.g. by providing automatically generated explanations of search result rankings and by enabling a _dialogue_ to take place between the search engine and user.
 
-The split (applied NLP/core IR) will be made halfway through the course: the first eight lectures cover NLP techniques, the remaining eight lectures cover NLP techniques. 
+The split (applied NLP/core IR) will be made halfway through the course: the first eight lectures cover applied NLP techniques, the remaining eight lectures cover core IR techniques. 
 
 ## Course team
 
-This distribution also fits the lecturer team of this course: [Associate Prof. Claudia Hauff](https://chauff.github.io/) teaches the core IR lectures, while [Assistant Prof. Nava Tintarev](http://navatintarev.com/) teaches the applied NLP lectures. The course team is completed by a number of PhDs and Postdocs (all from the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who focuses on the grading of the paper reviews:
+This distribution also fits the lecturer team of this course: [Assistant Prof. Nava Tintarev](http://navatintarev.com/) teaches the applied NLP lectures, while Associate Prof. Claudia Hauff](https://chauff.github.io/) teaches the core IR lectures. The course team is completed by a number of PhDs and Postdocs (all from the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/)) who support the course through guest lectures and project supervision and a TA who focuses on the grading of the paper reviews:
 
 - Oana Inel (Postdoc)
 - Mesut Kaya (Postdoc)
