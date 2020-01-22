@@ -106,7 +106,7 @@ Each review is graded as either *excellent*, *sufficient* or *insufficient*. In 
 
 ## Final grade
 
-<img src="img/grading.png" width="400px">
+<img src="img/grading2.png" width="400px">
 
 Each of the two project phases is worth 45% of the final grade, consisting of the following parts:
 - Report writing, background & context:  10%
