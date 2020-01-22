@@ -6,7 +6,7 @@ There are three expected outputs:
 2. **Intermediate project report** (mandatory, but ungraded - you will receive feedback).
 3. **Final project report** (mandatory, graded).
 
-**Group projects are conducted in groups of 3-4 students. Please enroll together with your team members in group on Brightspace - we have predefined 30 different groups, take your pick!**
+**Group projects are conducted in groups of 3-4 students. Please enroll together with your team members in a group on Brightspace - we have predefined 30 different groups, take your pick!**
 
 You can choose between two types of projects: reproducing an NLP paper or investigating a research idea of your own.
 
