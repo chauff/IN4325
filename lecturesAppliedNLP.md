@@ -154,6 +154,9 @@ Review P2: handed out February 21, due **February 28**.
 How do we apply what we know about classifiers and regression to NLP problems? What are commonpitfalls and mistakes? Which kind of biases in the data and analysis should we look out for as ethical data scientists? This lecture focuses on applying classical machine learning techniques to natural language processing.
 <img src="img/overfitting.jpg" width="300px" align="middle">
 
+**NLP intermediate project report: due March 4.**
+
+
 The lectures slides (PDF) are available [here](slides/NLP_Lecture5_ML.pdf). 
 
 ### Recommended readings
@@ -183,7 +186,7 @@ So far we've only looked at how to improve computational **understanding** natur
 
 The lectures slides (PDF) are available [here](slides/NLP_Lecture6_NLG.pdf). 
 
-**NLP intermediate project report: due April 5.**
+
 
 ### Recommended resources
 
