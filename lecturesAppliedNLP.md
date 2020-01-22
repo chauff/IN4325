@@ -41,7 +41,7 @@ The following sections contain the materials for the eight applied NLP lectures.
 ### Books
 Speech and Language Processing (3rd ed.) by Dan Jurafsky and James H. Martin. [Available online](https://web.stanford.edu/~jurafsky/slp3).
 
-Natural language processing, forthcoming with MIT press. [Also online](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+Natural language processing. [Also available online](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
 ### Software
 
@@ -69,7 +69,7 @@ Natural Language processing describes computational methods that allow computers
 
 <img src="img/intro.jpg" width="300px" align="middle">
 
-The lectures slides (PDF) are available [here](slides/NLP_Lecture1_Introduction.pdf). The slides will be updated (as needed) after the lecture.
+Last year's lectures slides (PDF) are available [here](slides/NLP_Lecture1_Introduction.pdf). The slides will be updated (as needed) after the lecture.
 
 ### Recommended readings
 
@@ -97,7 +97,7 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture2_Syntax.pdf). 
 
 Fokkens, Antske, et al. "Offspring from reproduction problems: What replication failure teaches us." Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Vol. 1. 2013.
 
-Review P1: handed out --, due --.
+Review P1: handed out February 14, due **February 21**.
 
 ## Lecture 3: Semantics
 What does it mean, what does it all mean? Unlike controlled languages, natural language is full of ambiguities. Words have multiple meanings, and words are related to each other in different ways. This lecture looks at semantics, or **meaning** in language.
@@ -147,7 +147,7 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture4_evaluation.pd
 
 Best practices for the human evaluation of automatically generated text. Chris van der Lee, Albert Gatt, Emiel van Miltenburg, Sander Wubben and Emiel Krahmer 
 
-Review P2: handed out ---, due March ___.
+Review P2: handed out February 21, due **February 28**.
 
 
 ## Lecture 5: ML for NLP
@@ -191,12 +191,12 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture6_NLG.pdf).
 
 Academic Reference: A Gatt and E Reiter (2009). [SimpleNLG: A realisation engine for practical applications.](aclweb.org/anthology/W/W09/W09-0613.pdf) Proceedings of ENLG-2009
 
-### :warning: Paper P4 to review
+### :warning: Paper P3 to review
 [Thumbs up?: sentiment classification using machine learning techniques](https://dl.acm.org/citation.cfm?doid=1118693.1118704)
 
 Pang, Bo, Lillian Lee, and Shivakumar Vaithyanathan. "Thumbs up?: sentiment classification using machine learning techniques." Proceedings of the ACL-02 conference on Empirical methods in natural language processing-Volume 10. Association for Computational Linguistics, 2002.
 
-Review P4: handed out March 28, due April 4.
+Review P3: handed out February 28, due **March 6**.
 
 ## Lecture 7: Bias in NLP
 The results that we get in many NLP tasks are dependent on the quality and properties of the underlying data. In many (most) cases this is as important as applying the right machine learning techniques. In addition, a lot of the annotation is noisy or simply subjective. In this lecture we discuss the challenges and some of the state-of-the-art solutions.
@@ -223,4 +223,4 @@ The lectures slides (PDF) are available [here](slides/NLP8_Embeddings.pdf)
 
 Reidsma, Dennis. "Exploiting 'subjective' annotations." Proceedings of the Workshop on Human Judgements in Computational Linguistics. Association for Computational Linguistics, 2008.
 
-Review 4: handed out ---, due ---.
+Review 4: handed out March 6, due **March 13**.
