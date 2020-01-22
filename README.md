@@ -148,7 +148,7 @@ Click on the day you want to get support and then *enroll* for a particular time
 ## :clock130: Course schedule
 Thursdays: 10:45-12:45; Fridays: 13:45-15:45
 The lecture locations have been taken from [TUD's timetable site](https://mytimetable.tudelft.nl/) on January 16th, 2020.
-**Check your timetable for updates on time and location! Note that many lectures are in the center of Delft, at the cinema.** :bike: :movie:
+**Check your timetable for updates on time and location! Note that many lectures are in the center of Delft, at the cinema.** :bike: :cinema:
 
 <!--
 | Week | Thursday lecture                  | Friday lecture                    | Group project          | No. of reviews |
