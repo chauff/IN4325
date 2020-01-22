@@ -199,7 +199,7 @@ Reminder of the rules:
 
 :small_blue_diamond: Review P3: handed out February 28, **due March 6**.
 
-:small_orange_diamond: NLP intermediate project report: **due March 8**.
+:small_orange_diamond: NLP intermediate project report: **due March 4**.
 
 :small_blue_diamond: Review P4: handed out March 6, **due March 13**.
 
