@@ -1,5 +1,4 @@
 # Applied NLP Lectures <!-- omit in toc -->
-**In progress**
 
 The following sections contain the materials for the eight applied NLP lectures. The applied NLP papers to review each week are listed here as well.
 
