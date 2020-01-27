@@ -68,16 +68,16 @@ Natural Language processing describes computational methods that allow computers
 
 <img src="img/intro.jpg" width="300px" align="middle">
 
-Last year's lectures slides (PDF) are available [here](slides/NLP_Lecture1_Introduction.pdf). The slides will be updated (as needed) after the lecture.
+Slides (PDF) are available [here](slides/NLP_Lecture1_Introduction_2020.pdf). The slides will be updated (as needed) after the lecture.
 
 ### Recommended readings
 
 ## Lecture 2: Syntax
 While human language is very flexible, it does follow certain rules, principles, and processes that govern the structure of sentences. We can use that structure to improve machine understanding of human language, and solve many NLP tasks. Therefore this lecture focuses on syntax, or the structure of sentences.
 
-The lectures slides (PDF) are available [here](slides/NLP_Lecture2_Syntax.pdf). The slides will be updated (as needed) after the lecture.
+The lectures slides (PDF) are available [here](slides/NLP_Lecture2_Syntax_2020.pdf). The slides will be updated (as needed) after the lecture.
 
-** NLP project proposal: due March 22.**
+** NLP project proposal: due February 21st.**
 
 ### Recommended readings
 [Large Language Models in Machine Translation ("Stupid Backoff")](http://www.aclweb.org/anthology/D07-1090.pdf)
@@ -103,7 +103,7 @@ What does it mean, what does it all mean? Unlike controlled languages, natural l
 
 <img src="img/semantics.jpg" width="300px" align="middle">
 
-The lectures slides (PDF) are available [here](slides/NLP_Lecture3_Semantics.pdf). 
+Last year's lectures slides(PDF) are available [here](slides/NLP_Lecture3_Semantics.pdf). 
 ### Recommended readings
 [Similarity for news recommender systems](http://navatintarev.com/papers/TintarevMasthoffAH2006.pdf)
 
@@ -125,7 +125,7 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture3_Semantics.pdf
 
 How do we know if our NLP methods are working well? What are the methods used in NLP, and what are the metrics? How do we interpret these are when are they suitable? This lecture looks at evaluation, and assessing the performance of NLP systems.
 
-The lectures slides (PDF) are available [here](slides/NLP_Lecture4_evaluation.pdf). 
+Last year's lectures slides (PDF) are available [here](slides/NLP_Lecture4_evaluation.pdf). 
 <img src="img/evaluation.jpg" width="300px" align="middle">
 
 ### Recommended readings
@@ -158,7 +158,7 @@ How do we apply what we know about classifiers and regression to NLP problems? W
 
 
 
-The lectures slides (PDF) are available [here](slides/NLP_Lecture5_ML.pdf). 
+Last year's lectures slides (PDF) are available [here](slides/NLP_Lecture5_ML.pdf). 
 
 ### Recommended readings
   - [Article on the Bias-Variance tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
@@ -185,8 +185,7 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture5_ML.pdf).
 ## Lecture 6: Natural Language Generation
 So far we've only looked at how to improve computational **understanding** natural language. However in conversational systems (like, but not limited to chatbots), we also might want a computer to communicate with us. There is an area of research that focuses on going from abstract, often rich and complex, representations to natural language that people can understand. In this lecture we will introduce this area of research, which is called Natural Language Generation.
 
-The lectures slides (PDF) are available [here](slides/NLP_Lecture6_NLG.pdf). 
-
+Last year's lectures slides (PDF) are available [here](slides/NLP_Lecture6_NLG.pdf). 
 
 
 ### Recommended resources
@@ -205,7 +204,7 @@ Review P3: handed out February 28, due **March 6**.
 ## Lecture 7: Bias in NLP
 The results that we get in many NLP tasks are dependent on the quality and properties of the underlying data. In many (most) cases this is as important as applying the right machine learning techniques. In addition, a lot of the annotation is noisy or simply subjective. In this lecture we discuss the challenges and some of the state-of-the-art solutions.
 
-The lectures slides (PDF) are available [here](slides/NLP_Lecture7_bias.pdf) 
+Last year's lectures slides (PDF) are available [here](slides/NLP_Lecture7_bias.pdf) 
 
 **NLP final project report: due March 11.**
 
@@ -215,7 +214,7 @@ The lectures slides (PDF) are available [here](slides/NLP_Lecture7_bias.pdf)
 ## Lecture 8: Word embeddings
 The theory of distributional semantics effectively builds on the principle "A word is known by the company it keeps". In this lecture we will have an introduction to how to learn abstract word vectors that can help us compute the semantic (meaning) distance between different words. We will look at different ways these kinds of vectors can be used, and also talk about some of their limitations.
 
-The lectures slides (PDF) are available [here](slides/NLP8_Embeddings.pdf) 
+Last year's lectures slides (PDF) are available [here](slides/NLP8_Embeddings.pdf) 
 
 **NLP project interviews: March 12 and March 13.**
 
