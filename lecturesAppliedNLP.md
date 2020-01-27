@@ -227,3 +227,6 @@ Last year's lectures slides (PDF) are available [here](slides/NLP8_Embeddings.pd
 Reidsma, Dennis. "Exploiting 'subjective' annotations." Proceedings of the Workshop on Human Judgements in Computational Linguistics. Association for Computational Linguistics, 2008.
 
 Review 4: handed out March 6, due **March 13**.
+
+**Intermediate applied NLP report due March 4.**
+**NLP final project report: due March 11 (interviews 12 and 13th)**
