@@ -50,6 +50,7 @@ A number of open-source retrieval toolkits exist. They have different strengths 
 
    - [NLTK](http://www.nltk.org/)
    - [Apache OpenNLP](http://opennlp.apache.org/)
+   - [StanfordNLP](https://stanfordnlp.github.io/stanfordnlp)
    
    Also in Dutch:
    - [SentiStrength](http://sentistrength.wlv.ac.uk/)
@@ -60,8 +61,10 @@ A number of open-source retrieval toolkits exist. They have different strengths 
   - [Movie reviews](http://ai.stanford.edu/~amaas/data/sentiment/)
   - [Stanford sentiment treebank](nlp.stanford.edu/sentiment/code.html)
   - [Sentiment on Twitter](http://help.sentiment140.com/for-students/)
-  - [Various text datasets, UCI](https://archive.ics.uci.edu/ml/datasets.html?format=&task=&att=&area=&numAtt=&numIns=&type=text&sort=nameUp&view=table)
-- [Stance detection](https://github.com/FakeNewsChallenge/fnc-1)
+  - [Sentiment Analysis in Twitter](http://alt.qcri.org/semeval2017/task4/index.php?id=data-and-tools)
+  - [Various text datasets, UCI](https://archive.ics.uci.edu/ml/datasets.php)
+  - [Stance detection](https://github.com/FakeNewsChallenge/fnc-1)
+  - [Irony Detection in English Tweets](https://github.com/Cyvhee/SemEval2018-Task3/)
 
 ## Lecture 1: NLP Introduction
 Natural Language processing describes computational methods that allow computers to "understand" human communication. This lecture explains what NLP can do, and describes common NLP applications. It describes the kind of tasks that are solved by NLP, and the kind of components/sub-tasks that make it possible for us to solve these tasks.
@@ -212,6 +215,9 @@ Last year's lectures slides (PDF) are available [here](slides/NLP_Lecture7_bias.
 
 
 ### Recommended readings
+[Geva, Mor, Yoav Goldberg, and Jonathan Berant. "Are we modeling the task or the annotator? an investigation of annotator bias in natural language understanding datasets." EMNLP-IJCNLP (2019)] (https://www.aclweb.org/anthology/D19-1107.pdf)
+
+[Sun, Tony, Andrew Gaut, Shirlyn Tang, Yuxin Huang, Mai ElSherief, Jieyu Zhao, Diba Mirza, Elizabeth Belding, Kai-Wei Chang, and William Yang Wang. "Mitigating gender bias in natural language processing: Literature review." ACL (2019).](https://www.aclweb.org/anthology/P19-1159.pdf)
 
 
 ## Lecture 8: Word embeddings
@@ -222,6 +228,11 @@ Last year's lectures slides (PDF) are available [here](slides/NLP8_Embeddings.pd
 **NLP project interviews: March 12 and March 13.**
 
 ### Recommended readings
+
+
+### Recommended resources
+[GloVe](https://nlp.stanford.edu/projects/glove/)
+[word2vec](https://radimrehurek.com/gensim/models/word2vec.html)
 
 ### :warning: Paper P4 to review
 
