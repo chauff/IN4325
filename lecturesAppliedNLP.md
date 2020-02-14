@@ -78,7 +78,7 @@ Slides (PDF) are available [here](slides/NLP_Lecture1_Introduction_2020.pdf). Th
 ## Lecture 2: Syntax
 While human language is very flexible, it does follow certain rules, principles, and processes that govern the structure of sentences. We can use that structure to improve machine understanding of human language, and solve many NLP tasks. Therefore this lecture focuses on syntax, or the structure of sentences.
 
-The lectures slides (PDF) are available [here](slides/NLP_Lecture2_Syntax_2020.pdf). The slides will be updated (as needed) after the lecture.
+The lectures slides (PDF) are available [here](slides/NLP_Lecture2_Syntax_2020.pdf). 
 
 ** NLP project proposal: due February 21st.**
 
@@ -106,7 +106,8 @@ What does it mean, what does it all mean? Unlike controlled languages, natural l
 
 <img src="img/semantics.jpg" width="300px" align="middle">
 
-Last year's lectures slides(PDF) are available [here](slides/NLP_Lecture3_Semantics.pdf). 
+Last year's lectures slides(PDF) are available [here](slides/NLP_Lecture3_Semantics.pdf). Slides will be updated after the lecture as needed.
+
 ### Recommended readings
 [Similarity for news recommender systems](http://navatintarev.com/papers/TintarevMasthoffAH2006.pdf)
 
@@ -161,7 +162,8 @@ How do we apply what we know about classifiers and regression to NLP problems? W
 
 
 
-Last year's lectures slides (PDF) are available [here](slides/NLP_Lecture5_ML.pdf). 
+Last year's lectures slides (PDF) are available [here](slides/NLP_Lecture5_ML.pdf).  Slides will be updated after the lecture as needed.
+
 
 ### Recommended readings
   - [Article on the Bias-Variance tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
@@ -188,7 +190,8 @@ Last year's lectures slides (PDF) are available [here](slides/NLP_Lecture5_ML.pd
 ## Lecture 6: Natural Language Generation
 So far we've only looked at how to improve computational **understanding** natural language. However in conversational systems (like, but not limited to chatbots), we also might want a computer to communicate with us. There is an area of research that focuses on going from abstract, often rich and complex, representations to natural language that people can understand. In this lecture we will introduce this area of research, which is called Natural Language Generation.
 
-Last year's lectures slides (PDF) are available [here](slides/NLP_Lecture6_NLG.pdf). 
+Last year's lectures slides (PDF) are available [here](slides/NLP_Lecture6_NLG.pdf). Slides will be updated after the lecture as needed.
+
 
 
 ### Recommended resources
