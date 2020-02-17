@@ -54,7 +54,7 @@ This distribution also fits the lecturer team of this course: [Assistant Prof. N
 - Gustavo Penha (PhD student)
 - Arthur Camara (PhD student)
 - Felipe Moraes (PhD student)
-- Nirmal Roy (TA)
+- Nirmal Roy (PhD student)
 
 Claudia and Nava are the responsible instructors of this course and can jointly be reached at **in4325-ewi@tudelft.nl**.
 
@@ -62,7 +62,7 @@ The whole course team can also be found on a dedicated [Slack channel](https://j
 
 ## ECs
 
-This is a **5 EC course**, with **140 hours** of course work in total. We expect you to spread the load evenly across the 9 course weeks.
+This is a **5 EC course**, with **140 hours** of course work in total. We expect you to spread the load evenly across the course weeks.
 
 ## Learning objectives
 
@@ -100,7 +100,7 @@ At the end of each project phase we will conduct a short interview (15 minutes p
 
 ### Weekly reviews
 
-Each week is accompanied by **one required reading**, which is usually a scientific paper. For every required reading you are asked to write a *review*. These review activities are individual work.
+Each lecture week is accompanied by **one required reading**, which is usually a scientific paper. For every required reading you are asked to write a *review*. These review activities are individual work.
 
 Each review is graded as either *excellent*, *sufficient* or *insufficient*. In order to pass the course, 6 of the 8 offered review opportunities have to be passed with at least *sufficient*. Use the provided [review template](reviewForm.md) and follow its instructions. Reviews are submitted via Brightspace.
 
@@ -139,10 +139,14 @@ The support hours are offered in building 28, please come to the waiting area ne
 
 
 ### Core IR 
+
+```diff
+! The timeslots for the core IR module are not yet finalized.
+```
+
 During weeks 3.6 to 3.8 between 9am and 11:30am at least three staff members will be available to help groups with their IR project. You can sign up for 15 minute timeslots on TU Delft's queue system.
 
-Click on the day you want to get support and then *enroll* for a particular timeslot. Per group, please pick only one timeslot per week. The support hours are offered in building 28, please come to the waiting area near room E04.100 (Claudia Hauff's office). As you can see in the image, the 
-**core IR interviews** on March 14/15 are also scheduled this way. *Once again: one timeslot per group!*
+Click on the day you want to get support and then *enroll* for a particular timeslot. Per group, please pick only one timeslot per week. The support hours are offered in building 28, please come to the waiting area near room E04.100 (Claudia Hauff's office). 
 
 
 ## :clock130: Course schedule
@@ -210,7 +214,9 @@ Reminder of the rules:
 
 **Core IR lecture weeks (the final deadline is in week 3.9):**
 
-NB: DATES TO BE UPDATED
+```diff
+! The timeslots for the core IR module are not yet finalized.
+```
 
 :small_blue_diamond: Review P8: handed out March 15, **due March 22**.
 
