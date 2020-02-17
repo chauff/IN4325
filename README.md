@@ -215,7 +215,7 @@ Reminder of the rules:
 **Core IR lecture weeks (the final deadline is in week 3.9):**
 
 ```diff
-! The timeslots for the core IR module are not yet finalized.
+! The deadlines for the core IR module are not yet finalized.
 ```
 
 :small_blue_diamond: Review P8: handed out March 15, **due March 22**.
