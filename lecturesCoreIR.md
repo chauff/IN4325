@@ -32,6 +32,8 @@ The following sections contain the materials for the eight core IR lectures. The
   - [Recommended readings](#recommended-readings)
   - [:warning: Paper P7 to review](#warning-paper-p7-to-review)
 
+:warning: These materials are in the process of being updated! They are not yet finalized for the 2019/20 course edition!
+
 ## IR resources
 
 ### Books
