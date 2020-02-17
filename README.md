@@ -218,27 +218,5 @@ Reminder of the rules:
 ! The deadlines for the core IR module are not yet finalized.
 ```
 
-:small_blue_diamond: Review P8: handed out March 15, **due March 22**.
-
-:small_orange_diamond: IR project proposal: **due March 22**.
-
-:small_blue_diamond: Review P9: handed out March 21, **due March 28**.
-
-:small_blue_diamond: Review P10: handed out March 22, **due March 29**.
-
-:small_blue_diamond: Review P11: handed out March 28, **due April 4**.
-
-:small_blue_diamond: Review P12: handed out March 29, **due April 5**.
-
-:small_orange_diamond: IR intermediate project report: **due April 5**.
-
-:small_orange_diamond: IR final project report: **due April 10**.
-
-:small_blue_diamond: Review P13: handed out April 4, **due April 11**.
-
-:small_blue_diamond: Review P14: handed out April 5, **due April 12**.
-
-:small_orange_diamond: IR project interviews: **April 11** and **April 12**.
-
 
 
