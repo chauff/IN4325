@@ -28,8 +28,8 @@ This repository contains the materials of the **MSc Information Retrieval** cour
 - [Applied NLP lectures](lecturesAppliedNLP.md)
 - [Applied NLP project](projectAppliedNLP.md)
 - [Paper review form](reviewForm.md)
-- Signing up on Slack: [https://join.slack.com/t/in43252019/signup]( https://join.slack.com/t/in4325/signup)
-- Signing up for support and the group interview: [https://queue.ewi.tudelft.nl/](https://queue.ewi.tudelft.nl/)
+- Signing up on Slack: [https://join.slack.com/t/in4325/signup](https://join.slack.com/t/in4325/signup)
+- Signing up for support and the group interview: [https://queue.tudelft.nl/](https://queue.tudelft.nl/)
 
 ## Course description
 
