@@ -106,7 +106,7 @@ What does it mean, what does it all mean? Unlike controlled languages, natural l
 
 <img src="img/semantics.jpg" width="300px" align="middle">
 
-Lectures slides (PDF) are available [here](slides/NLP_Lecture3_Semantics_2020.pdf). Slides will be updated after the lecture as needed.
+Lectures slides (PDF) are available [here](slides/NLP_Lecture3_Semantics_2020.pdf). 
 
 ### Recommended readings
 [Similarity for news recommender systems](http://navatintarev.com/papers/TintarevMasthoffAH2006.pdf)
@@ -129,7 +129,7 @@ Lectures slides (PDF) are available [here](slides/NLP_Lecture3_Semantics_2020.pd
 
 How do we know if our NLP methods are working well? What are the methods used in NLP, and what are the metrics? How do we interpret these are when are they suitable? This lecture looks at evaluation, and assessing the performance of NLP systems.
 
-Last year's lectures slides (PDF) are available [here](slides/NLP_Lecture4_Evaluation_2020.pdf). 
+Lectures slides (PDF) are available [here](slides/NLP_Lecture4_Evaluation_2020.pdf). 
 <img src="img/evaluation.jpg" width="300px" align="middle">
 
 ### Recommended readings
