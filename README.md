@@ -58,7 +58,7 @@ This distribution also fits the lecturer team of this course: [Assistant Prof. N
 
 Claudia and Nava are the responsible instructors of this course and can jointly be reached at **in4325-ewi@tudelft.nl**.
 
-The whole course team can also be found on a dedicated [Slack channel](https://join.slack.com/t/in43252019/signup) - join it to get quick feedback on questions/issues. You have to use your `@student.tudelft.nl` email address to join!
+The whole course team can also be found on a dedicated [Slack channel](https://join.slack.com/t/in4325/signup) - join it to get quick feedback on questions/issues. You have to use your `@student.tudelft.nl` email address to join!
 
 ## ECs
 
