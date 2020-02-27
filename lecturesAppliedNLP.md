@@ -162,7 +162,7 @@ How do we apply what we know about classifiers and regression to NLP problems? W
 
 
 
-Last year's lectures slides (PDF) are available [here](slides/NLP_Lecture5_ML.pdf).  Slides will be updated after the lecture as needed.
+Last year's lectures slides (PDF) are available [here](slides/NLP_Lecture5_ML_2020.pdf).  Slides will be updated after the lecture as needed.
 
 
 ### Recommended readings
