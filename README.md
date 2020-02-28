@@ -120,7 +120,7 @@ We take your review grades and convert them into points: 1 point per *sufficient
 In order to pass this course, you need to fullfil **all** of the following:
 1. Receive an overall grade of 5.8 or higher (in alignment with TU Delft's exam regulations). 
 2. Complete both project phases with at least a grade of 5.0.
-3. Receive a *sufficient* for at least 9 of the 14 reviews.
+3. Receive a *sufficient* for at least 6 of the 8 reviews.
 
 
 
