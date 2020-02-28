@@ -190,8 +190,7 @@ Last year's lectures slides (PDF) are available [here](slides/NLP_Lecture5_ML_20
 ## Lecture 6: Natural Language Generation
 So far we've only looked at how to improve computational **understanding** natural language. However in conversational systems (like, but not limited to chatbots), we also might want a computer to communicate with us. There is an area of research that focuses on going from abstract, often rich and complex, representations to natural language that people can understand. In this lecture we will introduce this area of research, which is called Natural Language Generation.
 
-Last year's lectures slides (PDF) are available [here](slides/NLP_Lecture6_NLG.pdf). Slides will be updated after the lecture as needed.
-
+Slides (PDF) are available [here](slides/NLP_Lecture6_NLG_2020.pdf).
 
 
 ### Recommended resources
