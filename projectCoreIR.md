@@ -1,5 +1,9 @@
 # Core IR project
 
+```diff
+! The core IR module is not yet finalized.
+```
+
 There are three expected outputs:
 
 1. **Project proposal** (mandatory, but ungraded - you will receive feedback).

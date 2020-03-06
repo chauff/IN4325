@@ -1,10 +1,8 @@
 # Core IR lectures <!-- omit in toc -->
 
 ```diff
-! These materials are in the process of being updated! They are not yet finalized for the 2019/20 course edition!
+! The core IR page is now up-to-date for the 2019/20 edition.
 ```
-
-The following sections contain the materials for the eight core IR lectures. The core IR papers to review each week are listed here as well.
 
 ## Table of contents <!-- omit in toc -->
 
@@ -12,29 +10,26 @@ The following sections contain the materials for the eight core IR lectures. The
   - [Books](#books)
   - [Software](#software)
   - [Datasets](#datasets)
-- [Lecture 1: evaluation (week 3.1)](#lecture-1-evaluation-week-31)
+- [Lecture 9: evaluation (week 3.5)](#lecture-9-evaluation-week-35)
   - [Recommended readings](#recommended-readings)
-- [Lecture 2: classic retrieval models (week 3.1)](#lecture-2-classic-retrieval-models-week-31)
-  - [Recommended readings](#recommended-readings)
-  - [:warning: Paper P1 to review](#warning-paper-p1-to-review)
-- [Lecture 3: indexing (week 3.2)](#lecture-3-indexing-week-32)
-  - [Recommended readings](#recommended-readings)
-  - [:warning: Paper P2 to review](#warning-paper-p2-to-review)
-- [Lecture 4: query refinement (week 3.2)](#lecture-4-query-refinement-week-32)
-  - [Recommended readings](#recommended-readings)
-  - [:warning: Paper P3 to review](#warning-paper-p3-to-review)
-- [Lecture 5: interactive IR (week 3.3)](#lecture-5-interactive-ir-week-33)
-  - [Recommended readings](#recommended-readings)
-  - [:warning: Paper P4 to review](#warning-paper-p4-to-review)
-- [Lecture 6: personalization (week 3.3)](#lecture-6-personalization-week-33)
-  - [Recommended readings](#recommended-readings)
-  - [:warning: Paper P5 to review](#warning-paper-p5-to-review)
-- [Lecture 7: learning to rank (week 3.4)](#lecture-7-learning-to-rank-week-34)
-  - [Recommended readings](#recommended-readings)
-  - [:warning: Paper P6 to review](#warning-paper-p6-to-review)
-- [Lecture 8: neural IR (week 3.4)](#lecture-8-neural-ir-week-34)
-  - [Recommended readings](#recommended-readings)
-  - [:warning: Paper P7 to review](#warning-paper-p7-to-review)
+- [Lecture 10: classic retrieval models (week 3.5)](#lecture-10-classic-retrieval-models-week-35)
+  - [Recommended readings](#recommended-readings-1)
+- [:warning: Paper P5 to review](#warning-paper-p5-to-review)
+- [Lecture 11: indexing (week 3.6)](#lecture-11-indexing-week-36)
+  - [Recommended readings](#recommended-readings-2)
+- [Lecture 12: query refinement (week 3.6)](#lecture-12-query-refinement-week-36)
+  - [Recommended readings](#recommended-readings-3)
+- [:warning: Paper P6 to review](#warning-paper-p6-to-review)
+- [Lecture 13: personalization (week 3.7)](#lecture-13-personalization-week-37)
+  - [Recommended readings](#recommended-readings-4)
+- [Lecture 14: interactive IR (week 3.7)](#lecture-14-interactive-ir-week-37)
+  - [Recommended readings](#recommended-readings-5)
+- [:warning: Paper P7 to review](#warning-paper-p7-to-review)
+- [Lecture 15: learning to rank (week 3.8)](#lecture-15-learning-to-rank-week-38)
+  - [Recommended readings](#recommended-readings-6)
+- [Lecture 16: neural IR (week 3.8)](#lecture-16-neural-ir-week-38)
+  - [Recommended readings](#recommended-readings-7)
+- [:warning: Paper P8 to review](#warning-paper-p8-to-review)
 
 
 
@@ -49,30 +44,36 @@ The following sections contain the materials for the eight core IR lectures. The
 
 A number of open-source retrieval toolkits exist. They have different strengths and weaknesses. Which ones are applicable to your project depend to some extent in your *taste* of programming languages and the kind of retrieval models you are after:
 
-- The [Lemur project](https://www.lemurproject.org/) is written in C++/Java and contains a number of important libraries commonly used by academic IR researchers, including  `Indri`, `Galago` and `RankLib`. One of the most often employed toolkits for academic research.
-- The [Terrier IR platform](http://terrier.org/) is written in Java. Also heavily used in academia.
-- [Anserini](https://github.com/castorini/Anserini) is built on top of Lucene and written in Java.
-- [Pisa](https://github.com/pisa-engine/pisa)
-- [JASS](https://codedocs.xyz/andrewtrotman/JASSv2/index.html)
+- The [Terrier IR platform](http://terrier.org/) is written in Java. It is heavily used in academia.
+- [Anserini](https://github.com/castorini/Anserini) is built on top of Lucene and written in Java. It has recently emerged as a good and easy-to-use alternative to Terrier.
+- The [Lemur project](https://www.lemurproject.org/) is written in C++/Java and contains a number of important libraries commonly used by academic IR researchers, including  `Indri`, `Galago` and `RankLib`. One of the most often employed toolkits for academic research due to the manner in which retrieval components can be altered/extended.
+- [Macaw](https://github.com/microsoft/macaw) is a recently open-sourced conversational information seeking platform (good for user experiments; hard to set up on a Mac though). It was developed by IR researchers from Microsoft.
+- [Pisa](https://github.com/pisa-engine/pisa).
+- [JASS](https://codedocs.xyz/andrewtrotman/JASSv2/index.html).
 - [Elasticsearch](https://www.elastic.co/products/elasticsearch) is an open-source toolkit heavily used in industry. Written in Java and building on top of Lucene.
 - [Whoosh](https://pypi.org/project/Whoosh/#description) is a search engine written in Python.
-- [SearchX](https://github.com/felipemoraes/searchx) is a collaborative search system developed at TU Delft, written in JavaScript/Node.js.
-- So far there is only one widely used toolkit that provides neural IR approaches: [MatchZoo](https://github.com/NTMC-Community/MatchZoo) (though be aware, it has its issues).
+- [SearchX](https://github.com/felipemoraes/searchx) is a (collaborative) search system developed at TU Delft, written in JavaScript/Node.js.
+- So far there is only one widely used toolkit that provides neural IR approaches: [MatchZoo](https://github.com/NTMC-Community/MatchZoo).
 
 For evaluation purposes, [trec_eval](https://github.com/usnistgov/trec_eval) is commonly used.
 
 ### Datasets
 
-- [TREC collections](http://trec.nist.gov/data.html) (*check with us whether we have the one you want*)
-- [AOL query log](http://www.cim.mcgill.ca/~dudek/206/Logs/AOL-user-ct-collection/)
+- In IR, an often employed corpus for user studies is [Robust04](https://trec.nist.gov/data/robust/04.guidelines.html): about 500K news documents and 250 search topics with relevance judgments. If you want to  use it, get in touch with us and we give you access to this corpus.
+- [WT10g](http://ir.dcs.gla.ac.uk/test_collections/wt10g.html): a 1.7 million web document from 2000 with 100 topics and relevance judgments
+- [TREC tracks and datasets](https://trec.nist.gov/data.html): TREC has a long history of offering diverse information retrieval tracks. Take a look at the tracks and their respective datasets (some of which are available online).
+- [AOL query log](http://www.cim.mcgill.ca/~dudek/206/Logs/AOL-user-ct-collection/) is a large-scale query log from 2006. It can be useful to analyse query patterns for instance.
 - [Recent question answering datasets](https://github.com/chauff/conversationalIR)
+- [MS MARCO](https://microsoft.github.io/msmarco/): large-scale passage and document retrieval
+- [QANTA](https://pinafore.github.io/qanta-leaderboard/): a question-answering dataset
+- [HotpotQA](https://hotpotqa.github.io/): a question-answering dataset
+- [Natural Questions](https://ai.google.com/research/NaturalQuestions): Google's most recent question answering dataset.
 
+## Lecture 9: evaluation (week 3.5)
 
-## Lecture 1: evaluation (week 3.1)
+This lecture covers the basics of evaluation, a vital topic in IR - a research field driven forward by empirical work. For the core IR project, you need to have detailed knowledge of at least a small number of metrics, *why* they are used for a specific task, *how* to test whether treatment and control (or baseline vs. experimental approach) differ significantly, etc.
 
-This lecture covers the basics of evaluation, a vital topic in IR - a research field driven forward by empirical work. For the core IR project, you need to have detailed knowledge of at least a small number of metrics, why they are used for a specific task, how to test whether treatment and control (or baseline vs. experimental approach) differ significantly, etc.
-
-The lectures slides (PDF) are available [here](slides/coreIR-evaluation.pdf).
+The 2018/19 lectures slides (PDF) are already available [here](slides/coreIR-evaluation.pdf). They will be updated to the 2019/20 edition after the lecture.
 
 ### Recommended readings
 
@@ -84,11 +85,11 @@ Chapter 8 of Croft's et al. Search Engines - Information Retrieval in Practice b
 - A recent [A/B testing tutorial](https://exp-platform.com/2017abtestingtutorial/) by Pavel Dmitriev.
 
 
-## Lecture 2: classic retrieval models (week 3.1)
+## Lecture 10: classic retrieval models (week 3.5)
 
-This lecture covers the most well-known retrieval models in IR - starting from the boolean model and ending at the language modeling approach to IR. More advanced retrieval models (learning to rank and neural approaches to IR) will be covered in lectures 7 and 8 of this course.
+This lecture covers the most well-known retrieval models in IR - starting from the boolean model and ending at the language modeling approach to IR. More advanced retrieval models (learning to rank and neural approaches to IR) will be covered in the last two lectures of this course.
 
-The lectures slides (PDF) are available [here](slides/coreIR-retrievalModels.pdf).
+The 2018/19 lectures slides (PDF) are already available [here](slides/coreIR-retrievalModels.pdf). They will be updated to the 2019/20 edition after the lecture.
 
 ### Recommended readings
 
@@ -97,35 +98,28 @@ The lectures slides (PDF) are available [here](slides/coreIR-retrievalModels.pdf
 - A [critical review](http://times.cs.uiuc.edu/czhai/pub/slmir-now.pdf) of Language Models for IR by ChengXiang Zhai.
 - Victor Lavrenko (one of the language modeling pioneers in IR) has a lot of useful [lecture videos](https://www.youtube.com/user/victorlavrenko/videos) on YouTube about language models and more general IR and machine learning concepts.
 
-### :warning: Paper P1 to review
+## :warning: Paper P5 to review
 
-[The influence of basic tokenization on biomedical document retrieval](https://www.researchgate.net/profile/Wessel_Kraaij/publication/221299722_The_influence_of_basic_tokenization_on_biomedical_document_retrieval/links/0912f508eb1efc3828000000/The-influence-of-basic-tokenization-on-biomedical-document-retrieval.pdf).
+[The Importance of Prior Probabilities for Entry Page Search](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.1033&rep=rep1&type=pdf).
 
-
-## Lecture 3: indexing (week 3.2)
+## Lecture 11: indexing (week 3.6)
 
 This lecture covers the basics of IR indexing - an area where it is worthwhile to brush up on your existing data structure knowledge.
 
-The lectures slides (PDF) are available [here](slides/coreIR-indexing.pdf).
+The 2018/19 lectures slides (PDF) are already available [here](slides/coreIR-indexing.pdf). They will be updated to the 2019/20 edition after the lecture.
 
 ### Recommended readings
 
 - Chapters 2, 3, 4 and 5 of Manning's et al. Introduction to Information Retrieval book ([PDF](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)).
 - Chapter 5 of Croft's et al. Search Engines - Information Retrieval in Practice book ([PDF](http://ciir.cs.umass.edu/downloads/SEIRiP.pdf)).
 
-### :warning: Paper P2 to review
-
-[The Importance of Prior Probabilities for Entry Page Search](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.1033&rep=rep1&type=pdf).
-
-
-
-## Lecture 4: query refinement (week 3.2)
+## Lecture 12: query refinement (week 3.6)
 
 This lecture covers a number of query refinement techniques, a hot research area, especially in web search where users typically do not enter more than two or three terms to express their information need. 
 
 Query refinement has many facets, we focused here mostly on pseudo-relevance feedback and how to incorporate it in a meaningful manner in a retrieval model.
 
-The lectures slides (PDF) are available [here](slides/coreIR-queryRefinement.pdf).
+The 2018/19 lectures slides (PDF) are already available [here](slides/coreIR-queryRefinement.pdf). They will be updated to the 2019/20 edition after the lecture.
 
 ### Recommended readings
 
@@ -134,30 +128,16 @@ The lectures slides (PDF) are available [here](slides/coreIR-queryRefinement.pdf
 - A [survey](https://www.iro.umontreal.ca/~nie/IFT6255/carpineto-Survey-QE.pdf) on automatic query expansion is available from Carpineto and Romano.
 - A [survey on query autocompletion](https://www.nowpublishers.com/article/Details/INR-055) by Cai & de Rijke.
 
-### :warning: Paper P3 to review
+## :warning: Paper P6 to review
 
 [Document Reordering is Good, Especially for e-Commerce](http://www.cs.otago.ac.nz/homepages/andrew/papers/2017-7.pdf).
 
-## Lecture 5: interactive IR (week 3.3)
 
-This lecture covers interactive information retrieval, in particular the modeling of the search process. The lecture shows off our move towards predictive (mathematical) models and their usage to generate hypotheses which are then (in)validated in user experiments.
-
-The lectures slides (PDF) are available [here](slides/coreIR-interactiveIR.pdf).
-
-### Recommended readings
-
-- A [tutorial](http://zuccon.net/publications/azzopardi-zuccon-2017-tutorial-economics.pdf) on economic models for search (set into a larger HCI context).
-
-### :warning: Paper P4 to review
-
-[Incorporating Query Expansion and Quality Indicators in Searching Microblog Posts](https://pdfs.semanticscholar.org/bfbd/8b113cf0ba2eb7301efbfbc51df2ea74bbb8.pdf).
-
-
-## Lecture 6: personalization (week 3.3)
+## Lecture 13: personalization (week 3.7)
 
 This lecture is about personalization in search, with a glimpse of two classic hyperlink-based document ranking algorithms.
 
-The lectures slides (PDF) are available [here](slides/coreIR-personalization.pdf).
+The 2018/19 lectures slides (PDF) are already available [here](slides/coreIR-personalization.pdf). They will be updated to the 2019/20 edition after the lecture.
 
 ### Recommended readings
 
@@ -165,32 +145,40 @@ There is no specific list of recommended readings (beyond the ones linked at the
 
 However, it is worth pointing out a [survey on Adversarial Web Search](https://www.nowpublishers.com/article/Details/INR-021). It does not fit the brief of this lecture, but it covers a lot of ground showing how to combat adversary in web search.
 
-### :warning: Paper P5 to review
+## Lecture 14: interactive IR (week 3.7)
+
+This lecture covers interactive information retrieval, in particular the modeling of the search process. The lecture shows off our move towards predictive (mathematical) models and their usage to generate hypotheses which are then (in)validated in user experiments.
+
+*The lecture will be given by Dr. David Maxwell.*
+
+The 2018/19 lectures slides (PDF) are already available [here](slides/coreIR-interactiveIR.pdf). They will be updated to the 2019/20 edition after the lecture.
+
+### Recommended readings
+
+- A [tutorial](http://zuccon.net/publications/azzopardi-zuccon-2017-tutorial-economics.pdf) on economic models for search (set into a larger HCI context).
+
+## :warning: Paper P7 to review
 
 [Two Scrolls or One Click: A Cost Model for Browsing Search Results](http://eprints.qut.edu.au/95667/1/ecir2016cost_model.pdf).
 
 
-## Lecture 7: learning to rank (week 3.4)
+## Lecture 15: learning to rank (week 3.8)
 
 The lecture is concerned with learning to rank for IR (also known as LTR or L2R), a machine-learning approach towards the document ranking problem that can be applied to many other types of ranking problems as well.
 
-The lectures slides (PDF) are available [here](slides/coreIR-L2R.pdf).
+The 2018/19 lectures slides (PDF) are already available [here](slides/coreIR-L2R.pdf). They will be updated to the 2019/20 edition after the lecture.
 
 ### Recommended readings
 
 - The [Learning to Rank for IR tutorial](https://www.nowpublishers.com/article/Details/INR-016) by Tie-Yan Liu provides a global overview of many L2R approaches, and their underlying motivations and heuristics.
 
-### :warning: Paper P6 to review
+## Lecture 16: neural IR (week 3.8)
 
-[Enhancing Patent Retrieval by Citation Analysis](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.96.6135&rep=rep1&type=pdf).
+This lecture provides an overview of recent developments in deep learning as they apply to IR. It builds upon the embeddings material introduced in the applied NLP part and discusses the basics of neural networks before focusing on IR-specific developments.
 
+*The lecture will be given by Arthur Câmara.*
 
-## Lecture 8: neural IR (week 3.4)
-
-This lecture provides an overview of recent developments in deep learning as they apply to IR. It is self-contained and briefly introduces the basics of neural networks before focusing on IR-specific developments.
-
-The lectures slides (PDF) are available [here](slides/coreIR-neural.pdf).
-
+The 2018/19 lectures slides (PDF) are already available [here](slides/coreIR-neural.pdf). They will be updated to the 2019/20 edition after the lecture.
 
 ### Recommended readings
 
@@ -200,7 +188,6 @@ There are a number of deep learning courses that provide good insights (most pop
 - An up-to-date [neural IR tutorial](http://nn4ir.com/ecir2018/) (in the form of elaborate slide decks) created by our colleagues at the University of Amsterdam, which has been given a few times by now at various IR conferences.
 - This [neural IR survey](https://link.springer.com/article/10.1007/s10791-017-9321-y) by Onal et al. is denser and requires more IR knowledge to make sense of it. It has a good overview of promising future directions.
 
-### :warning: Paper P7 to review
+## :warning: Paper P8 to review
 
 [Query Expansion with Locally-Trained Word Embeddings](http://www.aclweb.org/anthology/P16-1035).
-
