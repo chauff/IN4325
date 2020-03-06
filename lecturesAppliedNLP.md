@@ -51,6 +51,8 @@ A number of open-source retrieval toolkits exist. They have different strengths 
    - [NLTK](http://www.nltk.org/)
    - [Apache OpenNLP](http://opennlp.apache.org/)
    - [StanfordNLP](https://stanfordnlp.github.io/stanfordnlp)
+   - [spaCy](https://spacy.io/)
+   - [GATE (for Twitter](https://gate.ac.uk/gate/doc/plugins.html#Twitter)
    
    Also in Dutch:
    - [SentiStrength](http://sentistrength.wlv.ac.uk/)
