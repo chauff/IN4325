@@ -225,7 +225,7 @@ Last year's lectures slides (PDF) are available [here](slides/NLP_Lecture7_bias.
 ## Lecture 8: Word embeddings
 The theory of distributional semantics effectively builds on the principle "A word is known by the company it keeps". In this lecture we will have an introduction to how to learn abstract word vectors that can help us compute the semantic (meaning) distance between different words. We will look at different ways these kinds of vectors can be used, and also talk about some of their limitations.
 
-Last year's lectures slides (PDF) are available [here](slides/NLP8_Embeddings.pdf) 
+Last year's lectures slides (PDF) are available [here](slides/NLP_Lecture8_Embeddings_2020.pdf) 
 
 **NLP project interviews: March 12 and March 13.**
 
