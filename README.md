@@ -161,7 +161,7 @@ The lecture locations have been taken from [TUD's timetable site](https://mytime
 | 3.7  | Personalization (`Pathe Zal 6`, C. Hauff)         | Interactive IR (`BK-CZ B`, D. Maxwell)        |                        | 1            |
 | 3.8  | Learning to rank (`Pathe Zal 6`, C. Hauff)       | Neural IR (`BK-CZ B`, A. Camara)             |             Intermediate core IR report due           | 1           |
 | 3.9  |                                   |                                   |               Core IR report due         |              |
-| 3.10 |                                   |                                   |  |    Core IR interviews          |
+| 3.10 |                                   |                                   |      Core IR interviews          | |
 
 
 We start off in weeks 3.1 to 3.4 with the [applied NLP module](lecturesAppliedNLP.md), alongside which the [applied NLP group project](projectAppliedNLP.md) runs. In week 3.5 we switch to the [core IR module](lecturesCoreIR.md), alongside which the [core IR group project](projectCoreIR.md) runs.
