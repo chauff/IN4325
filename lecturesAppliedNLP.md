@@ -212,7 +212,7 @@ Review P3: handed out February 28, due **March 6**.
 
 The results that we get in many NLP tasks are dependent on the quality and properties of the underlying data. In many (most) cases this is as important as applying the right machine learning techniques. In addition, a lot of the annotation is noisy or simply subjective. In this lecture we discuss the challenges and some of the state-of-the-art solutions.
 
-Last year's lectures slides (PDF) are available [here](slides/NLP_Lecture7_bias.pdf) 
+Last year's lectures slides (PDF) are available [here](slides/NLP_Bias2020.pdf) 
 
 
 **NLP final project report: due March 11 (interviews 12 and 13th)**
