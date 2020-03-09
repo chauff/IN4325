@@ -1,7 +1,7 @@
 # Core IR project
 
 ```diff
-! ! The core IR project page is now up-to-date for the 2019/20 edition.
+! The core IR project page is now up-to-date for the 2019/20 edition.
 ```
 
 There are three expected outputs:
