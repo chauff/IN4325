@@ -1,7 +1,7 @@
 # Core IR project
 
 ```diff
-! The core IR module is not yet finalized.
+! This page has now been updated for the 2019/20 course edition!
 ```
 
 There are three expected outputs:
@@ -10,9 +10,9 @@ There are three expected outputs:
 2. **Intermediate project report** (mandatory, but ungraded - you will receive feedback).
 3. **Final project report** (mandatory, graded).
 
-**Group projects are conducted in groups of 2-3 students. Please enroll together with your team members in group on Brightspace - we have predefined 40 different groups, take your pick! Make sure to be in the core IR project category!**
+**Group projects are conducted in groups of 2-3 students. Please enroll together with your team members in group on Brightspace - we have predefined 40 different groups, take your pick! Make sure to be in the core IR project category**.
 
-You can choose between two types of projects: reproducing an IR paper of our choice or investigating a research idea of your own. If you are in doubt, pick one of the papers listed here as good targets for reproduction. They are all equally well-suited for this course.
+You can choose between two types of projects: reproducing an IR paper of our choice or investigating a research idea of your own. If you are in doubt, pick one of the papers listed here as good targets for reproduction. 
 
 ## 1. Reproducing an IR paper of our choice
 
@@ -35,9 +35,12 @@ Reproducing published work can be a lot of fun and yes, [it sometimes looks like
 - [Query Priming for Promoting Critical Thinking in Web Search](https://dl.acm.org/citation.cfm?id=3176349.3176377) This paper reports an interesting finding: _A search user interface with query priming presents terms that evoke critical thinking, thereby encouraging users to search for webpages carefully_. Can we reproduce this finding?
 - [Learning by Example: Training Users with High-quality Query Suggestions](https://www.researchgate.net/profile/Morgan_Harvey/publication/281436320_Learning_by_Example_Training_Users_with_High-quality_Query_Suggestions/links/55e6c38f08aeccc5bbb7abcf.pdf). The main question here is the following: _To what extent it is possible to aid users in learning how to formulate better queries by providing examples of high-quality queries interactively during a number of search sessions?_ The paper contains a number of studies, focus on the _main study_.
 - [Effects of Popularity and Quality on the Usage of Query Suggestions during Information Search](http://dmrussell.net/CHI2010/docs/p45.pdf). The laboratory study in this paper explores whether users are able to distinguish high-quality from low-quality query suggestions in the presence of misleading usage information.
+- [Searching and Stopping: An Analysis of Stopping Rules and Strategies](https://dl.acm.org/doi/10.1145/2806416.2806476). This user study explores heuristics/rules that capture when searchers stop searching.
 - [QWERTY: The Effects of Typing on Web Search Behavior](http://marksanderson.org/publications/my_papers/CHIIR2018-Kevin.pdf). The main question of the paper is the following: _What is the relationship between a user's typing speed and their search behavior?_ The paper is a short paper that is relatively light on the details of the conduted user study, which means that you can fill in the details as you see fit in your proposal. 
 - [User Performance versus Precision Measures for Simple Search Tasks](https://researchbank.rmit.edu.au/eserv/rmit:2446/n2006001961.pdf). This paper makes an interesting observation in a user study: there is little correlation between system performance (how effective is the system at retrieving relevant documents) and user performance (how good is the user at retrieving relevant docuemnts). The conducted user study is highly controlled (e.g. the result lists are precomputed), reproducing this work in a more natural setup (where users actually use a real search engine) would be great.
 - [Time Pressure and System Delays in Information Search](http://eprints.gla.ac.uk/106760/1/106760.pdf). The authors ask the question _What is the impact of time pressure and system delays on search behaviour?_ and answer it through a laboratory study. The paper is quite detailed on the setup, but there are plenty of options to create a slightly different setup to investigate the generalizability of the findings.
+- [Investigating the Impacts of Expectation Disconfirmation on Web Search](https://dl.acm.org/doi/abs/10.1145/3295750.3298959). This study researchers the relationship between task difficulty and perceived levels of search success.
+- [Analyzing the Effects of Document's Opinion and Credibility on Search Behaviors and Belief Dynamics](https://dl.acm.org/doi/abs/10.1145/3357384.3357886): a study that explores how credibility and document stance affect users' search behaviours.
 
 ### List of IR papers not involving users
 
@@ -46,18 +49,20 @@ Reproducing published work can be a lot of fun and yes, [it sometimes looks like
 - [Benchmark for Complex Answer Retrieval](https://arxiv.org/pdf/1705.04803.pdf). Complex answer retrieval is a task that has only recently been introduced at TREC. This paper presents a number of baselines (which have turned out surprisingly hard to beat!)
 - [Query Auto-Completion for Rare Prefixes](https://www.microsoft.com/en-us/research/wp-content/uploads/2015/10/spir0468-mitra.pdf). As the title suggests, this paper proposes a query auto-completion aproach that is specifically geared towards rare prefixes. The experiments are conducted on the publicly available (though rather *infamous* by now) AOL query log. For this paper, the restriction of an *actual search engine* is removed.
 - [Supervised query modeling using Wikipedia](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.685.1242&rep=rep1&type=pdf). This paper uses an external corpus (Wikipedia) to build better query models. The GOV2 corpus mentioned in the paper is available to us.
+- [Local and Global Query Expansion for Hierarchical Complex Topics](https://link.springer.com/chapter/10.1007/978-3-030-15712-8_19). This paper explores word-based and entity-based expansion methods for complex topics. The freely available TREC Complex Answer Retrieval benchmark data collection is used for the empiricial work.
+- [Analysis of Adaptive Training for Learning to Rank in Information Retrieval](https://dl.acm.org/doi/abs/10.1145/3357384.3358159). This paper explores why adaptive training is beneficial for learning to rank approaches in IR.
 - [WikiPassageQA: A Benchmark Collection for Research on Non-factoid Answer Passage Retrieval](https://arxiv.org/pdf/1805.03797.pdf). This paper presents a new dataset for passage retrieval. If you opt for the non-neural baselines only (as per restriction below ...), you need to add two baseline approaches that are not in the paper (as those that are there are implemented already in standard IR toolkits).
 - [User Intent Prediction in Information-seeking Conversations](https://arxiv.org/pdf/1901.03489.pdf). This paper builds models to predict user intent in information-seeking conversations. This is a necessary component for a conversational agent. The paper presents a number of neural and non-neural models. If you choose this paper, the restriction of an *actual search engine* is removed.
 
 ## 2. Investigating/reproducing a research idea of your own choice
 
-You can also propose a research project that covers a *core IR topic* of your own choice in consultation with the instructor (it can be a novel idea or involve reproducing part of an existing paper). One possibility is the participation in a benchmark task. The most popular benchmarks are hosted at [TREC](http://trec.nist.gov/) (and we do have many TREC corpora available). Alternatively, take a look at recent conference proceedings of major IR conferences. Focus on the **short papers** as they are more likely to contain a doable project the long papers.
+You can also propose a research project that covers a *core IR topic* of your own choice in consultation with the instructor (it can be a novel idea or involve reproducing part of an existing paper). One possibility is the participation in a benchmark task. The most popular benchmarks are hosted at [TREC](http://trec.nist.gov/) (and we do have many TREC corpora available). Alternatively, take a look at recent conference proceedings of major IR conferences. Focus on the **short papers** as they are more likely to contain a doable project the long papers. Listed below are links to recent proceedings - some papers may only beare accessible via the campus network.
 
-- [WSDM: International Conference on Web Search and Data Mining](https://dl.acm.org/citation.cfm?id=3159652&picked=prox0)
-- [SIGIR: International Conference on Research and Development in Information Retrieval](https://dl.acm.org/citation.cfm?id=3209978)
-- [CIKM: Conference on Information and Knowledge Management](https://dl.acm.org/citation.cfm?id=3269206)
-- [CHIIR: Conference on Human Information Interaction and Retrieval](https://dl.acm.org/citation.cfm?id=3176349)
-- [ECIR: European Conference on Information Retrieval](https://link.springer.com/conference/ecir)
+- WSDM: International Conference on Web Search and Data Mining [2020](https://dl.acm.org/doi/proceedings/10.1145/3336191) [2019](https://dl.acm.org/doi/proceedings/10.1145/3289600) [2018](https://dl.acm.org/doi/proceedings/10.1145/3159652)
+- SIGIR: International Conference on Research and Development in Information Retrieval [2019](https://dl.acm.org/doi/proceedings/10.1145/3331184) [2018](https://dl.acm.org/doi/proceedings/10.1145/3209978) [2017](https://dl.acm.org/doi/proceedings/10.1145/3077136)
+- CIKM: Conference on Information and Knowledge Management [2019](https://dl.acm.org/doi/proceedings/10.1145/3357384) [2018](https://dl.acm.org/doi/proceedings/10.1145/3269206) [2017](https://dl.acm.org/doi/proceedings/10.1145/3132847)
+- CHIIR: Conference on Human Information Interaction and Retrieval [2019](https://dl.acm.org/doi/proceedings/10.1145/3295750) [2018](https://dl.acm.org/doi/proceedings/10.1145/3176349) [2017](https://dl.acm.org/doi/proceedings/10.1145/3020165)
+- ECIR: European Conference on Information Retrieval [2019](https://link.springer.com/book/10.1007/978-3-030-15712-8) [2018](https://link.springer.com/book/10.1007/978-3-319-76941-7) [2017](https://link.springer.com/book/10.1007/978-3-319-56608-5)
 
 
 ## Restrictions
@@ -68,8 +73,6 @@ Based on prior experience we put the following restrictions on your choice of pr
 - The main focus of your project is *IR* (testing different retrieval models, evaluating different search engine result page interfaces, exploring different modes of searching, etc.). Recommender systems are not considered core IR.
 - The project makes use of an **actual search engine** (i.e. you set up your own instance of Lemur, Elasticsearch, etc.; it is not sufficient to retrieve search results from the Bing API).
 - The project focuses on **textual data** (not video/audio/genomics/.... data).
-
-We have a first deadline in week 3.2, so you will get early feedback on the suitability of your proposal.
 
 ## Report formats
 
@@ -110,4 +113,4 @@ The final project report is graded in combination with the project interview. Th
 
 ## Interviews
 
-The 15 minute interviews per group will be scheduled on **March 14** and **March 15**. 
+The 15 minute interviews per group will be scheduled on **April 20** and **April 21**. They will primarily cover the report but will also cover connections of the project work to the core IR lectures.
