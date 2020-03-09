@@ -159,9 +159,10 @@ The lecture locations have been taken from [TUD's timetable site](https://mytime
 | 3.5  | IR evaluation (`Pathe Zal 6`, C. Hauff)          | Retrieval models (`BK-CZ B`, C. Hauff)       |  Final NLP report due / interviews. Project group settled IR.                   | 1            |
 | 3.6  | IR indexing (`Pathe Zal 6`, C. Hauff)            | Query refinement (`BK-CZ B`, C. Hauff)      |   Core IR project settled                     | 1           |
 | 3.7  | Personalization (`Pathe Zal 6`, C. Hauff)         | Interactive IR (`BK-CZ B`, D. Maxwell)        |                        | 1            |
-| 3.8  | Learning to rank (`Pathe Zal 6`, C. Hauff)       | Neural IR (`BK-CZ B`, A. Camara)             |             Intermediate core IR report due           | 1           |
-| 3.9  |                                   |                                   |               Core IR report due         |              |
-| 3.10 |                                   |                                   |      Core IR interviews          | |
+| 3.8  | Learning to rank (`Pathe Zal 6`, C. Hauff)       | Neural IR (`BK-CZ B`, A. Camara)             |            | 1           |
+| 3.9  |       |            |             Intermediate core IR report due           |            |
+| 3.**10**  |                                   |                                   |               Core IR report due         |              |
+| 3.**11** |                                   |                                   |      Core IR interviews          | |
 
 
 We start off in weeks 3.1 to 3.4 with the [applied NLP module](lecturesAppliedNLP.md), alongside which the [applied NLP group project](projectAppliedNLP.md) runs. In week 3.5 we switch to the [core IR module](lecturesCoreIR.md), alongside which the [core IR group project](projectCoreIR.md) runs.
@@ -193,11 +194,24 @@ Reminder of the rules:
 :small_orange_diamond: NLP project interviews: **March 12** and **March 13**.
 
 
-**Core IR lecture weeks (the final deadline is in week 3.9):**
+**Core IR lecture weeks (the final report deadline is in week 3.10):**
 
-```diff
-! The deadlines for the core IR module are not yet finalized.
-```
+:small_blue_diamond: Review P5: **due March 20**.
 
+:small_orange_diamond: core IR project proposal: **due March 20**.
+
+:small_blue_diamond: Review P6: **due March 27**.
+
+:small_blue_diamond: Review P7: **due April 3**.
+
+:small_orange_diamond: core IR intermediate project report: **due April 10**.
+
+:small_blue_diamond: Review P8: **due April 10**.
+
+:small_orange_diamond: core IR final project report: **due April 17**.
+
+:small_orange_diamond: core IR project interviews: **April 20** and **April 21**. 
+
+*Note: the core IR interviews are postponed to the start of week "3.11" due to conference attendance by C. Hauff in week 3.10. If your group has to have the interview in week 3.10 please email c.hauff@tudelft.nl to work out a remote-interview solution.*
 
 
