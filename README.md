@@ -143,7 +143,7 @@ During weeks 3.5 to 3.9 on Fridays between 9am and 11:30am at least two staff me
 
 Click on the day you want to get support and then *enroll* for a particular timeslot. Per group, please pick only one timeslot per week. The support hours are offered in building 28, please come to the waiting area near room E04.100 (Claudia Hauff's office). 
 
-**Core IR interviews** on **April 16** (Thursday of week 3.10) are also scheduled this way. *Once again: one timeslot per group!*
+**Core IR interviews** on **April 20** and **April 21** are also scheduled this way. *Once again: one timeslot per group!* The core IR interviews are postponed to the start of week "3.11" due to conference attendance by C. Hauff in week 3.10. **If your group has to have the interview in week 3.10, please email c.hauff@tudelft.nl to work out a remote-interview solution.**
 
 ## :clock130: Course schedule
 Thursdays: 10:45-12:45; Fridays: 13:45-15:45
@@ -212,6 +212,6 @@ Reminder of the rules:
 
 :small_orange_diamond: core IR project interviews: **April 20** and **April 21**. 
 
-*Note: the core IR interviews are postponed to the start of week "3.11" due to conference attendance by C. Hauff in week 3.10. If your group has to have the interview in week 3.10 please email c.hauff@tudelft.nl to work out a remote-interview solution.*
+
 
 
