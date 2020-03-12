@@ -27,6 +27,7 @@ This repository contains the materials of the **MSc Information Retrieval** cour
 - [Core IR lectures](lecturesCoreIR.md)
 - [Core IR project](projectCoreIR.md)
 - [Paper review form](reviewForm.md)
+- [Project rubric](rubric2020.pdf)
 - Signing up on Slack: [https://join.slack.com/t/in4325/signup](https://join.slack.com/t/in4325/signup)
 - Signing up for support and the group interview: [https://queue.tudelft.nl/](https://queue.tudelft.nl/)
 

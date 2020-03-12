@@ -14,6 +14,8 @@ There are three expected outputs:
 
 You can choose between two types of projects: reproducing an IR paper of our choice or investigating a research idea of your own. If you are in doubt, pick one of the papers listed here as good targets for reproduction. 
 
+The project rubric can be found [here](rubric2020.pdf).
+
 ## 1. Reproducing an IR paper of our choice
 
 You first choose a published paper that describes an IR experiment. There are two main types of IR papers: (1) those that contain studies with **actual users** and (2) those that contain experiments that are based on test collections **not involving actual users**. While the foci of papers of type (1) are on the building of the system, the execution of the user study and the evaluation of the user logs, in type (2) the main foci are the development and implementation of algorithm(s), their deployment and the subsequent error analyses (why or why not does the new approach outperform the baselines).
