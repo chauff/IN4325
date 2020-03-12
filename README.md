@@ -1,7 +1,6 @@
 <img src="img/wordcloud.jpg" width="300px" align="middle">
 
 # IN4325 <!-- omit in toc -->
-** NB: THIS PAGE IS IN THE PROCESS OF BEING UPDATED **
 
 This repository contains the materials of the **MSc Information Retrieval** course running in 2019/2020 at TU Delft (Q3). The project setup is suitable for up to 100 students. 
 
