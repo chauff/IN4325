@@ -141,9 +141,9 @@ The support hours are offered in building 28, please come to the waiting area ne
 
 During weeks 3.5 to 3.9 on Fridays between 9am and 11:30am at least two staff members will be available to help groups with their IR project. You can sign up for 15 minute timeslots on TU Delft's queue system: https://queue.tudelft.nl/.
 
-Click on the day you want to get support and then *enroll* for a particular timeslot. Per group, please pick only one timeslot per week. The support hours are offered in building 28, please come to the waiting area near room E04.100 (Claudia Hauff's office). 
+Click on the day you want to get support and then *enroll* for a particular timeslot. Per group, please pick only one timeslot per week. The support hours are offered in building 28, please come to the waiting area near room E04.100 (Claudia Hauff's office). **Due to COVID19, the support can also be offered online via Skype. In this case, let us know your Skype IDs and send an email to c.hauff@tudelft.nl with those as well as your registered timeslot.**
 
-**Core IR interviews** on **April 20** and **April 21** are also scheduled this way. *Once again: one timeslot per group!* The core IR interviews are postponed to the start of week "3.11" due to conference attendance by C. Hauff in week 3.10. **If your group has to have the interview in week 3.10, please email c.hauff@tudelft.nl to work out a remote-interview solution.**
+**Core IR interviews** on **April 20** and **April 21** are also scheduled this way. *Once again: one timeslot per group!* The core IR interviews are postponed to the start of week "3.11" due to remote conference attendance by C. Hauff in week 3.10. **If your group has to have the interview in week 3.10, please email c.hauff@tudelft.nl to find a free slot in that week (note that this also requires a slightly early final report submission).**
 
 ## :clock130: Course schedule
 Thursdays: 10:45-12:45; Fridays: 13:45-15:45

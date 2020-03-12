@@ -114,4 +114,4 @@ The final project report is graded in combination with the project interview. Th
 
 ## Interviews
 
-The 15 minute interviews per group will be scheduled on **April 20** and **April 21**. They will primarily cover the report but will also cover connections of the project work to the core IR lectures.
+The 15 minute interviews per group will be scheduled on **April 20** and **April 21**. They will primarily cover the report but will also cover connections of the project work to the core IR lectures. 
