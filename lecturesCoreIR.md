@@ -73,7 +73,7 @@ For evaluation purposes, [trec_eval](https://github.com/usnistgov/trec_eval) is 
 
 This lecture covers the basics of evaluation, a vital topic in IR - a research field driven forward by empirical work. For the core IR project, you need to have detailed knowledge of at least a small number of metrics, *why* they are used for a specific task, *how* to test whether treatment and control (or baseline vs. experimental approach) differ significantly, etc.
 
-The 2018/19 lectures slides (PDF) are already available [here](slides/coreIR-evaluation.pdf). They will be updated to the 2019/20 edition after the lecture.
+:bangbang: The 2019/2020 lecture slides in PDF format are available [here](slides/coreIR-evaluation-2020.pdf).
 
 ### Recommended readings
 
