@@ -89,7 +89,7 @@ Chapter 8 of Croft's et al. Search Engines - Information Retrieval in Practice b
 
 This lecture covers the most well-known retrieval models in IR - starting from the boolean model and ending at the language modeling approach to IR. More advanced retrieval models (learning to rank and neural approaches to IR) will be covered in the last two lectures of this course.
 
-:bangbang: The 2019/2020 lecture slides in PDF format are available [here](slides/coreIR-retrievalModels-2020.pdf). The screencasts are split into three parts: [1](https://drive.google.com/open?id=1HgJKaBSDpUTAOnBiT4Z1xkhjVr8NSniZ) [2](https://drive.google.com/open?id=19rBY3Ewe-BLxd5NrwP26f3x27qZtE_nm) [3](https://drive.google.com/open?id=1TWCl8C0rGfO_spJJEeWAVeXELL2xxyeR) *They will remain online for about a week*.
+:bangbang: The 2019/2020 lecture slides in PDF format are available [here](slides/coreIR-retrievalModels-2020.pdf). The screencasts are split into three parts: [1](https://drive.google.com/open?id=1HgJKaBSDpUTAOnBiT4Z1xkhjVr8NSniZ) [2](https://drive.google.com/open?id=19rBY3Ewe-BLxd5NrwP26f3x27qZtE_nm) [3](https://drive.google.com/open?id=1TWCl8C0rGfO_spJJEeWAVeXELL2xxyeR). *They will remain online for about a week*.
 
 ### Recommended readings
 
