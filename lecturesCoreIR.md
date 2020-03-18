@@ -106,7 +106,7 @@ This lecture covers the most well-known retrieval models in IR - starting from t
 
 This lecture covers the basics of IR indexing - an area where it is worthwhile to brush up on your existing data structure knowledge.
 
-:bangbang: The 2019/2020 lecture slides in PDF format are available [here](slides/coreIR-indexing-2020.pdf). The screencasts are split into three parts: [1](https://drive.google.com/open?id=1tUOmaGu3weg7ZxbNN0SnZ_-p0BF8znqd) [2](https://drive.google.com/open?id=1hjgUblyp6QUi_PE8LpREpY6OMpb1MqTZ) [3]() *They will remain online for about a week*.
+:bangbang: The 2019/2020 lecture slides in PDF format are available [here](slides/coreIR-indexing-2020.pdf). The screencasts are split into three parts: [1](https://drive.google.com/open?id=1tUOmaGu3weg7ZxbNN0SnZ_-p0BF8znqd) [2](https://drive.google.com/open?id=1hjgUblyp6QUi_PE8LpREpY6OMpb1MqTZ) [3](https://drive.google.com/open?id=1rckyTc6sLZVcprjeuKL3hf9R87P9Hwq-) *They will remain online for about a week*.
 
 ### Recommended readings
 
