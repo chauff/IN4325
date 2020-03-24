@@ -142,7 +142,7 @@ The 2018/19 lectures slides (PDF) are already available [here](slides/coreIR-per
 
 ### Recommended readings
 
-There is no specific list of recommended readings (beyond the ones linked at the bottom of most slides); no recent personalized search survey exists. However, a look at [Google Scholar](https://scholar.google.nl/) will show you many interesting papers (and patents) on the topic.
+There is no specific list of recommended readings (beyond the ones linked at the bottom of most slides); no recent personalized search survey exists. However, a look at [Google Scholar](https://scholar.google.nl/) will show you many interesting papers (and patents) on the topic. 
 
 However, it is worth pointing out a [survey on Adversarial Web Search](https://www.nowpublishers.com/article/Details/INR-021). It does not fit the brief of this lecture, but it covers a lot of ground showing how to combat adversary in web search.
 
@@ -157,6 +157,7 @@ The 2018/19 lectures slides (PDF) are already available [here](slides/coreIR-int
 ### Recommended readings
 
 - A [tutorial](http://zuccon.net/publications/azzopardi-zuccon-2017-tutorial-economics.pdf) on economic models for search (set into a larger HCI context).
+- A [book](https://www.morganclaypool.com/doi/abs/10.2200/S00174ED1V01Y200901ICR003) on exploratory search beyond the query-response paradigm. 
 
 ## :warning: Paper P7 to review
 
