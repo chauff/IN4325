@@ -106,7 +106,7 @@ This lecture covers the most well-known retrieval models in IR - starting from t
 
 This lecture covers the basics of IR indexing - an area where it is worthwhile to brush up on your existing data structure knowledge.
 
-:bangbang: The 2019/2020 lecture slides in PDF format are available [here](slides/coreIR-indexing-2020.pdf). The screencasts are split into three parts: [1](https://drive.google.com/open?id=1tUOmaGu3weg7ZxbNN0SnZ_-p0BF8znqd) [2](https://drive.google.com/open?id=1hjgUblyp6QUi_PE8LpREpY6OMpb1MqTZ) [3](https://drive.google.com/open?id=1rckyTc6sLZVcprjeuKL3hf9R87P9Hwq-) *They will remain online for about a week*.
+:bangbang: The 2019/2020 lecture slides in PDF format are available [here](slides/coreIR-indexing-2020.pdf). The screencasts are split into three parts: [1](https://drive.google.com/open?id=1tUOmaGu3weg7ZxbNN0SnZ_-p0BF8znqd) [2](https://drive.google.com/open?id=1hjgUblyp6QUi_PE8LpREpY6OMpb1MqTZ) [3](https://drive.google.com/open?id=1rckyTc6sLZVcprjeuKL3hf9R87P9Hwq-). *They will remain online for about a week*.
 
 ### Recommended readings
 
@@ -119,7 +119,7 @@ This lecture covers a number of query refinement techniques, a hot research area
 
 Query refinement has many facets, we focused here mostly on pseudo-relevance feedback and how to incorporate it in a meaningful manner in a retrieval model.
 
-:bangbang: The 2019/2020 lecture slides in PDF format are available [here](slides/coreIR-queryRefinement-2020.pdf). The screencasts are split into three parts: [1](https://drive.google.com/open?id=1TdtkWSD4Ss5Uz8jVwv3zEBRa6J-JSYNP) [2](https://drive.google.com/open?id=1zQnHHX74Ue28yCbUlEaaLhvxRs0qKBX3) [3](https://drive.google.com/open?id=1O27DlZBa99LuCBzYDcXnSm6B_Yxn1Nqa) *They will remain online for about a week*.
+:bangbang: The 2019/2020 lecture slides in PDF format are available [here](slides/coreIR-queryRefinement-2020.pdf). The screencasts are split into three parts: [1](https://drive.google.com/open?id=1TdtkWSD4Ss5Uz8jVwv3zEBRa6J-JSYNP) [2](https://drive.google.com/open?id=1zQnHHX74Ue28yCbUlEaaLhvxRs0qKBX3) [3](https://drive.google.com/open?id=1O27DlZBa99LuCBzYDcXnSm6B_Yxn1Nqa). *They will remain online for about a week*.
 
 
 ### Recommended readings
@@ -138,13 +138,13 @@ Query refinement has many facets, we focused here mostly on pseudo-relevance fee
 
 This lecture is about personalization in search, with a glimpse of two classic hyperlink-based document ranking algorithms.
 
-The 2018/19 lectures slides (PDF) are already available [here](slides/coreIR-personalization.pdf). They will be updated to the 2019/20 edition after the lecture.
+:bangbang: The 2019/2020 lecture slides in PDF format are available [here](slides/coreIR-personalization-2020.pdf). The screencasts are split into four parts: [1](https://drive.google.com/open?id=1lL68YtJoQQVKWp7Z2ZedRMgojQp1AKfA) [2](https://drive.google.com/open?id=1qp3P5Kc5-cNxiA593M1_-6TXEwsb3Yfs) [3](https://drive.google.com/open?id=1m9eoyaR39nO54Z6g5C5uuEPhf2pZmSDv) [4](https://drive.google.com/open?id=1NkW5krwIXdm1balr1h2nKKqZmevy23kD). *They will remain online for about a week*.
 
 ### Recommended readings
 
-There is no specific list of recommended readings (beyond the ones linked at the bottom of most slides); no recent personalized search survey exists. However, a look at [Google Scholar](https://scholar.google.nl/) will show you many interesting papers (and patents) on the topic. 
+There is no specific list of recommended readings (beyond the ones linked at the bottom of most slides); no recent personalized search survey exists. However, a look at [Google Scholar](https://scholar.google.nl/) (query for *personalized search*) will show you many interesting and recent papers (as well as patents) on the topic. 
 
-However, it is worth pointing out a [survey on Adversarial Web Search](https://www.nowpublishers.com/article/Details/INR-021). It does not fit the brief of this lecture, but it covers a lot of ground showing how to combat adversary in web search.
+It is worth pointing out a [survey on Adversarial Web Search](https://www.nowpublishers.com/article/Details/INR-021). It does not fit the brief of this lecture, but it covers a lot of ground showing how to combat adversary in web search.
 
 ## Lecture 14: interactive IR (week 3.7)
 
