@@ -150,9 +150,9 @@ It is worth pointing out a [survey on Adversarial Web Search](https://www.nowpub
 
 This lecture covers interactive information retrieval, in particular the modeling of the search process. The lecture shows off our move towards predictive (mathematical) models and their usage to generate hypotheses which are then (in)validated in user experiments.
 
-*The lecture will be given by Dr. David Maxwell.*
+*This lecture is given by Dr. David Maxwell.*
 
-The 2018/19 lectures slides (PDF) are already available [here](slides/coreIR-interactiveIR.pdf). They will be updated to the 2019/20 edition after the lecture.
+:bangbang: The 2019/2020 lecture slides in PDF format are available [here](slides/coreIR-interactiveIR-2020.pdf). The screencasts are split into three parts: [1](https://drive.google.com/open?id=10gax4ai179VNOETUWsMAx8TaCkR6sl2_) [2](https://drive.google.com/open?id=11spL1t096_AiGxi_W3y9z-FcS7khVFLL) [3](https://drive.google.com/open?id=1yQAC97FFer656ZZUUF4QaTAj94KVwGZO). *They will remain online for about a week*.
 
 ### Recommended readings
 
