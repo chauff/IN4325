@@ -168,7 +168,7 @@ This lecture covers interactive information retrieval, in particular the modelin
 
 The lecture is concerned with learning to rank for IR (also known as LTR or L2R), a machine-learning approach towards the document ranking problem that can be applied to many other types of ranking problems as well.
 
-:bangbang: The 2019/2020 lecture slides in PDF format are available [here](slides/coreIR-L2R-2020.pdf). The screencasts are split into three parts: [1](https://drive.google.com/open?id=1p7ea5sXjoT_aMjbegsw3y0vZT9FB075S) [2](https://drive.google.com/open?id=1p7ea5sXjoT_aMjbegsw3y0vZT9FB075S) [3](https://drive.google.com/open?id=1WkvAQfq0dGITuuMgE4KKCigEH4mU3YC2). *They will remain online for about a week*.
+:bangbang: The 2019/2020 lecture slides in PDF format are available [here](slides/coreIR-L2R-2020.pdf). The screencasts are split into three parts: [1](https://drive.google.com/open?id=1p7ea5sXjoT_aMjbegsw3y0vZT9FB075S) [2](https://drive.google.com/open?id=1MX4XD48YytEZV7bRgsGAcSGxdDLHKt6V) [3](https://drive.google.com/open?id=1WkvAQfq0dGITuuMgE4KKCigEH4mU3YC2). *They will remain online for about a week*.
 
 ### Recommended readings
 
