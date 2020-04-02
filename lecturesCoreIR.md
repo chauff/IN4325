@@ -181,9 +181,10 @@ The lecture is concerned with learning to rank for IR (also known as LTR or L2R)
 
 This lecture provides an overview of recent developments in deep learning as they apply to IR. It builds upon the embeddings material introduced in the applied NLP part and discusses the basics of neural networks before focusing on IR-specific developments.
 
-*The lecture will be given by Arthur Câmara.*
+*The lecture is given by Arthur Câmara.*
 
-The 2018/19 lectures slides (PDF) are already available [here](slides/coreIR-neural.pdf). They will be updated to the 2019/20 edition after the lecture.
+:bangbang: The 2019/2020 lecture slides in PDF format are available [here](slides/coreIR-neural-2020.pdf). The screencasts are split into three parts: [1](https://drive.google.com/open?id=1Du55PTnbVx9hqjtk706k_hit4GzF7KtD) [2](https://drive.google.com/open?id=1x_SgEZX0KsqrElL-rDKO0X6vI31YukSe) [3](https://drive.google.com/open?id=1OvEzzVhPzqXM48bKaPccnUBjQ7zRCyLJ). *They will remain online for about a week*.
+
 
 ### Recommended readings
 
@@ -192,6 +193,8 @@ There are a number of deep learning courses that provide good insights (most pop
 - A 100+ page [introduction](https://www.microsoft.com/en-us/research/uploads/prod/2017/06/fntir2018-neuralir-mitra.pdf) to neural nets and neural IR models by Bhaskar Mitra and Nick Craswell.
 - An up-to-date [neural IR tutorial](http://nn4ir.com/ecir2018/) (in the form of elaborate slide decks) created by our colleagues at the University of Amsterdam, which has been given a few times by now at various IR conferences.
 - This [neural IR survey](https://link.springer.com/article/10.1007/s10791-017-9321-y) by Onal et al. is denser and requires more IR knowledge to make sense of it. It has a good overview of promising future directions.
+- [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) page offers an annotated (with code) walkthrough of the Transformer paper - the paper that makes BERT possible. And BERT has become **the** new mainstay of NLP/IR research.
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) is another good resource to better understand the Transformer paper.
 
 ## :warning: Paper P8 to review
 
