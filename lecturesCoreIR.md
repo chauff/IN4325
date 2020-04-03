@@ -195,6 +195,7 @@ There are a number of deep learning courses that provide good insights (most pop
 - This [neural IR survey](https://link.springer.com/article/10.1007/s10791-017-9321-y) by Onal et al. is denser and requires more IR knowledge to make sense of it. It has a good overview of promising future directions.
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) page offers an annotated (with code) walkthrough of the Transformer paper - the paper that makes BERT possible. And BERT has become **the** new mainstay of NLP/IR research.
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) is another good resource to better understand the Transformer paper.
+- [Embeddings in NaturalLanguage Processing](http://josecamachocollados.com/book_embNLP_draft.pdf) (free draft release in PDF format)
 
 ## :warning: Paper P8 to review
 
