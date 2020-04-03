@@ -174,7 +174,7 @@ The lecture is concerned with learning to rank for IR (also known as LTR or L2R)
 
 - The [Learning to Rank for IR tutorial](https://www.nowpublishers.com/article/Details/INR-016) by Tie-Yan Liu provides a global overview of many L2R approaches, and their underlying motivations and heuristics.
 - Major L2R algorithms have been implemented in TensorFlow, check out this [TF-Ranking GitHub repo](https://github.com/tensorflow/ranking) which contains a link to a tutorial recently given at SIGIR about the software (and L2R more generally).
-- Our colleagues at UvA (who run one of the premier IR labs in the world) do a lot of research on [online learning to rank](https://staff.fnwi.uva.nl/m.derijke/talks-etc/online-learning-to-rank-tutorial/).
+- Our colleagues at UvA (who run one of the premier IR labs in the world) do a lot of research on [online learning to rank](https://ilps.github.io/webconf2020-tutorial-unbiased-ltr/WWW2020handout.pdf) (tutorial held at WWW2020).
   
 ß
 ## Lecture 16: neural IR (week 3.8)
