@@ -14,22 +14,22 @@
   - [Recommended readings](#recommended-readings)
 - [Lecture 10: classic retrieval models (week 3.5)](#lecture-10-classic-retrieval-models-week-35)
   - [Recommended readings](#recommended-readings-1)
-- [:warning: Paper P5 to review](#warning-paper-p5-to-review)
+- [:warning: Paper P5 to review](#️-paper-p5-to-review)
 - [Lecture 11: indexing (week 3.6)](#lecture-11-indexing-week-36)
   - [Recommended readings](#recommended-readings-2)
 - [Lecture 12: query refinement (week 3.6)](#lecture-12-query-refinement-week-36)
   - [Recommended readings](#recommended-readings-3)
-- [:warning: Paper P6 to review](#warning-paper-p6-to-review)
+- [:warning: Paper P6 to review](#️-paper-p6-to-review)
 - [Lecture 13: personalization (week 3.7)](#lecture-13-personalization-week-37)
   - [Recommended readings](#recommended-readings-4)
 - [Lecture 14: interactive IR (week 3.7)](#lecture-14-interactive-ir-week-37)
   - [Recommended readings](#recommended-readings-5)
-- [:warning: Paper P7 to review](#warning-paper-p7-to-review)
+- [:warning: Paper P7 to review](#️-paper-p7-to-review)
 - [Lecture 15: learning to rank (week 3.8)](#lecture-15-learning-to-rank-week-38)
   - [Recommended readings](#recommended-readings-6)
 - [Lecture 16: neural IR (week 3.8)](#lecture-16-neural-ir-week-38)
   - [Recommended readings](#recommended-readings-7)
-- [:warning: Paper P8 to review](#warning-paper-p8-to-review)
+- [:warning: Paper P8 to review](#️-paper-p8-to-review)
 
 
 
@@ -138,7 +138,7 @@ Query refinement has many facets, we focused here mostly on pseudo-relevance fee
 
 This lecture is about personalization in search, with a glimpse of two classic hyperlink-based document ranking algorithms.
 
-:bangbang: The 2019/2020 lecture slides in PDF format are available [here](slides/coreIR-personalization-2020.pdf). The screencasts are split into four parts: [1](https://drive.google.com/open?id=1lL68YtJoQQVKWp7Z2ZedRMgojQp1AKfA) [2](https://drive.google.com/open?id=1qp3P5Kc5-cNxiA593M1_-6TXEwsb3Yfs) [3](https://drive.google.com/open?id=1m9eoyaR39nO54Z6g5C5uuEPhf2pZmSDv) [4](https://drive.google.com/open?id=1NkW5krwIXdm1balr1h2nKKqZmevy23kD). *They will remain online for about a week*.
+:bangbang: The 2019/2020 lecture slides in PDF format are available [here](slides/coreIR-personalization-2020.pdf). 
 
 ### Recommended readings
 
@@ -152,7 +152,7 @@ This lecture covers interactive information retrieval, in particular the modelin
 
 *This lecture is given by Dr. David Maxwell.*
 
-:bangbang: The 2019/2020 lecture slides in PDF format are available [here](slides/coreIR-interactiveIR-2020.pdf). The screencasts are split into three parts: [1](https://drive.google.com/open?id=10gax4ai179VNOETUWsMAx8TaCkR6sl2_) [2](https://drive.google.com/open?id=11spL1t096_AiGxi_W3y9z-FcS7khVFLL) [3](https://drive.google.com/open?id=1yQAC97FFer656ZZUUF4QaTAj94KVwGZO). *They will remain online for about a week*.
+:bangbang: The 2019/2020 lecture slides in PDF format are available [here](slides/coreIR-interactiveIR-2020.pdf).
 
 ### Recommended readings
 
@@ -168,7 +168,7 @@ This lecture covers interactive information retrieval, in particular the modelin
 
 The lecture is concerned with learning to rank for IR (also known as LTR or L2R), a machine-learning approach towards the document ranking problem that can be applied to many other types of ranking problems as well.
 
-:bangbang: The 2019/2020 lecture slides in PDF format are available [here](slides/coreIR-L2R-2020.pdf). The screencasts are split into three parts: [1](https://drive.google.com/open?id=1p7ea5sXjoT_aMjbegsw3y0vZT9FB075S) [2](https://drive.google.com/open?id=1MX4XD48YytEZV7bRgsGAcSGxdDLHKt6V) [3](https://drive.google.com/open?id=1WkvAQfq0dGITuuMgE4KKCigEH4mU3YC2). *They will remain online for about a week*.
+:bangbang: The 2019/2020 lecture slides in PDF format are available [here](slides/coreIR-L2R-2020.pdf). 
 
 ### Recommended readings
 
@@ -182,7 +182,7 @@ This lecture provides an overview of recent developments in deep learning as the
 
 *The lecture is given by Arthur Câmara.*
 
-:bangbang: The 2019/2020 lecture slides in PDF format are available [here](slides/coreIR-neural-2020.pdf). The screencasts are split into three parts: [1](https://drive.google.com/open?id=1Du55PTnbVx9hqjtk706k_hit4GzF7KtD) [2](https://drive.google.com/open?id=1x_SgEZX0KsqrElL-rDKO0X6vI31YukSe) [3](https://drive.google.com/open?id=1OvEzzVhPzqXM48bKaPccnUBjQ7zRCyLJ). *They will remain online for about a week*.
+:bangbang: The 2019/2020 lecture slides in PDF format are available [here](slides/coreIR-neural-2020.pdf). 
 
 
 ### Recommended readings
