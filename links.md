@@ -1,0 +1,1 @@
+- [Lecture 1 2021/22](https://docs.google.com/presentation/d/10_RuZKsd_EcjyiBiedCk1pm3yEpvd2g4lP116Hd1lQw/edit?usp=sharing)
